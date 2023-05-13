@@ -1,0 +1,1636 @@
+00:00:00:00 - 00:00:05:15
+Speaker 1
+Okay, we are on. Let's go.
+
+00:00:05:15 - 00:00:24:19
+Speaker 1
+Welcome to another episode of the OoruLabs podcast from Bengaluru. Ever complain how bad our cities are? How bad your commute is? You will get to hear from people who are working to solve these problems in their own way. This is your weekly soapbox for Urban Sustainability. So do not forget to subscribe and share this video.
+
+00:00:24:21 - 00:00:47:21
+Speaker 1
+I am Sathya Sankaran And with me is Knerav Kodolikar. Before we introduce our guest of the day do check out the newly launched website. podcast.oorulabs.com. So we just put the entire video podcast library over there, and the profiles of the guests are also there for you to peruse and start browsing through and start looking at things. So let's get on with the show today.
+
+00:00:47:23 - 00:01:08:13
+Speaker 1
+We have Amit Gupta, the co-founder and CEO of Yulu, one of India's earliest and largest Shared mobility operator. I've known them for a long time since they started. He is a serial entrepreneur, having run a hugely successful Inmobi before founding Yulu We're going to be speaking about Micromobility with him today. Welcome to the show Amit.
+
+00:01:08:13 - 00:01:13:20
+Speaker 2
+Thank you, sir. They are. Thank you. Once again. And thank you Knerav for having me here on
+
+00:01:13:20 - 00:01:28:06
+Speaker 1
+the Micromobility market is fairly new, right? I mean, it's been in the talk since I probably you are one of the few early guys who started in this whole space and started tackling this head on with the different form factors. Why don't you
+
+00:01:28:06 - 00:01:31:17
+Speaker 1
+tell us what Micromobility is in its definition?
+
+00:01:31:17 - 00:01:36:10
+Speaker 1
+And the big question of the day is micromobility going to survive in India?
+
+00:01:36:10 - 00:01:44:05
+Speaker 2
+So very good questions Sathya. If you look at our journey of moving people, especially in the urban context or the cities,
+
+00:01:44:05 - 00:01:48:12
+Speaker 2
+people are using their own vehicles and we used to call an automobile as a category
+
+00:01:48:12 - 00:01:56:06
+Speaker 2
+and then there was a world view that this whole ownership should become mobility as a service. And that sort of mobility term was coined
+
+00:01:56:06 - 00:01:57:19
+Speaker 2
+and became so powerful.
+
+00:01:57:19 - 00:02:04:03
+Speaker 2
+Now. But with all the developments across technology, user behavior, etc.,
+
+00:02:04:03 - 00:02:08:14
+Speaker 2
+in fact even large company called themselves A mobility company. They don't call them as an automobile company.
+
+00:02:08:14 - 00:02:10:14
+Speaker 2
+But then now we saw that how
+
+00:02:10:14 - 00:02:17:15
+Speaker 2
+Uber Ola Didi lived across the globe this phenomenal moving people have in some car
+
+00:02:17:15 - 00:02:20:02
+Speaker 2
+from point A to point B, So that started growing
+
+00:02:20:02 - 00:02:22:21
+Speaker 2
+thanks to a lot of venture capital money
+
+00:02:22:21 - 00:02:25:08
+Speaker 2
+and a lot of incentives to driver.
+
+00:02:25:08 - 00:02:30:03
+Speaker 2
+And and that and the right of good people to have a good time.
+
+00:02:30:03 - 00:02:31:20
+Speaker 2
+And the almost
+
+00:02:31:20 - 00:02:46:11
+Speaker 2
+took that as a great product market fit where people were finding cheaper rides they were making a lot of money and we started seeing a lot of movement from personal vehicles to so-called share pickup, which was nothing but the taxis riding on
+
+00:02:46:11 - 00:02:47:13
+Speaker 2
+fast forward that
+
+00:02:47:13 - 00:02:52:13
+Speaker 2
+we basically found that, you know, those solution did not solve our problem.
+
+00:02:52:13 - 00:02:53:07
+Speaker 2
+First of all,
+
+00:02:53:07 - 00:02:55:19
+Speaker 2
+the real service cost is much higher than what
+
+00:02:55:19 - 00:03:00:18
+Speaker 2
+consumers were paying. Second, global cities are not designed. They don't have space.
+
+00:03:00:18 - 00:03:06:01
+Speaker 2
+Forget India, maybe have a with limited road infrastructure of the population,
+
+00:03:06:01 - 00:03:13:14
+Speaker 2
+but even big cities where a lot of this business happens. London, New York, San Francisco you name any big city even they are clogged.
+
+00:03:13:16 - 00:03:18:08
+Speaker 2
+So these cars are that you're not placing they're not thinking of the traffic,
+
+00:03:18:08 - 00:03:21:02
+Speaker 2
+just basically that is a driver who is taking you on.
+
+00:03:21:02 - 00:03:25:05
+Speaker 2
+very quickly, people realize that this is not a sustainable solution for
+
+00:03:25:05 - 00:03:26:13
+Speaker 2
+of mobility.
+
+00:03:26:13 - 00:03:32:17
+Speaker 2
+And the only way you can move millions of millions of people is through public transportation.
+
+00:03:32:17 - 00:03:37:21
+Speaker 2
+you have a spine of metro busses.
+
+00:03:37:23 - 00:03:57:09
+Speaker 2
+Car pool, I'm a big fan of that. So the idea is only limited among the road space. How do you pack so many people at the same road space and move them efficiently. And this saves not only time, but also precious money? Because if it is a group mobility, as you know that, you know, you could have economies of scale and everyone wins.
+
+00:03:57:11 - 00:04:05:10
+Speaker 2
+So consumers pays less money. The operator makes money and environment also happens and everything is that you just wait.
+
+00:04:05:10 - 00:04:09:12
+Speaker 2
+the key question is that public transport cannot start from my home. Unfortunately.
+
+00:04:09:12 - 00:04:21:16
+Speaker 2
+So how do you get to the station? or landing point And same thing will happen at the other station and that's where there was a need of some some mobility solution
+
+00:04:21:16 - 00:04:25:12
+Speaker 2
+which can move people up for a short distance in an efficient way.
+
+00:04:25:14 - 00:04:28:03
+Speaker 2
+And that's why this whole word was coined
+
+00:04:28:03 - 00:04:33:20
+Speaker 2
+in the name of micro mobility and as per my understanding, Micro is actually it's a small
+
+00:04:33:20 - 00:04:38:01
+Speaker 2
+vehicle form factor, small a choice because making it like a bus.
+
+00:04:38:01 - 00:04:48:23
+Speaker 2
+Yeah, bus cannot come from your same problem and also shorter distance and almost like a concept, which is what they just said main spine.
+
+00:04:49:01 - 00:04:53:22
+Speaker 2
+And you unable to come to those points using a small vehicle which are even
+
+00:04:53:22 - 00:05:07:12
+Speaker 2
+and to make things better. You know, all my mobility was also kind of slim mobility or sustainable mobility vehicles which are not running on ice as an engine. So
+
+00:05:07:12 - 00:05:22:15
+Speaker 2
+Micro-mobility was my definition of mobility as a service which is using small form factors and running for short distances and also running far more sustainably the way in what should be done for future.
+
+00:05:22:15 - 00:05:29:03
+Speaker 2
+So so this is how I look at Micro-mobility. Now question. Now, you know, what about the second question?
+
+00:05:29:03 - 00:05:43:08
+Speaker 2
+Do you what How do I see future of Micromobility in countries like India? I think it is not just wish. It is actually a requirement because our country cannot run on cars even that give everyone free car.
+
+00:05:43:08 - 00:05:45:14
+Speaker 2
+You know, we don't have road space.
+
+00:05:45:16 - 00:05:49:20
+Speaker 2
+So answer has to be a great public transportation
+
+00:05:49:20 - 00:06:01:18
+Speaker 2
+very deeply. With Micro-mobility you make it so frictionless and this friction has to be removed not just technologically, because that is an easy one you can integrate 2 apps, but also from an infrastructure perspective.
+
+00:06:01:18 - 00:06:04:11
+Speaker 2
+So if I am, let's say, using an e-rickshaw
+
+00:06:04:11 - 00:06:06:08
+Speaker 2
+in the context of this and north India,
+
+00:06:06:08 - 00:06:09:02
+Speaker 2
+then you need to provide some way where they can land,
+
+00:06:09:02 - 00:06:15:20
+Speaker 2
+you know, the riders can board and they can also be dropped off efficiently or service like.
+
+00:06:15:20 - 00:06:36:10
+Speaker 2
+You look where you need. This is some small little parking space where people can drop the bike and someone else can pick it up. So this whole rotation of elevators can happen. So technology and also the infrastructure. And the last but not least, it is also economy of scale. But because of my constituency, business also saves money,
+
+00:06:36:10 - 00:06:38:06
+Speaker 2
+which means to single
+
+00:06:38:06 - 00:06:42:21
+Speaker 2
+pricing bundle where user have access to everything what the need to.
+
+00:06:42:23 - 00:06:45:01
+Speaker 2
+I think this probably is the winning formula
+
+00:06:45:01 - 00:06:47:01
+Speaker 2
+in the context of all countries.
+
+00:06:47:01 - 00:07:18:09
+Speaker 3
+you know I just wanted to pick up on this definition of micro mobility. And just to summarize, you can correct me if I'm wrong. So it's the micro form factor mobility that's primarily for the first and last mile transport. Amit would you say this definition is sort of held as a standard across the country. How the government sort of authorities look at this definition on and does it make a difference if it is a small if it has an electric component to it or whether it's a pedal powered bicycle?
+
+00:07:18:09 - 00:07:20:12
+Speaker 3
+Is it the same for the two?
+
+00:07:20:12 - 00:07:32:08
+Speaker 2
+My my understanding is and actually my other recommendation is that we should not bind that, that some if then else. it's the best they're using kick scoter
+
+00:07:32:08 - 00:07:40:23
+Speaker 2
+so they can say oh micro-mobility means that standing scooter running at this. But no, that form factor is not applicable to India
+
+00:07:40:23 - 00:07:46:03
+Speaker 2
+the kick scooter. Ive not seen, first of all, it's a good thing we don't have infrastructure to do right.
+
+00:07:46:03 - 00:08:06:22
+Speaker 2
+And I think we should take that. This is the essence. Was that how do you make movement of people efficient? And I think that's a small step. How do you make movement of people efficient for public transportation, their daily use case? And then I would not even limited be I don't want to be limiting ourself to first mile last mile.
+
+00:08:07:00 - 00:08:26:20
+Speaker 2
+It can be near mile in my my definition so short distance short form factor which can come very close to your place of what we should at the station and just commercially viable and even electric by the way, is not a forced requirement. What I was saying that if you're building something for future,
+
+00:08:26:20 - 00:08:27:07
+Speaker 2
+you
+
+00:08:27:07 - 00:08:29:05
+Speaker 2
+also try to make things right.
+
+00:08:29:05 - 00:08:52:21
+Speaker 2
+You should not go back ten years ago when we were using petroleum diesels so that was the essence and to your point, nowadays, not efficient. There's no dictionary definition or anything like that. It is a process of the concept which each and every country and cities for that matter can take and they can see for me this is where the short distance commute actually can be used
+
+00:08:52:21 - 00:08:54:21
+Speaker 2
+And these are the form factors which one choose
+
+00:08:54:21 - 00:09:11:00
+Speaker 2
+And it is not limited to a two wheeler. You know, you can always use three wheeler for that matter four wheeler as long as it is the need to make this integrated mobility possible in a frictionless and efficient manner. But I think everything is allowed and should be allowed
+
+00:09:11:00 - 00:09:12:23
+Speaker 2
+from policy perspective.
+
+00:09:12:23 - 00:09:20:02
+Speaker 1
+if I understand micro is not the shape or the size, it is the distance, in your opinion that is mostly density.
+
+00:09:20:07 - 00:09:45:04
+Speaker 2
+So the shape or so, but you know, shape the size and the reason is too big, then they have the same problem accessibility. So it's, you know, imagine that the school bus, if you know a large school bus, one school bus has to take everyone from home, then the kid who is starting first is actually spending. One hour. Versus is a small van which is taking fewer kids.
+
+00:09:45:10 - 00:10:01:21
+Speaker 2
+So that is the element because time everyone values time and no one wants to just be in the taxi. Being the bus to cover 1 to 2 kilometers for half an hour. It's not fun. So you break it down into smaller packs so that everyone can move efficiently. So that is.
+
+00:10:02:00 - 00:10:11:13
+Speaker 1
+So, yeah. So it is the size of the vehicle that is one of the major constraint in major different parameters for if I get income, mobility.
+
+00:10:11:17 - 00:10:13:17
+Speaker 2
+If someone wants to define it.
+
+00:10:13:19 - 00:10:19:22
+Speaker 1
+Yeah. And it and you're saying it need not even be short distance. It could go a long distance is what you're saying.
+
+00:10:19:22 - 00:10:50:02
+Speaker 2
+You think it should be short distance because if it's a long distance, then your commercial viability will not be will be true. So you have to optimize for distance and and the viability part. But because for long distance you should use metro and bus if you have access to. So that is ideal. But I was saying that it should not be tied, with first mile last mile because if I live in Koramangala and I need to go to be BTM layout, yeah, there is no metro train yet.
+
+00:10:50:02 - 00:11:18:00
+Speaker 2
+I should be able to use it. And even if there's a metro train for me to go to Metro train enter exit, like in Singapore. Yeah. Good network of Metro Train, but sometimes it is not good because you just spend too much time so that you can use a vehicle which is A to B. You can be fast, you can be more efficient let the metro train be used by people who are, you know, running for long in despite all these fine, so let to space.
+
+00:11:18:02 - 00:11:28:15
+Speaker 2
+And that's why, you know, if you look at very popular cities which are having a downtown concept in London so a lot of people they can't even enter, like Mumbai
+
+00:11:28:15 - 00:11:31:17
+Speaker 2
+you cannot enter a local local train
+
+00:11:31:17 - 00:11:35:17
+Speaker 2
+know even the other impossible because a train coming from the back is fully flooded.
+
+00:11:35:17 - 00:11:44:11
+Speaker 2
+So if someone has to go from a worli station to, let's say a little bit further Prabha devi further you cannot use it because everything is full.
+
+00:11:44:17 - 00:11:56:04
+Speaker 2
+So let it be foot and you basically use a short distance commute without getting the hassle of public transportation because it's already flooded with people. So that is basically the order.
+
+00:11:56:04 - 00:12:00:21
+Speaker 1
+You're coming to the last mile. It is also one of the categories that is widely
+
+00:12:00:21 - 00:12:11:03
+Speaker 1
+a use case for Micro-mobility as well. Right. If you get off the metro, it is not going to come so last mile. While you say that it is not restricted last mile. There is a market in last mile as well, right?
+
+00:12:11:03 - 00:12:26:19
+Speaker 2
+Yeah, in fact all the cities where there's a micromobility service, they talk about almost 60 - 70 % users coming from first mile last mile. because that is one of the most obvious use case and I think that's how it should be seen.
+
+00:12:26:19 - 00:12:46:14
+Speaker 1
+But what are the challenges in that? Because public transport, adoption, other than a few large cities like Mumbai, there's a culture of public transport in some cities Mumbai, for example, Chennai, Bangalore, but some others don't have that. If you take Delhi its there now it's coming up So large cities now are embarking on the whole public transportation journey. But still there is.
+
+00:12:46:16 - 00:13:15:15
+Speaker 1
+Do you feel there is a hesitancy in adoption of Micro-mobility service by passengers will come to the actual physical infrastructure, which makes it difficult for you to deploy seamlessly, but from a users public transport users perspective, do you see there is any mind road block still with regards to things like Micro-mobility looking at that vehicle, will they plonk themselves on it and go, What do you see?
+
+00:13:15:17 - 00:13:21:09
+Speaker 2
+So I think for something to happen, either there's a economic incentive,
+
+00:13:21:09 - 00:13:22:20
+Speaker 2
+other incentive on the time
+
+00:13:22:20 - 00:13:41:04
+Speaker 2
+of saving all the time or you know, there's an economic incentive or disincentive as a package. Now let's look at cities like New Delhi or Gurgaon in particular. So Gurgaon of late has one of the most wonderful road network underpasses and things like that.
+
+00:13:41:06 - 00:14:07:23
+Speaker 2
+And people in general are reasonably affluent, so which means they can actually afford to have car and if there's no road jam they will say, okay, ditch. who cares, who will go to Metro and use my car for my home park it at my office because they've given me free car parking Ill utilize that. But now imagine the time distance which in this changing with this a lot of time taken, everything is clogged then.
+
+00:14:07:23 - 00:14:14:15
+Speaker 2
+Okay, If I need to go to reach my office in 15 minutes, I should rather take Metro versus my car, which would take one hour
+
+00:14:14:15 - 00:14:34:07
+Speaker 2
+or cities again in there. It's not there yet, but they have a congestion charges in the CBD area. So it is criminal, almost criminal. A lot of money is required for you to go to a in Zone 1 in London or for that matter in Singapore CBD area.
+
+00:14:34:09 - 00:14:56:05
+Speaker 2
+I'm just referring these two cities that they have a very, very good use case of public transportation. So if you are entering you pay me like ₹200 then there's a disincentive of parking is very expensive, but there's no disincentive for me I would never move to because my convenience is, is everything. So if and who are the people who are clogging the road?
+
+00:14:56:05 - 00:15:20:06
+Speaker 2
+It's actually the personal car owners, unfortunately. And they don't care about money. The only thing which will ding them is either money or your disincentivize them. So I think everything has to come in, in, in totality where you we promote policies, infrastructure related to ease of doing micro-mobility or using micro-mobility but at the same time also have some disincentives.
+
+00:15:20:06 - 00:15:23:09
+Speaker 2
+But this for the users who are just,
+
+00:15:23:09 - 00:15:29:11
+Speaker 2
+you know, just using the mindlessly, this is one person in one car. Yeah. You want to take car at least do carpool
+
+00:15:29:11 - 00:15:31:22
+Speaker 2
+So you are taking disproportionate amount of space,
+
+00:15:31:22 - 00:15:57:02
+Speaker 2
+which is not right. And I think that's what is causing us a lot of stress and the issues. So to summarize my point, once again, both policy, which is promoting mobility and this is related to making things cheaper, accessible and remove all of the frictions from technology and perspective and then at the same time also have some practical
+
+00:15:57:02 - 00:16:00:02
+Speaker 2
+imagine that even odd rule Delhi implemented
+
+00:16:00:02 - 00:16:01:17
+Speaker 2
+if it is being implemented again,
+
+00:16:01:17 - 00:16:02:10
+Speaker 2
+what do you think
+
+00:16:02:12 - 00:16:04:13
+Speaker 2
+people are gonna do? They want to use public transportation
+
+00:16:04:13 - 00:16:06:00
+Speaker 2
+because they have to reach office,
+
+00:16:06:00 - 00:16:23:23
+Speaker 2
+earlier we did not have good public transportation that's why even odd rule came they had to take it back. But same thing happened in China where they implemented this for first time even and odd. But before implementing that they had created a backbone of public transportation.
+
+00:16:24:01 - 00:16:32:01
+Speaker 2
+Those people have to go to office. They need to go to places of work. You cannot say that oh because I have this problem, you dont go to work, no
+
+00:16:32:01 - 00:16:34:10
+Speaker 2
+you have to let economic activity happen,
+
+00:16:34:10 - 00:16:47:20
+Speaker 2
+need to move people to give them an option and then start, you know, tightening this, nuts too to make sure that people are not using their personal vehicle without those companies.
+
+00:16:47:20 - 00:17:21:03
+Speaker 1
+So there is a strong case for disincentivization, but that's a strategic thing that the government needs to feel is politically convenient to push through it. It is not yet in the Overton window of popularity yet it might take a little longer to get. But during that time, on the incentivization side, there are two people who can play the market itself, offering monetary incentives and whatever you can do from your side to make it more attractive, which obviously brings into play the actual public transport agencies.
+
+00:17:21:04 - 00:17:55:09
+Speaker 1
+They are mostly government right now. Yeah, and they what is their prevailing mindset in integrating with micro? Because I have always maintained in my earlier podcast also that the last mile should be a part should be the responsibility of the mainline modes to say that, okay, here is the trunk and these are my limbs And if I don't encourage or actively seek integration, I because I'll never be able to compete with the private vehicle to treat because I've heard from many people, they're treating us as competition.
+
+00:17:55:09 - 00:18:23:18
+Speaker 1
+They think we steal the traffic. How do you see what would you much rather see the public transport agencies do? Because one of the things I've been asking is, why don't you work with what are those roadblocks? What do you think? What is your wish list for public transport agencies to start looking at you as an ally in completing the trip to the home to the doorstep because you can't drop them somewhere in the middle of the boondocks and to make your own way home, nobody's going to come back to your.
+
+00:18:23:18 - 00:18:41:15
+Speaker 2
+very, very good point then I kind of tend to agree with you. What is the roadblock here? I think the answer for that, Sathya I think every city needs to think like an RBI or NPCI equivalent where the
+
+00:18:41:15 - 00:18:49:14
+Speaker 2
+they should be enabler, they should create the rails, the common infrastructure, and then there should be a watchdog who is making sure that people are
+
+00:18:49:14 - 00:18:52:19
+Speaker 2
+running the show per the right playbook.
+
+00:18:52:19 - 00:18:54:02
+Speaker 2
+So imagine the,
+
+00:18:54:02 - 00:19:01:10
+Speaker 2
+Let say Bangalore we have a great or very, very good network of metro now and increasing to make a radius
+
+00:19:01:10 - 00:19:11:18
+Speaker 2
+and they can be an integrated body oversees. So we do have DULT as you know but you actually need to empower more and I agree with you that you cannot
+
+00:19:11:18 - 00:19:14:15
+Speaker 2
+as a government, you should not try to do everything on the
+
+00:19:14:15 - 00:19:15:00
+Speaker 2
+own
+
+00:19:15:00 - 00:19:16:06
+Speaker 2
+So there are services which
+
+00:19:16:06 - 00:19:18:20
+Speaker 2
+can be done far more efficiently by private players
+
+00:19:18:20 - 00:19:21:08
+Speaker 2
+because they can be far more nimble
+
+00:19:21:08 - 00:19:23:15
+Speaker 2
+because of the market pressures and competition
+
+00:19:23:15 - 00:19:27:09
+Speaker 2
+will win in terms of quality of the service coverage and the price
+
+00:19:27:09 - 00:19:28:20
+Speaker 2
+But if it is a monopoly body,
+
+00:19:28:20 - 00:19:32:23
+Speaker 2
+yeah, you can give it cheaper, but the quality of service would not be there.
+
+00:19:32:23 - 00:19:33:22
+Speaker 2
+the challenge is
+
+00:19:33:22 - 00:19:35:23
+Speaker 2
+there's a lot of large section of society,
+
+00:19:35:23 - 00:19:38:04
+Speaker 2
+you know, for them, cheap is not good enough.
+
+00:19:38:04 - 00:19:39:01
+Speaker 2
+They also need,
+
+00:19:39:01 - 00:19:41:01
+Speaker 2
+a good service and they're willing to pay.
+
+00:19:41:01 - 00:19:45:16
+Speaker 2
+But there's no option for me to take today to pay. For example, if I need to do public transportation,
+
+00:19:45:16 - 00:19:46:07
+Speaker 2
+I want
+
+00:19:46:07 - 00:19:50:11
+Speaker 2
+a little bit more comfortable space so that I can work, I can be productive for half an hour.
+
+00:19:50:11 - 00:19:53:20
+Speaker 2
+But if there's nothing, I call an Uber and say, okay, please take me there
+
+00:19:53:20 - 00:19:55:16
+Speaker 2
+And I think this is what
+
+00:19:55:16 - 00:19:56:18
+Speaker 2
+we need to solve.
+
+00:19:57:08 - 00:20:03:03
+Speaker 2
+just like UPI, they said, okay, one day you can you have your own UPI app I have I have my my BHIM app
+
+00:20:03:03 - 00:20:07:16
+Speaker 2
+but Phonepe Google pay PayTM You only can create a beautiful experience.
+
+00:20:07:16 - 00:20:09:05
+Speaker 2
+And let customer choose what they want,
+
+00:20:09:05 - 00:20:13:09
+Speaker 2
+they all writing on the same spine of the trunk of the common mobility framework.
+
+00:20:13:09 - 00:20:21:14
+Speaker 2
+You can force them to to be on one platform. So that is a real time available information, accessibility information.
+
+00:20:21:14 - 00:20:29:11
+Speaker 2
+I think this is how we have to start thinking. I know this a vision we talk about common mobility card with the same vision. We talk about many things.
+
+00:20:29:11 - 00:20:37:09
+Speaker 2
+But just because mobility is a state subject and it becomes a city subject and then, you know, the complication in our world
+
+00:20:37:09 - 00:20:40:17
+Speaker 2
+in our country so we are not able to move forward
+
+00:20:40:17 - 00:20:44:18
+Speaker 2
+the places they have got an integrated body, fully empowered, like TfL
+
+00:20:44:18 - 00:20:45:19
+Speaker 2
+are in Singapore.
+
+00:20:45:19 - 00:20:47:18
+Speaker 2
+There is a body of LTA
+
+00:20:47:18 - 00:20:48:22
+Speaker 2
+but they only
+
+00:20:48:22 - 00:20:51:08
+Speaker 2
+bear the responsibility to move.
+
+00:20:51:08 - 00:20:53:22
+Speaker 2
+And how modes etc.
+
+00:20:53:22 - 00:21:01:16
+Speaker 2
+They basically are very open for that. I am not saying that they have started the private public partnership, but but the thinking in this is this has to be seen.
+
+00:21:01:16 - 00:21:04:09
+Speaker 2
+I also must acknowledge that
+
+00:21:04:09 - 00:21:07:15
+Speaker 2
+despite the having so much of operational challenges,
+
+00:21:07:15 - 00:21:08:13
+Speaker 2
+I think our
+
+00:21:08:13 - 00:21:10:21
+Speaker 2
+public transportation authority has been very forthcoming.
+
+00:21:10:21 - 00:21:12:07
+Speaker 2
+That you look, for example,
+
+00:21:12:07 - 00:21:14:06
+Speaker 2
+has been getting cooperation from day one
+
+00:21:14:06 - 00:21:17:23
+Speaker 2
+from Delhi Metro. Bangalore Metro they have given us spaces
+
+00:21:17:23 - 00:21:23:03
+Speaker 2
+kind of it did not happen by chance because they are really willing to do that. That could happen.
+
+00:21:23:03 - 00:21:23:17
+Speaker 2
+But I think
+
+00:21:23:17 - 00:21:31:18
+Speaker 2
+if we can do something on the track more where there is a bit more participation from public, as I said, private players
+
+00:21:31:18 - 00:21:36:23
+Speaker 2
+who have been given a service quality and you can put some mandates that if you don't
+
+00:21:36:23 - 00:21:37:21
+Speaker 2
+pass this,
+
+00:21:37:21 - 00:21:39:06
+Speaker 2
+your service will be blacklisted
+
+00:21:39:06 - 00:21:40:14
+Speaker 2
+and then market forces
+
+00:21:40:14 - 00:21:43:15
+Speaker 2
+will basically make sure that the customer service people prove it.
+
+00:21:43:15 - 00:21:45:06
+Speaker 2
+And what is this friction is removed.
+
+00:21:45:06 - 00:21:48:15
+Speaker 2
+Then I see. no reason like Mumbai, when I was living there for almost two years,
+
+00:21:48:15 - 00:21:52:05
+Speaker 2
+many times I will I can use local train,
+
+00:21:52:05 - 00:21:55:07
+Speaker 2
+especially when I'm going, you know, for the more than Bandra
+
+00:21:55:07 - 00:21:57:04
+Speaker 2
+I know it impossible for to
+
+00:21:57:04 - 00:21:58:04
+Speaker 2
+and despite of
+
+00:21:58:04 - 00:22:02:02
+Speaker 2
+all the all out of inconvenience, I still go there. But imagine, though
+
+00:22:02:02 - 00:22:03:14
+Speaker 2
+the cradle of mine is
+
+00:22:03:14 - 00:22:04:06
+Speaker 2
+more convenient.
+
+00:22:04:07 - 00:22:09:02
+Speaker 2
+It lives in metro doing a good job and I'm not going to drive. I don't like
+
+00:22:09:02 - 00:22:18:22
+Speaker 2
+I'm far better, productive, peaceful If I am basically in a public transport and moving very fast and so there's no reason for me to not use it.
+
+00:22:18:22 - 00:22:20:07
+Speaker 2
+So I know. So
+
+00:22:20:07 - 00:22:22:18
+Speaker 2
+it's kind of a wishful thinking, looking at
+
+00:22:22:18 - 00:22:26:04
+Speaker 2
+demand and supply and other stuff in this country.
+
+00:22:26:04 - 00:22:30:07
+Speaker 2
+But we have fixed infrastructure for the I guess
+
+00:22:30:07 - 00:22:33:22
+Speaker 2
+our our cities are now closer because of
+
+00:22:33:22 - 00:22:36:03
+Speaker 2
+a very exceptionally good highway system.
+
+00:22:36:03 - 00:22:37:00
+Speaker 2
+I think same
+
+00:22:37:00 - 00:22:42:02
+Speaker 2
+amount of focus and rigour needs to happen in the intra city as well
+
+00:22:42:02 - 00:22:45:04
+Speaker 2
+it is possible, but requires a little bit more grit
+
+00:22:45:04 - 00:22:47:16
+Speaker 2
+maybe a little bit more top down approach. Push
+
+00:22:47:16 - 00:22:50:10
+Speaker 2
+with some of these things can be pushed and pushed
+
+00:22:50:10 - 00:22:53:07
+Speaker 2
+the cities are not taking short term decisions
+
+00:22:53:07 - 00:22:55:06
+Speaker 2
+some time in the name of,
+
+00:22:55:06 - 00:22:58:23
+Speaker 2
+not thinking of section of society and things of that.
+
+00:22:59:01 - 00:23:00:03
+Speaker 2
+But people are worried.
+
+00:23:00:03 - 00:23:01:23
+Speaker 2
+our political system is ensuring that
+
+00:23:01:23 - 00:23:03:01
+Speaker 2
+jantas dictate
+
+00:23:03:01 - 00:23:11:15
+Speaker 2
+something. That Janta you know, forces them to take a wrong decision, which is populist nature. So they don't want to do that. But sometimes
+
+00:23:11:15 - 00:23:13:09
+Speaker 2
+you still have to fix things
+
+00:23:13:09 - 00:23:15:10
+Speaker 2
+they section of society to be happy,
+
+00:23:15:10 - 00:23:16:09
+Speaker 2
+like in Paris
+
+00:23:16:09 - 00:23:17:14
+Speaker 2
+the new mayor who came
+
+00:23:17:14 - 00:23:21:06
+Speaker 2
+be, she basically blocked one car lane altogether
+
+00:23:21:06 - 00:23:23:06
+Speaker 2
+They took off 10,000 car parking
+
+00:23:23:06 - 00:23:24:23
+Speaker 2
+a section. Society was very unhappy
+
+00:23:24:23 - 00:23:25:16
+Speaker 2
+but
+
+00:23:25:16 - 00:23:26:06
+Speaker 2
+whatever.
+
+00:23:26:06 - 00:23:27:12
+Speaker 2
+Same thing happening in London.
+
+00:23:27:12 - 00:23:36:11
+Speaker 2
+So the mayor is taking away of a lot of car spaces, giving it to the smaller form factors so that more people can move faster and more efficient.
+
+00:23:36:11 - 00:23:43:05
+Speaker 3
+So Amit moving away a little bit from the public transit side of things, for the viewers listening and watching
+
+00:23:43:05 - 00:23:49:10
+Speaker 3
+back in 2019, Amit was very kind in helping me with my undergrad thesis
+
+00:23:49:10 - 00:23:54:12
+Speaker 3
+on the barriers to the implementation of public bicycle sharing in the city of Bangalore.
+
+00:23:54:12 - 00:23:58:17
+Speaker 3
+So Amit. I have to ask, and as an avid cyclist myself,
+
+00:23:58:17 - 00:24:04:18
+Speaker 3
+I see that Yulu has pivoted towards electric micro mobility in the past few years.
+
+00:24:04:20 - 00:24:18:04
+Speaker 3
+Is there any particular reason that the bicycle as mode of transit for first and last mile mobility did not take off and there was a few learnings from that exercise?
+
+00:24:18:04 - 00:24:21:18
+Speaker 2
+So Knerav not just so you are right
+
+00:24:21:18 - 00:24:25:12
+Speaker 2
+I think as a bicycle or I would say pedal
+
+00:24:25:12 - 00:24:27:23
+Speaker 2
+or the human driven pedal cycle
+
+00:24:27:23 - 00:24:35:05
+Speaker 2
+as the format of being in densities. That was
+
+00:24:35:05 - 00:24:44:08
+Speaker 2
+we found it very difficult, not just India, but also I look at this like Japan, even European countries, America,
+
+00:24:44:08 - 00:24:45:21
+Speaker 2
+most of the places,
+
+00:24:45:21 - 00:24:51:23
+Speaker 2
+but the purpose of short commute, the bicycle, the regular bicycle actually has not.
+
+00:24:51:23 - 00:24:54:17
+Speaker 2
+And the reasons are as follows. First of all,
+
+00:24:54:17 - 00:25:13:18
+Speaker 2
+and by the way, when I'm making these statements, I'm making this a statement for shared bicycle. I'm not talking bicycle, you and I use. So I talk about that in a moment, but then I'm running it as a bicycle, as a service that would challenge challenges. Companies like Yulu have faced.
+
+00:25:13:20 - 00:25:32:21
+Speaker 2
+So first thing, first of many cities like Tokyo with the average last mile is only one kilometer. They don't let any building to come. It is no metro Our last mile is almost three and half kilometer our first mile is almost 4.5 to 5 kilometers.
+
+00:25:32:21 - 00:25:34:15
+Speaker 2
+And both of you are cyclist
+
+00:25:34:15 - 00:25:35:11
+Speaker 2
+you understand that?
+
+00:25:35:11 - 00:25:38:01
+Speaker 2
+What does it take for you to ride that level of distance,
+
+00:25:38:01 - 00:25:39:14
+Speaker 2
+especially when you're going for work
+
+00:25:39:14 - 00:25:42:06
+Speaker 2
+and our workspaces are not good for our
+
+00:25:42:06 - 00:25:45:01
+Speaker 2
+our cities are still figuring out there's a lot of dust.
+
+00:25:45:05 - 00:26:10:02
+Speaker 2
+So you know the operational challenges and we launched, Yulu, in 2018, January with bicycles, huge excitement. People were very happy of click of a button bicycle open and you can take it anywhere. So we are very happy, you jumping with joy. But after two months, we started seeing the drilling down on numbers, by the way, in which the going up but when we drill down on the number, we found two things.
+
+00:26:10:02 - 00:26:12:11
+Speaker 2
+First of all, the user retention was not there
+
+00:26:12:11 - 00:26:17:05
+Speaker 2
+and then we ended up calling these guys why you said the distance is too much.
+
+00:26:17:05 - 00:26:20:14
+Speaker 2
+But one more interesting thing was happening numbers were going up But we were like, okay,
+
+00:26:20:14 - 00:26:22:13
+Speaker 2
+what what is what is happening here?
+
+00:26:22:13 - 00:26:24:17
+Speaker 2
+And then clicking on the day graph,
+
+00:26:24:17 - 00:26:25:14
+Speaker 2
+we found that
+
+00:26:25:14 - 00:26:29:02
+Speaker 2
+the most of the usage was happening on the second incident
+
+00:26:29:02 - 00:26:34:02
+Speaker 2
+and that used to be at 6 a.m. to 8 a.m..
+
+00:26:34:04 - 00:26:39:17
+Speaker 2
+So people were using it for sickness and leisure rather than using it for commute
+
+00:26:39:17 - 00:26:56:06
+Speaker 2
+and we had to make a strategic choice at the health of this company or mobility company. So we chose, despite our number going up, we chose that, no, we are not, though this company, I think is doing a better job. Let us focus on mobility.
+
+00:26:56:08 - 00:26:57:09
+Speaker 2
+And we
+
+00:26:57:09 - 00:27:16:06
+Speaker 2
+and then we also found what would take that because of the sun factor, which is light and easy. There's a lot of the kids that happens. Then people use it in a service mode that is a tough use. They would put it on a portable the ticket very fast on the speed, etc.
+
+00:27:16:06 - 00:27:19:23
+Speaker 2
+So you actually have to make the bike with kid.
+
+00:27:19:23 - 00:27:28:14
+Speaker 2
+And if you make bike bulkier, it becomes even more difficult for you to pack. So the conclusion we got to was that okay, you have to make to put the bike bulkier
+
+00:27:28:14 - 00:27:34:13
+Speaker 2
+so that it is not easy to pick and then for it, then you have to put a motor.
+
+00:27:34:13 - 00:27:39:05
+Speaker 2
+So that's how you do it was one where we were very convincing, clear
+
+00:27:39:05 - 00:27:42:20
+Speaker 2
+that we should not be doing those activities with those which other friendship.
+
+00:27:42:20 - 00:27:45:21
+Speaker 2
+In India, almost 80% people don't have any license,
+
+00:27:45:21 - 00:27:46:20
+Speaker 2
+but the same number of
+
+00:27:46:20 - 00:27:50:01
+Speaker 2
+people, a majority of the population knows how great it was.
+
+00:27:50:01 - 00:27:55:08
+Speaker 2
+So we ended up building a product which is as simple as bicycle, but it is robust
+
+00:27:55:08 - 00:27:57:02
+Speaker 2
+and does not get so much of switching.
+
+00:27:57:02 - 00:27:59:03
+Speaker 2
+And that's how the European market was born.
+
+00:27:59:03 - 00:28:02:23
+Speaker 2
+But we put it up after some deep research of one year,
+
+00:28:02:23 - 00:28:05:17
+Speaker 2
+we found that there was a far better connection
+
+00:28:05:17 - 00:28:06:15
+Speaker 2
+and good news.
+
+00:28:06:17 - 00:28:17:20
+Speaker 2
+People were using it for the Indians. So it was actually all of this computer on my computer who started using you. And that's where we found of a pragmatic thing.
+
+00:28:17:20 - 00:28:28:10
+Speaker 2
+So I took your question. Yes, bicycle one can use. If I have a good guess, I could very lightweight I, I like for you
+
+00:28:28:10 - 00:28:30:10
+Speaker 2
+then yeah I can do 10 to 15 to that.
+
+00:28:30:10 - 00:28:32:03
+Speaker 2
+That's what I did for not
+
+00:28:32:03 - 00:28:37:05
+Speaker 2
+in my own got it. And they let you survive for 7 to 8 kilometers one bit. And I was having fun.
+
+00:28:37:05 - 00:28:40:11
+Speaker 2
+But when it comes to a 25 kilogram
+
+00:28:40:11 - 00:28:50:04
+Speaker 2
+bicycle our case was was 16 kilogram even that was not enough for the said perspective and we added somewhat logo it became pretty look of plus
+
+00:28:50:04 - 00:28:53:18
+Speaker 2
+customer basically said can top so that became kind of a
+
+00:28:53:18 - 00:28:54:04
+Speaker 2
+logo.
+
+00:28:54:07 - 00:28:54:22
+Speaker 1
+It
+
+00:28:54:22 - 00:29:10:23
+Speaker 1
+makes a lot of sense I think also maintenance costs of more moving parts and if you have to build that in a different way, once the brakes will go, then the pedal will go, the spokes and go. There are a lot of a lot of different points of failure that can happen. Maybe there's a maturity that is not there like is sick.
+
+00:29:11:02 - 00:29:34:14
+Speaker 1
+The last miles are too high now and maybe if it comes down, that market could be something that is there. But so it's interesting that you started in 2018. I do remember during COVID times the lot of panic and you guys had too little clean your bikes every time before you gave it to people. How has that experience been, this whole COVID thing?
+
+00:29:34:14 - 00:29:47:12
+Speaker 1
+I thought you nobody will come back after that, but you guys are still there and strong. What did you do differently from COVID? Was there? I said, I see a lot of delivery guys using a bike. Was that a conscious pivot or what happened there.
+
+00:29:47:12 - 00:29:52:20
+Speaker 2
+That could cushion against that there? So I think COVID was
+
+00:29:52:20 - 00:29:54:04
+Speaker 2
+a big,
+
+00:29:54:04 - 00:29:57:02
+Speaker 2
+gear change, you know, in our journey.
+
+00:29:57:02 - 00:29:58:08
+Speaker 2
+So first of all,
+
+00:29:58:08 - 00:30:02:13
+Speaker 2
+when it happened, you could remember each one of us for us to stay at home.
+
+00:30:02:13 - 00:30:03:20
+Speaker 2
+So business came to zero
+
+00:30:03:20 - 00:30:13:23
+Speaker 2
+and then people were allowed to go out areas of escape and then what happened that while there was a lot of anxiety amongst users
+
+00:30:13:23 - 00:30:18:20
+Speaker 2
+that they should not get into busses, taxis or but they were all bad.
+
+00:30:18:20 - 00:30:21:18
+Speaker 2
+But somehow because, you know, what we did was a separate
+
+00:30:21:18 - 00:30:24:16
+Speaker 2
+government was okay letting the use of escort
+
+00:30:24:16 - 00:30:29:23
+Speaker 2
+in federal with time. Also we basically gave out bikes to a lot of grown up use.
+
+00:30:29:23 - 00:30:37:15
+Speaker 2
+So they were people who are basically doing essentially service is looking for banks, hospitals, even police duty.
+
+00:30:37:15 - 00:30:40:15
+Speaker 2
+So that set up a benchmark There you see.
+
+00:30:40:17 - 00:31:01:12
+Speaker 2
+And then to make things better, we basically introduced this sanitization process where there was a W actual approved capital spray, which we were putting, and we were also making it transparent to show to the consumer that it was sanitized X hours ago. So we actually did a lot of work, was just saying things make
+
+00:31:01:12 - 00:31:05:23
+Speaker 2
+difference and because you were the only person and sometimes we could
+
+00:31:05:23 - 00:31:10:05
+Speaker 2
+all experience became busy and our numbers started really.
+
+00:31:10:07 - 00:31:16:13
+Speaker 2
+In fact, we were the only company in the poverty sector came to pre-COVID. No, but within three months.
+
+00:31:16:13 - 00:31:25:00
+Speaker 2
+So despite many of us were sitting in our home, you know, trying to prevent the spread of COVID,
+
+00:31:25:00 - 00:31:28:20
+Speaker 2
+but is a social society which has to be traveling. And there was all traveling.
+
+00:31:28:20 - 00:31:33:13
+Speaker 2
+So it was a very transformational point in our journey, as I said.
+
+00:31:33:15 - 00:31:46:08
+Speaker 2
+And the second thing, what happened to the question, delivery guys? Because a lot of people basically lost job or the same thing because you're sitting at home keeping a button to get to because these medicines
+
+00:31:46:08 - 00:31:46:23
+Speaker 2
+and food
+
+00:31:46:23 - 00:31:52:01
+Speaker 2
+so even Zomato's Swiggy and these guys were facing a huge human power crunch.
+
+00:31:52:01 - 00:31:55:08
+Speaker 2
+Most of these immigrants, you know, they went to their hometown,
+
+00:31:55:08 - 00:31:56:11
+Speaker 2
+so they needed people.
+
+00:31:56:11 - 00:31:57:18
+Speaker 2
+People did not have bike.
+
+00:31:57:18 - 00:32:00:21
+Speaker 2
+So we basically kind of became a godsend opportunity
+
+00:32:00:21 - 00:32:03:20
+Speaker 2
+where we do not require any driving license
+
+00:32:03:20 - 00:32:07:10
+Speaker 2
+at the over bikes. Without this, we created a package
+
+00:32:07:10 - 00:32:09:08
+Speaker 2
+where one can use you are now
+
+00:32:09:08 - 00:32:16:12
+Speaker 2
+by paying us a fixed daily rental. And if I had not properly started charging 50 bucks per day
+
+00:32:16:12 - 00:32:23:08
+Speaker 2
+and we were like, anyway, these push, our bikes are sitting idle and as a use case, why you open it.
+
+00:32:23:10 - 00:32:53:13
+Speaker 2
+So it was an interesting customer of the scope. If this was, you know, maybe followed and I would not say pivoting, I would say it was customer edition, customer segmentation. So we continue we are still doing what we have been doing from day one, which is supporting or getting the mobility for the office goers or daily commuters. But on top of that, we basically have added a new customer segment which is delivering goods using you.
+
+00:32:53:15 - 00:32:55:05
+Speaker 2
+In fact, interestingly,
+
+00:32:55:05 - 00:33:13:20
+Speaker 2
+you know, for we also saw that how same bike was used for the percent of the individuals. And it was creating a lot of issues for us from a brand perception perspective, from a supplier perspective, because this guy was living food. They will keep the bike with themselves
+
+00:33:13:20 - 00:33:18:03
+Speaker 2
+and I need to go to office of this because each one of them.
+
+00:33:18:05 - 00:33:20:04
+Speaker 2
+So we found out
+
+00:33:20:04 - 00:33:24:10
+Speaker 2
+that it is not going to be a good solution. And that's where we
+
+00:33:24:10 - 00:33:30:22
+Speaker 2
+created a new product called Duplex Now, which is created for the last mile delivery only.
+
+00:33:30:22 - 00:33:48:20
+Speaker 2
+So if you now see Bangalore, you will see blue color bikes. Typically people are going to be a bike commute and the Dick's bike are being used for the by the delivery individuals and the US will solve for the brand perception problem and supply availability problem.
+
+00:33:48:22 - 00:33:50:03
+Speaker 2
+But this approach
+
+00:33:50:03 - 00:33:58:11
+Speaker 3
+Speaking of new products, you have also launched a bike for personal purchase. So could you give us a rational behind and getting into Boston?
+
+00:33:58:11 - 00:34:16:00
+Speaker 2
+Because it's so this is another interesting phenomena, listening to the customers and likely every month we get hundreds of emails that I really love. This product is nothing compared in the market,
+
+00:34:16:00 - 00:34:19:19
+Speaker 2
+which is so easy and lightweight and things like that.
+
+00:34:19:19 - 00:34:25:11
+Speaker 2
+in the past we were like, okay, you take a you do tell me a place. I would make a unison for you by your brother.
+
+00:34:25:11 - 00:34:55:22
+Speaker 2
+But then this is the section Society was saying that, well, I think you want the shortest assured ness of and for me I can be hundred bucks they day because if I don't have a you have to spend many times more money or not really shown haggling with the taxi so this we found this a section society was looking for a simpler product and then women actually happened to be one of the interesting target group for you are not only
+
+00:34:55:22 - 00:34:58:03
+Speaker 2
+in India the number see is that
+
+00:34:58:03 - 00:35:01:12
+Speaker 2
+the number of women who have to be below 5%,
+
+00:35:01:12 - 00:35:07:08
+Speaker 2
+but many of them know how to ride a bicycle, even a scooter, and how active over two years,
+
+00:35:07:09 - 00:35:21:19
+Speaker 2
+which were created for only six phenomena. But even they are looking at plus an average girl in India is 5.2 on a height perspective and from a weight perspective, she's only 55 to 60.
+
+00:35:21:19 - 00:35:24:18
+Speaker 2
+And then you're trying to give a product which is so heavy,
+
+00:35:24:18 - 00:35:35:18
+Speaker 2
+you know, it's not a great product. And we thought that, you know, this, you know, actually it fits it fits it in that customer segment of it or teenager gets
+
+00:35:35:18 - 00:35:38:06
+Speaker 2
+the need to go to college.
+
+00:35:38:08 - 00:35:43:01
+Speaker 2
+And right now they're modeling it instead of top within think with it.
+
+00:35:43:01 - 00:35:45:19
+Speaker 2
+So while as a as a as a father
+
+00:35:45:19 - 00:35:52:02
+Speaker 2
+I think that yeah, I need to be there with my father duty. But I have seven other things to do
+
+00:35:52:02 - 00:35:53:14
+Speaker 2
+and sometimes I get missing
+
+00:35:53:14 - 00:35:55:13
+Speaker 2
+the classes or he's waiting for me
+
+00:35:55:13 - 00:35:56:15
+Speaker 2
+at the tuition because
+
+00:35:56:15 - 00:35:57:23
+Speaker 2
+I am stuck somewhere else.
+
+00:35:57:23 - 00:36:08:15
+Speaker 2
+So this is also giving them a freedom to move. And these are, again, small business. So but we have launched this personal mobility product. It is a synthesis of small vehicle
+
+00:36:08:15 - 00:36:17:02
+Speaker 2
+for small distances, but easy use cases. If someone needs to be on the road traveling 100 kilometers. Note this perfect is not big,
+
+00:36:17:02 - 00:36:27:02
+Speaker 2
+but if you are basically moving around in your neighborhood doing your grocery gap, be going to your shop or going to nearby places, this is a perfect partner for you.
+
+00:36:27:04 - 00:36:36:07
+Speaker 2
+So it's the same. You notice this, but rather than you being us by minute or by the U.S.. Right. Okay. By
+
+00:36:36:07 - 00:36:38:07
+Speaker 2
+and we also saw an interesting
+
+00:36:38:07 - 00:36:55:14
+Speaker 2
+point that the charging at the readings is a real issue for me. So we have opened up our network for you my situation. So what we use, what you do, but we are saying that, okay, you can think about as a service which has helped us reducing the price of the first place almost 70%.
+
+00:36:55:14 - 00:36:58:03
+Speaker 2
+And then they also basically are not worried about
+
+00:36:58:03 - 00:37:03:18
+Speaker 2
+owning the battery of which only 2%. So we are kind of killing all of these issues with mango.
+
+00:37:03:18 - 00:37:12:02
+Speaker 1
+That's again, that comes back to my original question of do you see this cannibalizing the shared services thing at all at some point in time, what
+
+00:37:12:02 - 00:37:24:02
+Speaker 1
+would users then say? I'm convenient owning these things. I don't. Of course it will not work if they need shared and they want to just drop it off near a public transport station and move somewhere that might just not happen with your own vehicle.
+
+00:37:24:06 - 00:37:37:20
+Speaker 1
+You won't just park it again, it comes back to your parking charges. Then there'll be a disincentive to use the share there. Again, it comes back to the same thing. Shared services will be under pressure from different angles. Do you see your
+
+00:37:37:20 - 00:37:46:09
+Speaker 1
+let let's say tomorrow your then I think. Right. So if if that starts taking off do you think you're going to
+
+00:37:46:09 - 00:37:48:05
+Speaker 1
+shared services will be under pressure for.
+
+00:37:48:05 - 00:37:48:13
+Speaker 2
+You
+
+00:37:48:13 - 00:38:03:10
+Speaker 2
+know I don't see it that and to the other perspective, first of all there's a reason for 84% of Indians to not having access even some of it. And this number will not change overnight.
+
+00:38:03:11 - 00:38:06:15
+Speaker 1
+In urban areas. In urban areas that might be in the villages.
+
+00:38:06:17 - 00:38:30:16
+Speaker 2
+Will be a little bit more you. I think Bangalore is an exception. We are very wealthy city, but look at the number of workers the population is growing up and you will also look at more. But when we have 35 million people, look at the number of workers. Yes. So if it is not 15%, maybe 25%, but the fact is it will not change dramatically.
+
+00:38:30:16 - 00:38:37:05
+Speaker 2
+A second thing is the most important use case was shared locally. As I mentioned, this was my last one.
+
+00:38:37:05 - 00:38:56:21
+Speaker 2
+You actually do not have a vehicle when you are coming out of empty road position. You need to go to your office or someplace. You don't have it. So this is not we big cities. It is not good. And then the lack of parking space and the money being used them better off, you might wake up.
+
+00:38:56:23 - 00:39:28:18
+Speaker 2
+I will do the shared mobility and I'll move on. So I do not think it is actually cannibalizing anything to shed mobility or the public transportation, but better use cases where your home but across this road is no matter. It wasn't just a kid going to a kitchen, which is again next to this law. Unfortunately, philosophies of things like that, I would try to create a use cases of home that very early days for us to have a strong point of view.
+
+00:39:28:20 - 00:39:49:15
+Speaker 2
+But our system was developed. Just some of these people saying that I need to it would be on the upper level. The and I'm willing to pay a premium for that. Otherwise is more need for me so that the vision of everyone basically running what we do as a service. I think it is still part of me
+
+00:39:49:15 - 00:39:54:15
+Speaker 2
+of like in America, they said, okay, everyone should move to more assembly.
+
+00:39:54:17 - 00:40:08:13
+Speaker 2
+So I think that vision is still a bit people have to go, but when they have to look to airport of the office of the parking is struggling to things like that. They're using ship distance. So same thing will happen in India
+
+00:40:08:13 - 00:40:19:01
+Speaker 2
+and God knows how. But our mission is that how do we move people more efficiently certain of what reportedly they use public competition.
+
+00:40:19:02 - 00:40:27:04
+Speaker 2
+So if they are basically not looking, they are not causing condition on the city. I think our mission is achieved to from our perspective.
+
+00:40:27:04 - 00:41:07:13
+Speaker 1
+I think that's a good goal. But so related to this, just two more questions before we wrap this up. One is do you do or not due to correlated to the fact that the Micro-mobility vehicles don't need driving licenses, you seen a lot of abuse of the privilege by quite a few people. I read that the recent study done by one of them is that in the last few years drdo has been granting licenses willy nilly anyway, so beta doesn't mean death seems to be a lot of indiscipline among public, which is maybe there's a lack of education or lack of empathy or whatever it might be.
+
+00:41:07:15 - 00:41:18:19
+Speaker 1
+Do you think Micro-mobility vehicles without a license contributes to those? And I noticed recently Yukos tried to do something about it. What are your views on this?
+
+00:41:18:19 - 00:41:44:06
+Speaker 2
+for Stingo, I think breaking of traffic rules is actually not just micro-mobility. It's all because you know, look at the traffic challans and just because you know, you see a vehicle in a color, it's easy for you to identify. But look at every length of time. It is time to do the same thing. So I would not take that point that it's only micromobility.
+
+00:41:44:06 - 00:41:50:07
+Speaker 2
+My goal was not to be across this point, having that
+
+00:41:50:07 - 00:42:06:07
+Speaker 2
+you are right. If someone is on these non-motorized vehicles which are exempted for your decision, then these guys basically can have an argument that okay, ethical is one sided.
+
+00:42:06:07 - 00:42:12:08
+Speaker 2
+So what do we think That is a good message. Just make this point in the form of an easy mobility.
+
+00:42:12:10 - 00:42:33:15
+Speaker 2
+There's a responsibility for everyone who's on the road to Ford. In fact, I was very surprised to that is a traffic rule even for a distance. So in my road brigade road, I was fined for joking. I caused a red light and I was fined. It was the first time I got through that. Even I don't have a motor.
+
+00:42:33:15 - 00:42:56:00
+Speaker 2
+My, my, my, my head. But someone can still fight. So there's a larger need of keeping an awareness that when you are on the road, you have to be worried about your safety and other safety. And I think this is what we have been trying to do with traffic. Police in Delhi, Bangalore, Mumbai, three places where we're busy.
+
+00:42:56:02 - 00:43:11:19
+Speaker 2
+We also basically have done some technological innovations where we have actually mapped every city in Bangalore without one big. So if you are trying to go along with my system is now starting to provide and it is actually giving a warning
+
+00:43:11:19 - 00:43:18:01
+Speaker 2
+and the if you are repeating it because you have a way to block these users put penalty
+
+00:43:18:01 - 00:43:19:23
+Speaker 2
+and we are very supportive of,
+
+00:43:19:23 - 00:43:24:02
+Speaker 2
+everything, but it was quite so the key I am basically making is
+
+00:43:24:02 - 00:43:33:10
+Speaker 2
+just because you're riding a bicycle, forget you, even a bicycle, you ought to be following that because otherwise you're going to put someone else's life in danger.
+
+00:43:33:12 - 00:43:54:23
+Speaker 2
+So it is not. And as a company, we basically do not, you know, encourage that. In fact, our app, we put in a legal warning that if you do that, you would be in trouble. But now we are also leveraging awareness with traffic police and also technology, a solution where are trying to blacklist these users? What if we talk?
+
+00:43:54:23 - 00:44:12:14
+Speaker 1
+the the reason I ask is in the broader micromobility market, all these questions are going to come up and you know, you're the only one still sticking around. And that brings me to that last question of saying you might be doing something right. But everybody else seemed to have gotten in to either selling vehicles or doing whatever else.
+
+00:44:12:14 - 00:44:28:10
+Speaker 1
+And more and more vehicles are disappearing. And it may have been the ICE vehicles, they may be what looks like you lose the only one forging a good partner on Micromobility. And you may have to save the day for a lot of them, but where are you? Again? Let's conclude with the same question we asked
+
+00:44:28:10 - 00:44:34:22
+Speaker 1
+Drew. Last mile in public transport is going to save the cities and Micromobility is going to play a huge part.
+
+00:44:34:22 - 00:44:58:22
+Speaker 1
+And I do hope at some point the cultural shift does happen, that bicycles also become accepted in any any low, low carbon footprint form factor should be an option that we should. Some other things need to you all for that to happen. Where do you see what are the what is your you plans being the lone warrior out there, it looks like the entire market is open for you guys now.
+
+00:44:59:00 - 00:45:15:03
+Speaker 1
+And how many cities are you in and what is the plan? And do you really think there will be more people in the micromobility market? Is it attractive enough? Is the unit economics good enough or is it it's going to be sunken funding for even longer time. Where do you see that?
+
+00:45:15:03 - 00:45:20:11
+Speaker 2
+so many questions I try to answer most of them. So first thing first,
+
+00:45:20:11 - 00:45:30:07
+Speaker 2
+I think as for you as a citizen of this beautiful city, I would like to have a privilege of ability to walk,
+
+00:45:30:07 - 00:45:30:22
+Speaker 2
+bike
+
+00:45:30:22 - 00:45:34:02
+Speaker 2
+and then also ride, or if I have to, because of the distance.
+
+00:45:34:02 - 00:45:35:20
+Speaker 2
+So if I live next to
+
+00:45:35:20 - 00:45:39:00
+Speaker 2
+Metro Station, let's say one kilometer, I should be walking.
+
+00:45:39:02 - 00:45:50:13
+Speaker 2
+I should not be bothered with anything, as it were, just two km by not actually bike. It can be mine or it can be shared. Mobility doesn't matter, just might come on me. It will be a financial decision.
+
+00:45:50:13 - 00:45:56:21
+Speaker 2
+And if it is a little bit more than that, maybe a little bit electric, the which is also small footprint, I should think about it.
+
+00:45:56:21 - 00:46:29:18
+Speaker 2
+So I'm a big believer that this is how the city should be shipping. And I'm not basically particularly advocating for micromobility. I'm actually advocating of it, which includes walking mode. So which is the cheapest and the least carbon advocate of, of, of commuting. And then not just, oh, what goes like this, you lose footing. I think I'm also a big fan of what's happening up in not easy but goes which are taking multiple people around in a shared mode.
+
+00:46:29:20 - 00:46:58:21
+Speaker 2
+Usually those business models those sectors with the drivers owns his own home Mini I can see what it's being which I would compare kind of what is the GDP per capita income and city also not critical in terms of congestion or environmental hazard. So I think some innovation is required to bring customer safety experience and affordability in my and I think this is where some of the best for people.
+
+00:46:59:02 - 00:47:25:22
+Speaker 2
+In fact, if you ask me, you know, in five years, ten years down the line, yeah, you're not typical. What you see we will be keep on evolving because the three dimension are the six safety, convenience and affordability. So this has to come together. Only then we can make a massive impact as as you footprint this concept. We are currently present in Delhi, Mumbai and Bangalore.
+
+00:47:26:00 - 00:47:53:16
+Speaker 2
+Next week you will see us going like in Google next month you should see us going to the book and sometime this year we are hoping to add three or four more cities in our service list. So after we raised the funding back in September and then we got our new coordination vehicles from Bajaj, we have escalated our our overall good and pre-deployment.
+
+00:47:53:18 - 00:48:27:19
+Speaker 2
+And I think by end of this year you should be presenting this event, which is very easy with a very large footprint solving double use case. As far as profitably is concerned, we actually come from a very different point of view. Unlike many of our viewers, we did not raise a lot of capital, in fact, that before the last round, the only $2.3 billion and that most of the money was spent in buying these vehicles because no one was willing to give us that unproven was a smart.
+
+00:48:27:21 - 00:48:59:01
+Speaker 2
+Having said that, we also, by the way, appreciate profitable since the time we started so good news is why we are able to to you know stance stance and and dollar and then surviving because we are not putting money unlike many of the startups so we we actually understood this very early in the day that this business model of it is not the generating margin you will die because it will not keep on voting.
+
+00:48:59:03 - 00:49:25:01
+Speaker 2
+Sometimes the sector will become non sexy, uncool, there would be some good towards some bit or something which would be more technical, these VCs for the right reason and we will not be the most catastrophic. So we have to build business, fall strong fundamentals. In fact, that's also a link that my own journey, you know, I had very successful innovative career and journey within mobi.
+
+00:49:25:03 - 00:49:52:06
+Speaker 2
+I didn't have to do anything for my for my best of my life professionally, but I decided to choose you to pick this problem because I thought that this solution, which works for at least a quarter. So then we had told along with my other group on this, we entered with the ticket plus expectation that this is this is the time you need to put in to actually fix this problem.
+
+00:49:52:08 - 00:50:32:01
+Speaker 2
+So we are building a category this way. We added with strong conviction, we have done things which were not seemingly looking great when other companies started to shop vehicle because Scooter probably will give them more business and they decided to admit even when there was no scooter, no battery charging infrastructure, no funding, we took a hot 400, but because we are here for longer so and you will see during next couple of business it not only you will see far better products and services coming from Europe, but you'll also see a lot of innovation in terms of things helping.
+
+00:50:32:01 - 00:50:58:22
+Speaker 2
+So you're not shied away in going, asking for help from Metro, for example, as they gave us spaces for fucking publicity. Never did it. Never in our charging stations we basically have created one. So from Uranus perspective, we are not shy of booking hot, asking for help, working with ecosystem providers to build society. And I think that my belief is that
+
+00:50:58:22 - 00:51:01:00
+Speaker 2
+ultimately the right thing will win.
+
+00:51:01:00 - 00:51:06:15
+Speaker 2
+Oh, it's not just some artificially inflated sum. Yeah. So whatever way you got it,
+
+00:51:06:15 - 00:51:23:17
+Speaker 2
+you know the need of what would Israel of we also understand that the is of public competition is also you cannot magically fly people because people cannot afford it. So I think we are a bit investment in metro in big cities, investment with electric busses in big cities.
+
+00:51:23:19 - 00:51:51:15
+Speaker 2
+And I think if we are able to integrate, give infrastructure support and delivery support to micro-mobility service, let it be running by a lot of private firms. Just in the thinking of with an EPA, it is a governance and as it is in place, I think we as a people who believe it and I see a very bright future of intra city transportation with that kind of association.
+
+00:51:51:15 - 00:52:15:17
+Speaker 1
+Excellent. On that note, I don't know if which the water in Bangalore. There are good people here think reasonably nice things taking the risk and doing these things. Thank you for coming on the show. I hope the next time we speak you'll be a full mobility operator in York on No to speak only about the Micromobility sector. And we may be and hopefully by then some amount of traffic is coming.
+
+00:52:15:17 - 00:52:36:06
+Speaker 1
+Mobility card or in DC, whatever it is, some amount of integration eases this process and we stopped talking about last mile because the only talk is the last mile. Now at some point we'll say we have solved the problem as disdainfully parameters for us here and on the BRT asked him, which I mean you could ask him a lot of about BRT.
+
+00:52:36:06 - 00:52:56:02
+Speaker 1
+I just asked him, have you sold the last Mile East from Bogota and the other partners in Bus Rapid Transit? For a minute, he said no, I don't think other than Amsterdam. And, you know, for this last minute problem, I mean, completely. I mean, you saw some parts of it. What everybody suddenly looked at him and said, really, the guy is a complicated issue.
+
+00:52:56:02 - 00:53:09:23
+Speaker 1
+It's not straightforward. It's not like we can reach you at your home. There was one question about the zero last mile, but we'll save it for later. There is no zero last minute. It's going to end somewhere. You got to walk to some place and pick this up. But let's see the business model and all that. But it's good.
+
+00:53:09:23 - 00:53:13:06
+Speaker 1
+Good luck to you guys and thanks for coming on the show
+
+00:53:13:06 - 00:53:46:03
+Speaker 2
+Not Thank you sat there and you also have been a part of the same plan and I think your vision and mission is similar to us I mean only in the field of legal system. But we thank you for your efforts in making our cities a better thank you and good luck for you. Obviously you podcast very fast and for you putting this effort and kind of collecting this whole thing together hopefully inspired some policymakers and some.
+
+00:53:46:08 - 00:53:53:23
+Speaker 2
+She didn't make us sitting in some circuit good. What is the right thing to do? So thankfully, again, thank you. In the end.
+
+00:53:53:23 - 00:54:16:22
+Speaker 1
+I hope we don't holding this. We are all holding different parts of the same and different opportunity at different angles. Hopefully we'll figure it out. It's an elephant and not a donkey at the end of it. And we can fix this issue. And let's see. Thanks. Thanks again. Thanks Once again or see you all next week. Don't forget to like, subscribe and share and check out the website podcast Guru Lipscomb.
+
+00:54:17:00 - 00:54:20:17
+Speaker 1
+Bye bye. Next week, interviews
+
