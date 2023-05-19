@@ -1,0 +1,1504 @@
+00:00:02:02 - 00:00:27:03
+Speaker 1
+Are we on? Let's go. Welcome to another episode of the OoruLabs podcast from Bengaluru. Ever complain how bad our cities are, how bad your commute is? You'll get to hear from people who are working to solve these problems in their own way. This is your weekly soapbox for urban sustainability. So do not forget to, like, subscribe and share these videos.
+
+00:00:27:03 - 00:00:48:14
+Speaker 1
+I am Sathya Sankaran with Knerav Kodolikar and today on the show will be speaking with Dr. Paul Barter. He's an adjunct Professor at the Lee Kuan Yew School of Public Policy at the National University of Singapore, where he teaches infrastructure policy, Urban policy and transport policy. Since about 1994, he's been focusing on urban transport
+
+00:00:48:14 - 00:00:52:01
+Speaker 1
+policy and on the parking policy since 2009.
+
+00:00:52:01 - 00:01:12:05
+Speaker 1
+And I remember reaching out to him in 2010. And so for the past 14 years, he's been doing a lot of work around parking. He talks about parking to many people across the globe on his podcast and blog. It's called Reinventing Parking. We talk a little bit about that. Welcome to the show. Dr. Paul.
+
+00:01:12:07 - 00:01:14:23
+Speaker 2
+Thank you. Sathya and hello, Knerav
+
+00:01:14:23 - 00:01:17:08
+Speaker 2
+and hello listeners and viewers.
+
+00:01:17:08 - 00:01:20:11
+Speaker 1
+one of the first things I want to start with is
+
+00:01:20:11 - 00:01:30:12
+Speaker 1
+Why why is parking really a problem or what is wrong with parking that we are doing now? What are we doing wrong with parking? Maybe that's a better way of asking that.
+
+00:01:30:12 - 00:02:01:14
+Speaker 2
+Yeah. So I guess one thing people in India sometimes feel as though the the huge problems that you see in your cities are somehow unique and new. But parking has been emerging as a problem in city after city all over the world for about a hundred years now. And we can very clearly see more or less the same story happens over and over and over again.
+
+00:02:01:15 - 00:02:04:02
+Speaker 2
+And that story is that
+
+00:02:04:02 - 00:02:27:21
+Speaker 2
+before I'll give you a very, very brief version of the story, but then we'll perhaps dive into more detailed versions of that story as we go along. But the very, very short version of it is, you know, when if you think back maybe 20 or 30 years in Indian cities, car ownership and even two wheeler ownership were quite low.
+
+00:02:27:23 - 00:02:44:16
+Speaker 2
+And so it wasn't really a problem if the fairly few motorists would park their car or their motorcycle in the street, more or less anywhere or in the compound at their destination,
+
+00:02:44:16 - 00:02:46:08
+Speaker 2
+it might have been a squeeze, but
+
+00:02:46:08 - 00:02:49:14
+Speaker 2
+the numbers of vehicles were small and so it wasn't a huge problem.
+
+00:02:49:14 - 00:03:03:08
+Speaker 2
+And so, yeah, in place after place all over the world, the first few vehicles over the first sort of ten years, as people start to get these vehicles, people get used to the idea that they can park anywhere for free.
+
+00:03:03:10 - 00:03:30:02
+Speaker 2
+And it's not highly regulated and it's not a big problem. But fairly quickly as economic success comes along. And we've seen that in India, more and more motorcycles, more and more cars and parking very quickly faces a lot of competition. Motorists face more competition from each other for those parking spaces and they start to get frustrated.
+
+00:03:30:02 - 00:03:33:23
+Speaker 2
+They also start to cause problems for others.
+
+00:03:34:01 - 00:03:47:15
+Speaker 2
+The parking gets in the way of people on foot, people on bicycles, people in cars and motorcycles trying to move and busses get clogged up and impeded by by the parking. And the problem is
+
+00:03:47:15 - 00:04:08:21
+Speaker 2
+The mind set that emerges in those early days doesn't go away. And so each new generation of motorists assumes that the the natural order of things is that I should be able to park wherever I please, more or less, and it should not be expensive.
+
+00:04:08:21 - 00:04:21:02
+Speaker 2
+In fact, it probably should be free if I can possibly organize that. So the first things that motorists demand from governments is that
+
+00:04:21:02 - 00:04:25:17
+Speaker 2
+there's not enough parking. I'm facing competition from my fellow motorists and
+
+00:04:25:17 - 00:04:45:07
+Speaker 2
+I need more parking. Right. And whatever you do, don't make it expensive. Just just give me more of it. And so the initial impulse of governments is to react to that rather loud set of yelling and screaming from the motorist as they start to perceive this problem.
+
+00:04:45:09 - 00:05:22:19
+Speaker 2
+It also doesn't help that in the early days of motorization in any city. Who are these motorists? They tend to be the richest, best educated, most influential people. And so those loud voices in the early days shape the mindsets, shape the early policies and practices towards parking. And all of those practices and policies are sort of buying into a sense of privilege and a sense of, you know, I deserve cheap, convenient parking.
+
+00:05:22:19 - 00:05:23:16
+Speaker 2
+And so
+
+00:05:23:16 - 00:05:40:12
+Speaker 2
+governments are very reluctant. You know, city governments, state governments are very reluctant to do the obvious thing, which would be to ration the parking through various methods. But the most effective is using fees on street parking fees,
+
+00:05:40:12 - 00:05:46:01
+Speaker 2
+enforcement to make sure people don't park in haphazard ways that are a nuisance. But
+
+00:05:46:01 - 00:06:02:19
+Speaker 2
+again, in the early days, when most of these motorists are influential people, privileged people, it's it doesn't it's not easy to to say, okay, you should be paying we should ration your and in the very early days, some of these motorists in fact have drivers.
+
+00:06:02:19 - 00:06:23:20
+Speaker 2
+And so the using fees may not be very effective even they would just circle around to have the driver park illegally temporarily. And if anyone comes along, they just move a little bit and it's higher. It's quite hard in the early days to to achieve anything that way. And so the easy thing seems to be let's build more parking.
+
+00:06:23:22 - 00:06:51:01
+Speaker 2
+So cities in the city centers will often try to find some land and build some parking. Maybe they have some city owned land. There's also a mind set that city owned land is free land somehow, which is not true. Land always has an opportunity cost and land is very, very precious in city centers, busy areas. But somehow this idea of the free land, so we could use that for parking and the idea that
+
+00:06:51:01 - 00:07:01:09
+Speaker 2
+building owners and builders, people who build buildings, developers should be required to provide parking on site within the compound.
+
+00:07:01:11 - 00:07:26:20
+Speaker 2
+It somehow seems like that that somehow seems like a very seductive policy. So country after country, city after city adopts that policy of requiring plentiful parking within each compound, and it's a seductive idea. It seems obvious if the parking in the streets is chaotic. We want to reduce that. We we hope that we can get people to park off streets instead of on the street.
+
+00:07:26:20 - 00:08:00:08
+Speaker 2
+So it seems obvious that, well, where are those people going? They're going to buildings, they're going to compounds, make the compounds, have the parking rather than the streets. And it seems like a normal and natural idea. So the sense of privilege that it's somebody else's responsibility to provide me with parking. The motorists have that belief, and unfortunately, many authorities around the world, especially in the early days of this story, buy into that belief and think, oh, okay, yes, actually it is our responsibility to make sure there's parking.
+
+00:08:00:08 - 00:08:31:23
+Speaker 2
+Either we will build some or we will make developers and building owners provides them. And that that's where things go wrong because making off street parking does not magically suck the cars and the motorcycles off the streets. So what typically happens is you end up with a situation where the busy areas have some off street parking in garages that cities have built or in garages or
+
+00:08:31:23 - 00:08:34:05
+Speaker 2
+compounds, parking within compounds.
+
+00:08:34:07 - 00:08:35:08
+Speaker 2
+But typically
+
+00:08:35:08 - 00:09:00:06
+Speaker 2
+you have to pay for that parking. If you decide to pay go go into that parking, you have to pay. Whereas the on street very often is still free of charge or it's very, very inefficiently priced. Maybe you have some kind of pricing, but it might be attendant taking a bit of cash. But, you know, it did that pricing is so inefficient and the price is much lower than the off street parking.
+
+00:09:00:06 - 00:09:16:11
+Speaker 2
+And so you still have chaos in the streets and you still have half empty parking off off the street. So it turns out that means that the off street parking is not making money because even though it's trying to charge money that it's underused and
+
+00:09:16:11 - 00:09:24:21
+Speaker 2
+the land and the building of that parking turns out to be incredibly expensive, especially in busy parts of cities where land and building is expensive.
+
+00:09:24:21 - 00:09:43:11
+Speaker 2
+And so developers are reluctant to to provide much parking. They have to be forced. Sometimes they they cheat. So we see you know, they they pretend to build the parking, but then they quietly have shops where the parking should be. But that's rational when they can't make much money from the parking.
+
+00:09:43:11 - 00:09:46:10
+Speaker 2
+What's go what's what's the root cause of this problem?
+
+00:09:46:10 - 00:09:48:16
+Speaker 2
+Well, there's various root causes, but
+
+00:09:48:16 - 00:09:56:01
+Speaker 2
+the one key mistake was to fail to manage that on street parking vigorously.
+
+00:09:56:01 - 00:10:02:18
+Speaker 2
+But it's an understandable mistake. We can see why cities are reluctant to do that. And in the past it was quite difficult to do that.
+
+00:10:02:18 - 00:10:14:04
+Speaker 2
+But it turns out that it's getting easier and easier. The technology has improved and we have more and more examples of places that have solved this problem in the past.
+
+00:10:14:06 - 00:10:32:09
+Speaker 2
+So there's really no excuse anymore. So although we we see the same story happening in Indian cities, but actually Indian cities are lucky that they've got lots of examples to look at Now to to to do the right thing. And the number one right thing is to manage the on street parking.
+
+00:10:32:09 - 00:10:34:09
+Speaker 2
+We can talk more about what that entails.
+
+00:10:34:09 - 00:10:34:23
+Speaker 2
+Perhaps.
+
+00:10:34:23 - 00:10:44:03
+Speaker 1
+the question that I want to ask is why do we have to manage this on street parking? What is the goal of managing parking? Why can't it be?
+
+00:10:44:03 - 00:10:49:12
+Speaker 1
+I heard you say one of these things. It's not a public good. I understand, because I know what a public good really means. It is not.
+
+00:10:49:12 - 00:11:11:21
+Speaker 1
+It's misunderstood when you said it should be free. I think they're in their mind associating it with or it's a public good because it contributes to me going around and as my right to use my motor vehicle. Of course, in many other countries it's just a car and it's here two wheeler as well. There are also other parking requirements like cargo vehicles, the public busses, the.
+
+00:11:11:21 - 00:11:15:04
+Speaker 1
+Yeah. So if you talk about private passenger vehicle parking,
+
+00:11:15:04 - 00:11:21:09
+Speaker 1
+why do we have to manage parking, especially on street parking? What is the goal of that. Why are we trying to even do this thing.
+
+00:11:21:09 - 00:11:44:14
+Speaker 2
+Mm Yeah. So there's, there's various ways to answer that. I could answer it in perhaps very simple terms. I could also use kind of economists, wonkish public policy talk like public goods, common property resources. And so maybe I'll mention that briefly in a minute. But yeah, the simple reason is to make sure that motorists have an incentive
+
+00:11:44:14 - 00:11:45:03
+Speaker 2
+to
+
+00:11:45:03 - 00:11:47:02
+Speaker 2
+look for off street parking
+
+00:11:47:02 - 00:11:50:00
+Speaker 2
+and to be willing to pay for off street parking
+
+00:11:50:00 - 00:11:58:06
+Speaker 2
+if the on street parking is not well-managed, then the motorists have almost no incentive to even look for off street parking, let alone to pay
+
+00:11:58:06 - 00:12:03:12
+Speaker 2
+for off street parking, let alone to pay the full cost of the off street parking this full
+
+00:12:03:12 - 00:12:11:16
+Speaker 2
+opportunity cost. So that's perhaps the very, very simple reason. But a secondary reason is on the other side of the coin,
+
+00:12:11:16 - 00:12:14:14
+Speaker 2
+where is the parking off street coming from?
+
+00:12:14:14 - 00:12:20:21
+Speaker 2
+Somebody has to invest in to make sure there's off street parking. So
+
+00:12:20:21 - 00:12:27:11
+Speaker 2
+the early days or the sort of the simplistic solution was tough for the cities to build it and subsidize it.
+
+00:12:27:13 - 00:12:33:15
+Speaker 2
+It was loss making, but they were they thought they had to do that or to force developers to do that,
+
+00:12:33:15 - 00:12:40:18
+Speaker 2
+but increasingly so. We'll talk more about the parking reform movement. And the parking reform movement is
+
+00:12:40:18 - 00:12:48:01
+Speaker 2
+in formed by the experience of several places around the world, as well as lots of research. And the idea is that
+
+00:12:48:01 - 00:13:01:07
+Speaker 2
+if motorists have the right incentive to look for off street parking and to pay for it, then developers and builders and the owners of buildings, the real estate industry essentially
+
+00:13:01:07 - 00:13:05:14
+Speaker 2
+will have also the right incentive to meet that demand, right?
+
+00:13:05:16 - 00:13:28:11
+Speaker 2
+If they see a demand from motorists for parking that motorists are willing to pay for, then the real estate industry can respond to that. After all that, they are experts at meeting demand for real estate. They can meet demand for hotel rooms, for residences. There are some market failures, so it's not always perfect. And in parking there are some problems.
+
+00:13:28:11 - 00:13:35:23
+Speaker 2
+And so government does need to kind of keep a close eye on things to make sure things don't go wrong. But broadly speaking,
+
+00:13:35:23 - 00:13:38:14
+Speaker 2
+the experience in certain places, such as
+
+00:13:38:14 - 00:13:50:09
+Speaker 2
+downtowns, city centers all over the world is one sort of arena where we see this working reasonably well in many places. But also Japanese cities
+
+00:13:50:09 - 00:14:09:17
+Speaker 2
+are an example where this kind of this idea that we don't have to force so much parking to be built IT developers and the real estate industry and commercial interests will tend to provide parking and to manage it in the right kinds of ways.
+
+00:14:09:17 - 00:14:33:03
+Speaker 2
+Well, I'll spell out a few more details about Japan later, perhaps because it's an interesting story. You know, if you ask a parking reformer for their list of, say, four or five things to reform, Japan does not do exactly that list. But the things they do do are close enough that we can point to Japan as being a good model, an interesting model, and a reassuring model.
+
+00:14:33:03 - 00:14:54:00
+Speaker 2
+It reassures us that when we claim that governments don't need to worry so much about the off street parking, cities don't need to worry so much that there will be a shortage of off street parking, even if they don't build lots of parking themselves and even if they don't mandate through the parking norms that buildings build park have parking onsite.
+
+00:14:54:05 - 00:15:18:15
+Speaker 2
+Even if governments don't do that, cities don't do that, state governments don't do that. We can be fairly confident that there will be enough off street parking at about the right prices if if the on street parking is really managed well. So Japan actually is a strange variation on that. You asked why do we have to manage the on street parking?
+
+00:15:18:15 - 00:15:39:01
+Speaker 2
+So one choice is to manage the on street parking using fees, good enforcement, good design. And in most parts of the world where most in most parts of the world, that's how it's done. But there's a small number of places and Japanese cities are a prominent example where
+
+00:15:39:01 - 00:15:46:06
+Speaker 2
+there's another option was taken, and that was to actually mostly ban on street parking completely.
+
+00:15:46:08 - 00:16:10:21
+Speaker 2
+So if if you visit a big Japanese city or even a small Japanese city and you walk along the streets on the big main roads, you might see no parking, you might see a little bit of parking in marked spaces with parking meters, but much, much less than you would see in most other parts of the world. And on the minor streets.
+
+00:16:10:21 - 00:16:16:04
+Speaker 2
+The Japanese streets that are not main roads are typically very narrow
+
+00:16:16:04 - 00:16:35:09
+Speaker 2
+and so historically, that was the norm. And even in the sort of through the last few decades of the modern world, they they didn't they didn't change that. They've kept that tradition of having very, very narrow residential streets, very, very narrow shopping streets. So there's really almost no room for parking.
+
+00:16:35:11 - 00:16:47:08
+Speaker 2
+You will you will see some parking, some illegal parking. People will stop for half an hour or 10 minutes to run some errands or something. But if they if they stay for much longer than that, they're risking getting towed away.
+
+00:16:47:08 - 00:16:50:17
+Speaker 2
+And one other crucial thing in Japan is that
+
+00:16:50:17 - 00:16:53:18
+Speaker 2
+overnight parking in the streets is is banned,
+
+00:16:53:18 - 00:16:54:21
+Speaker 2
+completely banned.
+
+00:16:54:22 - 00:16:58:20
+Speaker 2
+So even in the legal parking spaces, you're not allowed to park there overnight.
+
+00:16:58:20 - 00:17:18:01
+Speaker 2
+So there's there's tow trucks go around in the middle of the night in Japanese cities looking for cars parked in the streets at say, 3 a.m., 4 a.m. and that they will be towed and you pay a fine. And so they they brought that policy in in that early stage.
+
+00:17:18:01 - 00:17:40:14
+Speaker 2
+So as you remember, I said that cities go through these stages, this early stage of cars being parked in the streets and causing a nuisance. So that happened in Japan, too, in the 1950s. It started to happen and fairly quickly because of their narrow streets, this became a bigger problem than it was for most other countries, much faster.
+
+00:17:40:16 - 00:18:04:16
+Speaker 2
+And so they had to sort of think, what are we going to do faster than most other countries? And to some extent they followed the same story as everyone else. They tried to build off street parking. The city government started to build off street parking. They started to try to force developers and owners of off strip off street space in their compounds to have parking in the compounds.
+
+00:18:04:16 - 00:18:08:18
+Speaker 2
+And so just like everywhere else, they established parking norms,
+
+00:18:08:18 - 00:18:29:11
+Speaker 2
+but they did one or two other things that were a little special, which changed their scenario. And it meant that Japan developed in quite a different way. Its parking story was was quite different from that time onwards, from the 1960s onwards. So one of those things was they, they
+
+00:18:29:11 - 00:18:30:17
+Speaker 2
+many, many places.
+
+00:18:30:17 - 00:18:56:23
+Speaker 2
+Actually, as I've looked into parking, I've been surprised that actually it's quite common for one of the early responses to the problems of parking in residential areas in the busier parts of cities was to ban on street parking overnight. So but in most countries and most cities where they did that, they gave up after a little while as car ownership went up and people were saying, well, what choice do I have?
+
+00:18:56:23 - 00:19:30:04
+Speaker 2
+I have to park somewhere. I have to park in the street. So, you know, you don't be so don't be so cruel to me, you know, And so the governments eventually gave up on that in Japan. They stuck to that. So they persisted with this overnight parking ban and this meant that if even in residential areas, lots of the houses didn't have off off street parking, onsite parking with their compounds and new buildings, often there were parking mandates.
+
+00:19:30:06 - 00:19:37:11
+Speaker 2
+But the second interesting thing Japanese cities did was the parking mandates were quite low
+
+00:19:37:11 - 00:19:40:03
+Speaker 2
+and they were pragmatic.
+
+00:19:40:03 - 00:19:46:23
+Speaker 2
+I don't know the exact story. Probably the real estate developer lobby was quite strong and they said
+
+00:19:46:23 - 00:19:49:16
+Speaker 2
+part of it might be the fact that plots of land,
+
+00:19:49:16 - 00:19:52:15
+Speaker 2
+urban plots of land in Japan tend to be very small.
+
+00:19:52:15 - 00:19:57:07
+Speaker 2
+And so squeezing parking into those plots of land is very, very difficult.
+
+00:19:57:07 - 00:20:09:00
+Speaker 2
+It's only feasible for larger plots of land. And so Japanese law exempted small buildings from the parking norms. So it's only
+
+00:20:09:00 - 00:20:28:05
+Speaker 2
+they only kick in for medium sized buildings and even then they're quite low and they phase in. So it's only when you have a really quite large building of about 6000 square meters of floor space that the full parking meter for parking requirements, parking mandates or parking norms apply to Japanese buildings,
+
+00:20:28:05 - 00:20:31:12
+Speaker 2
+only big ones, 6000 square meters and above.
+
+00:20:31:12 - 00:20:33:20
+Speaker 2
+So what this meant is that actually
+
+00:20:33:20 - 00:20:46:14
+Speaker 2
+lots of lots of small developments and medium sized apartment buildings weren't required to have very much parking. They didn't have enough parking for their residents, for their tenants, for their visitors. And so
+
+00:20:46:14 - 00:20:47:18
+Speaker 2
+at the same time,
+
+00:20:47:18 - 00:20:49:13
+Speaker 2
+there's almost no on street parking.
+
+00:20:49:13 - 00:20:51:01
+Speaker 2
+So very, very quickly
+
+00:20:51:01 - 00:20:53:04
+Speaker 2
+there's demand for off street parking
+
+00:20:53:04 - 00:20:56:23
+Speaker 2
+both at night and in the daytime in almost every neighborhood in Japan.
+
+00:20:56:23 - 00:20:57:07
+Speaker 2
+But
+
+00:20:57:07 - 00:20:58:10
+Speaker 2
+the parking norms are not
+
+00:20:58:10 - 00:21:17:02
+Speaker 2
+doing much to create that demand. The city governments very quickly realized they tried to build off street parking, but it's very expensive. You can't do much. You try hard. But car ownership is going like this, and the amount of parking that you're providing is going up, but much, much, much more slowly. And this is a very common story.
+
+00:21:17:04 - 00:21:38:18
+Speaker 2
+Try as they might. Cities just can't build enough parking. So there was a market demand for off street parking and gradually the private sector started to charge for their off street parking buildings that had some off street parking would very often open up to the public and say, okay, you can come in, but you have to pay people who own small plots of land.
+
+00:21:38:20 - 00:21:47:12
+Speaker 2
+If they didn't, you know, if they if they weren't ready to build on it, they would let it be parking temporarily. Sometimes it last for a long time. But so
+
+00:21:47:12 - 00:22:05:01
+Speaker 2
+if you go to Japan, there's priced parking off street parking almost everywhere, typically in very small facilities. And some are some of them are towers with automated parking. But not much of that parking is government built or government owned, and there's very little on street parking.
+
+00:22:05:04 - 00:22:09:03
+Speaker 2
+So we can be perhaps reassure Ward that,
+
+00:22:09:03 - 00:22:25:18
+Speaker 2
+parking can take care of itself if we manage the on street parking. So so one option is to manage it. Another option is to ban it. Now, in most cities, it's too late to ban it, right? We've already started to allow it and we started to sort of like mark it out and what not.
+
+00:22:25:18 - 00:22:37:10
+Speaker 2
+So if we suddenly change our policy now and ban the on street parking, that would seem a little bit draconian, that would seem too harsh. But in Japan, they
+
+00:22:37:10 - 00:22:40:09
+Speaker 2
+they did ban it. And so
+
+00:22:40:09 - 00:22:57:03
+Speaker 2
+banning has a very similar effect to managing it well, remember, because that sends the incentives. In Japan, motorists have no choice but to look for off street parking in other cities where on street parking is really well managed, they have an incentive, they have a choice.
+
+00:22:57:03 - 00:23:05:07
+Speaker 2
+They can park in the well managed on street parking and pay and follow the rules, or they can park off street, which they also have to pay for. But
+
+00:23:05:07 - 00:23:16:10
+Speaker 2
+in well, in cities with well-managed on street parking, the off street parking options, often you'll be able to find some cheaper off street parking options. That's especially relevant if you're a commuter.
+
+00:23:16:10 - 00:23:43:06
+Speaker 2
+For example, if you're just visiting an area and you're only parking for 2 hours, you don't mind paying maybe quite a significant price for parking, you know, But if you're parking there as a commuter parking, all day, every day, you don't want to pay ₹40 per hour for parking. Right. Because that's going to add up to quite a big chunk of your salary for the month you prefer.
+
+00:23:43:12 - 00:23:54:01
+Speaker 2
+A much cheaper rate may, even if it's a little less convenient, you're willing to park that, perhaps park around the corner or slightly further away in order to get that slightly cheaper parking.
+
+00:23:54:01 - 00:23:54:12
+Speaker 2
+Paul
+
+00:23:54:12 - 00:23:58:22
+Speaker 1
+Taking a slight detour and speaking to your personal role in academia
+
+00:23:58:22 - 00:24:20:16
+Speaker 1
+as someone interested in urban transportation and definitely speaking to other people interested in urban transportation, parking might not be the first intuitive sort of field that people think about when it comes to tackling an issue within urban transportation. People look at how we can implement bicycle lanes, maybe efficient public transit systems.
+
+00:24:20:18 - 00:24:28:01
+Speaker 1
+But I was wondering what personally got you interested in looking at parking with the reform and parking as an issue to tackle?
+
+00:24:28:01 - 00:25:01:05
+Speaker 2
+Okay. Yeah. So I'm the guru of parking reform by the name of Donald Shoup, Professor Donald Shoup from UCLA. And he's been working on parking as an urban planning professor and an economist. He's been working on it for decades now, but he particularly had a big, big influence with his book in 2005, which has the quite striking title of the high cost of free parking.
+
+00:25:01:07 - 00:25:25:09
+Speaker 2
+So it's kind of mind bending, paradoxical title there. So I became interested in parking as a result of reading his stuff and also reading a few other people who were talking and writing about parking. One of them was a guy called Todd Lippman, who's from Victoria in British Columbia in Canada. So he had quite an influence on me too.
+
+00:25:25:09 - 00:25:28:22
+Speaker 2
+But why did I suddenly pay attention? Because
+
+00:25:28:22 - 00:25:34:10
+Speaker 2
+okay, so my background was in environmental studies and then I did a PhD in
+
+00:25:34:10 - 00:25:54:14
+Speaker 2
+public policy, essentially, but focused on cities and the connection between cities, transport and cities, land use patterns, their evolution, the shape of the cities, the built environment. So the connection between transport and the built environment and the cities that I looked at were in Eastern Asia.
+
+00:25:54:16 - 00:26:01:16
+Speaker 2
+So Japanese cities, Korean cities, south Southeast Asian cities, especially.
+
+00:26:01:16 - 00:26:14:10
+Speaker 2
+the team that I was working with was led by Geoff Kenworthy, and he'd been writing with his colleague Peter Newman for for quite some time about the concept of car dependance.
+
+00:26:14:10 - 00:26:28:16
+Speaker 2
+So for your audience in India, one thing that perhaps when you when you when some of your audience maybe have traveled, if you've visited Australia or the United States, you probably were struck by
+
+00:26:28:16 - 00:26:31:23
+Speaker 2
+how empty those places seem.
+
+00:26:32:01 - 00:27:04:12
+Speaker 2
+They just don't seem to be many people around. Where are all the people? This is supposed to be a city where where is everybody? And that's that's no accident. Most Australian cities, most American, North American cities are very, very low density. So if we think of Bengaluru, the number of people per urban hectare is above 150, you know, approaching 200 people per urban hectare within the built the land that is already built on has some kind of urban land use.
+
+00:27:04:14 - 00:27:41:03
+Speaker 2
+You know, in American cities, typically it's about 1/10 of that, somebody like 15 or 20 people per urban hectare. So these are very, very spread out cities. And why are they so spread out? Well, it's because they've had 50, 60, 70, 80 years of car dependent planning and trying very, very hard to accommodate cars with more parking and more road space and people moving further and further away from the city centers into suburbs where most people live in bungalows.
+
+00:27:41:05 - 00:28:03:16
+Speaker 2
+And all of this effort to try to ease congestion because if you have too many people, too many jobs in a small space, if if most people arrive there by car, you'll have terrible, terrible congestion. So if you want if you want to have 90% of your people moving around by car, you have no choice but to spread out in very, very low densities.
+
+00:28:03:16 - 00:28:27:14
+Speaker 2
+And so those Western cities gradually did that over many, many decades. Now that they've done that over many, many decades, they're kind of stuck. It's very hard to you can't reverse this easily. And so the team I was working with was concerned about this concept of car dependance. It's not something that's a problem yet in Indian cities because you're at a very early stage of this process.
+
+00:28:27:16 - 00:28:48:12
+Speaker 2
+But if you continue to build roads and build parking and to mandate parking and to fail to manage on street parking, then you're heading in that direction. So as part of my PhD work, my research for my Ph.D. work, I was based in Malaysia for about five or six years, partly through the Ph.D. and then afterwards as well.
+
+00:28:48:14 - 00:29:14:15
+Speaker 2
+And I was a little dismayed. In fact, I was very dismayed to see that Malaysian policies and practices and trends were following the same kinds of trends that we'd seen in Australia in the US. And there was a movement in those Western countries of regretting not not everyone in those places regrets this. There's there's a big clash between people who love cars and think suburban kids are dependent, policies are fine.
+
+00:29:14:17 - 00:29:39:03
+Speaker 2
+And those of us who think it was a big mistake and we should do something different and try to move away from it. But it was it was worrying to see the same trends appearing in Malaysia and Thailand and to some extent even Indonesia and the Philippines, although at an earlier stage and I could see that parking was a big part of that story, my Ph.D. wasn't focused on parking at all.
+
+00:29:39:05 - 00:29:39:12
+Speaker 2
+But
+
+00:29:39:12 - 00:30:04:01
+Speaker 2
+fast forward another seven or eight years and I read Donald Shoup and read Todd Lippmann and realized for the first time that parking was a really important, fundamental part of that story. Up until that time, parking, I knew parking was a problem. I knew parking was a part of the story, but I couldn't see any hope for making any difference about it.
+
+00:30:04:01 - 00:30:12:04
+Speaker 2
+It seemed like one of those things that just was inevitable and there was just really no, no, no choices, no easy choices. But
+
+00:30:12:04 - 00:30:24:05
+Speaker 2
+I was inspired by those guys, too, to see that maybe we can do a lot about it and make a big difference with parking as perhaps a lever or what. One way I like to think of it is that
+
+00:30:24:05 - 00:30:38:19
+Speaker 2
+car dependance is this really big kind of ocean liner with a huge momentum in the wrong direction, and places like Australia in the US have been in this ocean liner for a long time and so they're very, very far off into the ocean of car dependance.
+
+00:30:38:21 - 00:31:01:04
+Speaker 2
+Places like, like Indian cities are embarking in that direction slowly and there are people at the rudder fighting with each other, some of them saying, no, no, let's build more metros and improve the busses and manage the parking and others are pulling at the rudder and saying, No, no, no, let's build expressways and freeways and don't put bus lanes in.
+
+00:31:01:06 - 00:31:21:23
+Speaker 2
+Don't don't manage the parking. Build more parking for me. I need more parking. Spread the cities out to avoid congestion. Don't allow concentrations of jobs in buildings and in the cities because that's just going to cause congestion. So these people struggling over the rudder, some of them are wanting to steer that ship in the direction of car dependance.
+
+00:31:22:01 - 00:31:48:13
+Speaker 2
+They don't probably see it that way. If you ask them. That's not what their vision is. They're just trying to accommodate the traffic in the cars. You know, they have a short term vision. But the thing is, if you spend year after year, decade after decade of accommodating traffic and building parking, keeping it cheap, building roads, keeping the roads cheap, you'll be in that ocean of car dependance before too long.
+
+00:31:48:15 - 00:32:13:09
+Speaker 2
+So it's hard to imagine that Indian cities could become car dependent because they are so different from that right now. But it could happen. Many decades of change can send you in that direction. But what I see in China, you know, the big countries like China with set, you know, quite a number of enormous cities of more than 5 million people.
+
+00:32:13:11 - 00:32:28:19
+Speaker 2
+Increasingly, India is a country of many cities of, you know, that are big, more than 5 million people. They're already big without much space, without much road space, without much parking space. And so like Japan,
+
+00:32:28:19 - 00:32:32:15
+Speaker 2
+cities in China, cities in India are seeing
+
+00:32:32:15 - 00:32:43:23
+Speaker 2
+already at quite an early stage in this process that you just can't keep going on by trying to build more parking, trying to build more roads, expand the roads.
+
+00:32:43:23 - 00:32:51:04
+Speaker 2
+It just isn't feasible in that kind of context. Smaller cities might keep trying for longer, but
+
+00:32:51:04 - 00:33:06:14
+Speaker 2
+fortunately, the smaller cities, once the big cities change their policies, the smaller cities often will copy the policies that they see in Bengaluru, Delhi, Beijing. The most recent Reinventing Parking episode
+
+00:33:06:14 - 00:33:07:21
+Speaker 2
+was about Beijing
+
+00:33:07:21 - 00:33:11:09
+Speaker 2
+and Tip ten. We talked about how ten years ago
+
+00:33:11:09 - 00:33:14:04
+Speaker 2
+the parking situation in Beijing was.
+
+00:33:14:06 - 00:33:17:10
+Speaker 2
+This might be hard to believe, but worse than
+
+00:33:17:10 - 00:33:18:08
+Speaker 2
+Indian cities,
+
+00:33:18:08 - 00:33:25:14
+Speaker 2
+the streets were just clogged with parking, parked cars and parked motorcycles just everywhere.
+
+00:33:25:14 - 00:33:43:10
+Speaker 2
+So in in just over ten years or so, the big cities, Shenzhen, Gwangju, Shanghai, Beijing have really got a grip on their parking situation and improve things a lot. And so there's some good examples to follow.
+
+00:33:43:10 - 00:33:47:20
+Speaker 2
+And we can see signs in India of a really good debate about parking.
+
+00:33:47:20 - 00:33:57:18
+Speaker 2
+So lots of people saying the right things about parking and lots of argument and debate. But, you know, people are fighting about it and it's it's not easy. But
+
+00:33:57:18 - 00:34:08:06
+Speaker 2
+I'm hopeful that the Indian cities will see the parking reform light soon. And more and more of them will experiment with parking reform and
+
+00:34:08:06 - 00:34:11:19
+Speaker 2
+demonstrate to the other Indian cities that, look, it works.
+
+00:34:11:21 - 00:34:13:13
+Speaker 2
+You too, can achieve these benefits.
+
+00:34:13:21 - 00:34:41:06
+Speaker 1
+So some reforms are coming, like you said, but they are few and far between, and they're still struggling to cater to this vocal audience that you said that are car users, which is a sign to prosperity and the stuff that we're growing economy now, we need to cater to a lot of motor vehicles. But the reality of their dealing with this, what you said, which is the cities are large, the population is huge, and there is no way you can accommodate all of them.
+
+00:34:41:08 - 00:35:02:12
+Speaker 1
+So it is inevitable that parking needs to be rationed. The word that you used initially and managed and the true cost levied. So it's not going to be zero cars. There are going to be cars that are going to be plying, like you said in one of your podcast. It's not a true disincentive that you you levy as a parking, right.
+
+00:35:02:12 - 00:35:15:01
+Speaker 1
+I mean, whether it is congestion charging or parking or anything, people who can afford to pay are anyway going to pay and come in. Why don't you charge them and use that money to do something better? Yeah, the pushback is all coming from
+
+00:35:15:01 - 00:35:19:23
+Speaker 1
+disenfranchized or the public transport user or the people who cannot afford to keep on paying these things.
+
+00:35:19:23 - 00:35:34:07
+Speaker 1
+So there is going to be pushback and the alternates are still not coming in fast enough. The bus services are still needed to be coming up, know the services need to be better. Considering that, what kind of role does civil society movements play
+
+00:35:34:07 - 00:35:38:10
+Speaker 1
+in? On the one hand, calling out parking reforms
+
+00:35:38:10 - 00:35:39:07
+Speaker 1
+what it may be
+
+00:35:39:07 - 00:35:40:11
+Speaker 1
+and on the other hand
+
+00:35:40:11 - 00:35:45:12
+Speaker 1
+trying to push sustainable transport modes like public transport and other things.
+
+00:35:45:12 - 00:35:54:13
+Speaker 1
+What role do you see for civil society and how do you think that will What kind of example are we seeing around the world that you can hold for us?
+
+00:35:54:13 - 00:35:54:23
+Speaker 2
+just
+
+00:35:54:23 - 00:36:02:13
+Speaker 2
+briefly, perhaps I'll touch on a negative, but we'll quickly switch to the positive. But unfortunately
+
+00:36:02:13 - 00:36:09:21
+Speaker 2
+all over the world. But I see this, especially in India recently, some of civil society is actually
+
+00:36:09:21 - 00:36:23:23
+Speaker 2
+pulling that rudder in the direction of car dependance. So we see some we see some consumer advocacy organizations or organizations that have perhaps they've,
+
+00:36:23:23 - 00:36:32:01
+Speaker 2
+with good intentions, championed the cause of consumers against predatory
+
+00:36:32:01 - 00:36:33:11
+Speaker 2
+business practices.
+
+00:36:33:13 - 00:37:04:13
+Speaker 2
+And some of those have made the mistake of noticing that parking pricing is appearing in, say, shopping malls and noticing that the on street parking fee collection system and the fee collection systems of some government owned parking has been privatized in a dysfunctional way to contractors who sometimes get called the parking mafia. Right. And they some of them behave badly.
+
+00:37:04:15 - 00:37:38:11
+Speaker 2
+And so the sort of indignation that parking should fees should be levied. So these nonprofit organizations sometimes champion free parking and opposition to parking fees out of perhaps good intentions. And because they have had some success in other arenas where they were, look, they found some predatory practices by bad, you know, businesses that were doing something wrong. Unfortunately, when you apply that to parking it, it's a it's a rather mistaken focus.
+
+00:37:38:14 - 00:38:19:19
+Speaker 2
+But by all means, the parking fee system should be made much more efficient. We should get rid of the predatory kind of parking mafia organizations. There should be proper, proper pricing that's not highly irregular, highly regulated, and well-managed, so that the funds go to the right place and not into the pockets of the wrong people. So that much is true, but being being just against parking fees is is a really poor use of precious civic advocacy effort which could be focused on better things.
+
+00:38:19:21 - 00:38:26:05
+Speaker 2
+So having said that, yeah, parking is not one of those things that tends to get people excited in and of itself.
+
+00:38:26:05 - 00:38:37:23
+Speaker 2
+Although one thing that Donald Shoup did do, which is a little surprising, is he made this wonky, detailed, strange policy arena, interesting enough that
+
+00:38:37:23 - 00:38:40:11
+Speaker 2
+there did emerge in the late
+
+00:38:40:11 - 00:38:47:18
+Speaker 2
+that decade, late in that decade, those around 2008 or so, a group of people who call themselves the shoupistas
+
+00:38:47:20 - 00:39:20:05
+Speaker 2
+So if you search online for shoupistas, it's like an analogy with Sandinistas and other words like that, right? It's the Spanish ending their Shoup S.H.O.U.P istas I.S.T.A.S. These are people who champion the parking policies that Donald Shoup champions. So there are there is a small group of people who really, really are excited about parking reform. But most successful parking reforms in cities that have done the kind of parking reform that I advocate,
+
+00:39:20:05 - 00:39:31:22
+Speaker 2
+places like Auckland in New Zealand or New Zealand as a whole, or Portland in Oregon or Mexico City, Sao Paulo in Brazil, and many, many others.
+
+00:39:32:00 - 00:39:34:05
+Speaker 2
+Some European cities over the years
+
+00:39:34:05 - 00:39:48:08
+Speaker 2
+they have done it as part of a wider package of reforms so that there was a champion. The championing housing reforms, for example. Sometimes parking is bundled in with it, housing reform or part of that
+
+00:39:48:08 - 00:39:53:04
+Speaker 2
+agenda at least wider sustainable transport
+
+00:39:53:04 - 00:40:00:07
+Speaker 2
+reform. So that appeal to people. So for example, in Bogota, in Colombia is famous for
+
+00:40:00:07 - 00:40:12:08
+Speaker 2
+urban mobility forms and public transport improvements in the around the year 2000 and a few years after that, part of those changes included some parking changes.
+
+00:40:12:10 - 00:40:22:03
+Speaker 2
+Nine out of ten of them very good. And 1.1 or so out of ten of them not so good. But generally speaking, it was it was good parking reforms. So that's usually the story is
+
+00:40:22:03 - 00:40:24:23
+Speaker 2
+people like me who are deeply into parking,
+
+00:40:24:23 - 00:40:35:09
+Speaker 2
+helping people like you, who are interested in a wide diversity of issues, but which touch on parking.
+
+00:40:35:09 - 00:40:37:20
+Speaker 2
+So, you know, affordable housing,
+
+00:40:37:20 - 00:40:57:03
+Speaker 2
+affordable public transport for poor people, and plentiful public transport for people, avoiding having busses, getting stuck in traffic, making sure that cycling and walking is safe in the streets. There are people who care about all of those issues deeply and have made that their number one thing. Now I care about all those issues as well.
+
+00:40:57:03 - 00:41:06:17
+Speaker 2
+That's partly what motivates me with parking, but I've chosen to sort of zero in on parking as my focus in order to make a difference on all of those other things. And so
+
+00:41:06:17 - 00:41:19:03
+Speaker 2
+my mission and there's a there's a new organization in the US called the Parking Reform Network that I'm part of. And my podcast, the Reinventing Parking Podcast, is now the podcast for that network Parking Reform Network.
+
+00:41:19:04 - 00:41:20:21
+Speaker 2
+And we're hoping to
+
+00:41:20:21 - 00:41:26:04
+Speaker 2
+become international network, in fact, and we'd love to have members or
+
+00:41:26:04 - 00:41:30:10
+Speaker 2
+correspondents in India who are part of the network and can help
+
+00:41:30:10 - 00:41:40:06
+Speaker 2
+information to flow both ways. You know what's happening in India. The rest of the world can be inspired if an Indian city or town does some good things and parking everyone else can learn from that.
+
+00:41:40:06 - 00:41:41:19
+Speaker 2
+And similarly,
+
+00:41:41:19 - 00:41:48:01
+Speaker 2
+nonprofits and other, you know, activists and advocates on various policies when they need to
+
+00:41:48:01 - 00:41:52:16
+Speaker 2
+deal with parking, it can be very confusing. Right? It's it's it's a bit
+
+00:41:52:16 - 00:42:07:10
+Speaker 2
+technical sometimes and just confusing because the mind sets the obvious thing to do is not always the right thing to do. We in the parking reform network and other other parking reformers can help you to get your head around what what would parking
+
+00:42:07:10 - 00:42:11:15
+Speaker 2
+look like as part of an agenda that will help your cause?
+
+00:42:11:17 - 00:42:34:21
+Speaker 2
+And so the good the good news is that the kind of this kind of list of key parking reforms that we advocate pricing on street parking properly, managing it well, enforcing the on street parking well, designing the streets well, maybe to include parking as appropriate or maybe not, depending on the street and refraining from
+
+00:42:34:21 - 00:42:39:14
+Speaker 2
+promoting off street parking, refraining from requiring refraining from subsidizing it.
+
+00:42:39:16 - 00:42:42:21
+Speaker 2
+Those are the sort of essentials of this parking reform
+
+00:42:42:21 - 00:43:05:19
+Speaker 2
+agenda. Those Help a long list of other agendas as well. And so we can see that happening. But the parking reform itself then benefits as well, because it piggybacks on those perhaps more popular and more widely understandable agendas so that we can get parking reform. So it's it's a synergy.
+
+00:43:06:04 - 00:43:08:14
+Speaker 1
+That's very interesting. So there are a
+
+00:43:08:14 - 00:43:10:00
+Speaker 1
+lot of lessons to learn from
+
+00:43:10:00 - 00:43:14:07
+Speaker 1
+the Japanese. Examples really strike a chord because we are built similar
+
+00:43:14:07 - 00:43:16:07
+Speaker 1
+and the pathway could be
+
+00:43:16:07 - 00:43:33:12
+Speaker 1
+mimicking some of those obviously it can’t be Australia and the US model. That ship has sailed too far, like you said, and we are having to pull the handbrakes on this one and see how we can go forward and a parting thoughts on what you think the decision makers in India
+
+00:43:33:12 - 00:43:36:06
+Speaker 1
+should be doing regarding how should they be seeing?
+
+00:43:36:06 - 00:43:48:17
+Speaker 1
+I mean, you've if you had to summarize for them, do this, this, this, follow this, do this or do that, you know, it would be useful because there are parking policies coming in and they are all leaning towards paid parking,
+
+00:43:48:17 - 00:43:52:15
+Speaker 1
+but not necessarily going all the way. And they don't have to go all the way right up front.
+
+00:43:52:15 - 00:43:55:18
+Speaker 1
+But what could be the sequence that you think they should
+
+00:43:55:18 - 00:43:57:22
+Speaker 1
+go after that? That would be nice to hear.
+
+00:43:57:22 - 00:44:28:01
+Speaker 2
+So let me perhaps mention some some Indian organizations and people who are pushing in the right direction. So over the years, CSE, the Center for Science, the Environment in Delhi and an Anumita Roy Chowdhry has been a champion of parking reform. Shreya Gadepalli, I think you interviewed this long standing champion in her group, Urban Works, her former organization, ITDP India, still working on parking reform.
+
+00:44:28:01 - 00:44:38:19
+Speaker 2
+And these are all excellent resources and people that you can turn to to learn more about parking reform within India. One of the that Shreya says, is
+
+00:44:38:19 - 00:44:49:21
+Speaker 2
+perhaps the first thing is to change our mindset about parking. So you remember I said that that harmful mindset that emerges early on is a privileged mindset that I deserve parking and it should be cheap and free.
+
+00:44:49:23 - 00:44:52:10
+Speaker 2
+It's like a public good that just should be there for me.
+
+00:44:52:10 - 00:44:57:20
+Speaker 2
+A much better mindset about parking would be to say parking is real estate.
+
+00:44:57:20 - 00:45:07:22
+Speaker 2
+It's like hotel rooms, meeting rooms, right? We don't need the government to require these things. We don't need the government to subsidize these things. If there's a demand for them,
+
+00:45:07:22 - 00:45:11:16
+Speaker 2
+private sector will, generally speaking, build them.
+
+00:45:11:18 - 00:45:32:03
+Speaker 2
+The government needs to make sure that we don't have market failures and certain problems exploitation. But that's about it. But because there's this interaction with the off street parking, which is real estate and the on street parking, which is not quite real estate, right. It's part of the public realm. It's a public service, but not a public good.
+
+00:45:32:05 - 00:45:44:14
+Speaker 2
+Different things. So but government has responsibility for the on street parking. And one difficulty for government is it's vulnerable to voices saying don't charge too much. Right.
+
+00:45:44:14 - 00:45:56:19
+Speaker 2
+Government, you know, is in charge of water. Don't charge too much for water. Electricity don't should charge too much. All of the things that government is in charge of, it's very difficult to charge a full cost price for any of those things.
+
+00:45:57:00 - 00:46:14:20
+Speaker 2
+And parking is no exception. But one thing that government can do with the on street parking is again a mindset. Instead of treating it as just a free public good, treat it as a common property resource. This is like a technical term, but the
+
+00:46:14:20 - 00:46:18:20
+Speaker 2
+classic example of a common property resource is a river,
+
+00:46:18:20 - 00:46:20:11
+Speaker 2
+a river with fish.
+
+00:46:20:13 - 00:46:39:23
+Speaker 2
+And the water itself needs to be clean, right? So if you have factories along that river and people fishing and extracting that that river water for irrigation, it's all too easy. If we don't ration those activities for that river to be used and abused and end up
+
+00:46:39:23 - 00:46:41:02
+Speaker 2
+in terrible, terrible
+
+00:46:41:02 - 00:46:46:20
+Speaker 2
+condition, which is not good for anybody. Right. In the end, nobody is happy with that situation.
+
+00:46:46:20 - 00:46:52:07
+Speaker 2
+the same with parking in the streets. So parking in streets, to the extent that we allow it,
+
+00:46:52:07 - 00:46:53:03
+Speaker 2
+that parking,
+
+00:46:53:03 - 00:46:59:14
+Speaker 2
+we should mark it out and make sure it's only in the places that's allowed. But the allowed legal parking
+
+00:46:59:14 - 00:47:09:03
+Speaker 2
+is a common property resource that will inevitably be overused in busy areas at least. And in India you have no shortage of busy areas, right?
+
+00:47:09:03 - 00:47:14:16
+Speaker 2
+So just about everywhere, a busy area. So parking will almost inevitably be overused
+
+00:47:14:16 - 00:47:15:20
+Speaker 2
+on an Indian street
+
+00:47:15:20 - 00:47:31:01
+Speaker 2
+with motorcycles, lorries, small trucks, small lorries, big lorries, cars, all of them. You know, a whole menagerie of vehicles will be occupying that parking. So just like a river, you need to ration that use. And
+
+00:47:31:01 - 00:47:34:11
+Speaker 2
+with rivers, the rationing takes many forms, right?
+
+00:47:34:11 - 00:47:36:23
+Speaker 2
+It often it's rules, regulations,
+
+00:47:36:23 - 00:47:38:04
+Speaker 2
+it's complicated. But
+
+00:47:38:04 - 00:48:05:00
+Speaker 2
+pricing is only one of that part of the toolbox. But there will always be enforcement, no matter what kind of what kind of rationing you do, you will always need to have enforcement to back it up. But when it comes to parking, it turns out that fees are the number one effective, efficient, tried and tested hundreds of cities all over the world.
+
+00:48:05:02 - 00:48:19:20
+Speaker 2
+It works. We know it works. And it's almost like magic. A few years ago, I came up with a hands on user experience game using cards on on, on a on a sort of a
+
+00:48:19:20 - 00:48:22:16
+Speaker 2
+a pretend little piece of of a city
+
+00:48:22:16 - 00:48:36:07
+Speaker 2
+with squares that represent parking spaces and buildings and things. And so both in India and urban works have adapted that game for for the Indian case and they've improved and made it much more fun.
+
+00:48:36:09 - 00:48:53:09
+Speaker 2
+And that game illustrates the power of on street parking fees to magically almost, because when people play this game, they don't expect it to work quite so well. It gives people an incentive to use the off street parking and to find the all street parking.
+
+00:48:53:09 - 00:48:57:23
+Speaker 2
+so it really, really does work rationing on street parking. It really, really does work.
+
+00:48:57:23 - 00:49:01:21
+Speaker 2
+And so now where was I
+
+00:49:01:21 - 00:49:06:02
+Speaker 2
+mindsets, right? So what what Indian authorities need to do
+
+00:49:06:02 - 00:49:07:22
+Speaker 2
+off street parking is real estate.
+
+00:49:07:22 - 00:49:15:21
+Speaker 2
+On street parking is a common property reasons like rivers. But unlike rivers, the number one tool for rationing is fees.
+
+00:49:15:21 - 00:49:23:23
+Speaker 2
+Together with enforcement, effective enforcement, there is a problem that the traffic police are the ones responsible for enforcement and
+
+00:49:23:23 - 00:49:26:00
+Speaker 2
+not not to be critical of them.
+
+00:49:26:00 - 00:49:42:09
+Speaker 2
+They're doing the best they can, but they've got bigger things on their agenda, right? They've got bigger problems. If you have chaotic parking in a relatively minor street, the traffic police will go and look at that and say, well, it's not really causing a traffic jam.
+
+00:49:42:09 - 00:49:46:09
+Speaker 2
+My my priority is making sure the traffic flows on the big roads.
+
+00:49:46:11 - 00:50:20:16
+Speaker 2
+So I don't care about this problem. But cities should care about chaotic parking even on the minor streets, not just the major streets. And so we need cities probably need to negotiate with the police to delegate some of their power for parking enforcement, to parking wardens who will see it as their number one priority to enforce the parking rules, even on the minor streets where it's not causing a traffic problem because it's still causing other problems, you're then failing to give the motorist that incentive that they need to look for
+
+00:50:20:16 - 00:50:22:19
+Speaker 2
+off street priced parking.
+
+00:50:22:19 - 00:50:27:09
+Speaker 2
+That is what we want them to use. Mostly we can have some on street parking.
+
+00:50:27:09 - 00:50:30:08
+Speaker 2
+So the mindset is the number one thing.
+
+00:50:30:08 - 00:50:33:09
+Speaker 2
+The policies themselves follow from that mindset,
+
+00:50:33:09 - 00:50:34:01
+Speaker 2
+but
+
+00:50:34:01 - 00:50:46:04
+Speaker 2
+it's a two way street. So what we see around the world is that once cities start to do the right policies of pricing the on street parking and refraining from promoting the off street parking, the mindsets also change.
+
+00:50:46:04 - 00:50:47:19
+Speaker 2
+So
+
+00:50:47:19 - 00:50:51:08
+Speaker 2
+we can do a bit of both, right? Don't wait for the mindsets to change before we do something.
+
+00:50:51:08 - 00:51:02:03
+Speaker 2
+But as we do something constantly hammer home, we're doing this because we have a different mindset about parking and it's better for the motorists to right. The motorists are not happy with the current situation in
+
+00:51:02:03 - 00:51:04:10
+Speaker 2
+and big cities.
+
+00:51:04:10 - 00:51:06:01
+Speaker 2
+Something needs to improve and
+
+00:51:06:01 - 00:51:16:17
+Speaker 2
+they need to face up to the fact that just building more and more parking and keeping it cheap is not going to help. It's not going to solve the problem. We know this from all over the world. The only places where that
+
+00:51:16:17 - 00:51:17:18
+Speaker 2
+approach has
+
+00:51:17:18 - 00:51:21:05
+Speaker 2
+worked is very rich countries
+
+00:51:21:05 - 00:51:25:11
+Speaker 2
+where they were rich enough and small cities where they were rich enough to spread out, spread out, spread out.
+
+00:51:25:11 - 00:51:30:10
+Speaker 2
+But then they have a different problem, right? Detroit doesn't have a parking problem.
+
+00:51:30:10 - 00:51:34:22
+Speaker 2
+It's got a parking glut and it's got a car dependance problem and it's got a
+
+00:51:34:22 - 00:51:37:02
+Speaker 2
+terrible, terrible public transport system.
+
+00:51:37:02 - 00:51:43:15
+Speaker 2
+careful what you wish for. If you wish for plentiful parking and free, free flowing roads
+
+00:51:43:15 - 00:51:45:14
+Speaker 2
+after 30 or 40 years, you might have that.
+
+00:51:45:14 - 00:51:52:10
+Speaker 2
+But you're going to have a far worse problem like some of those American cities. So careful what you wish.
+
+00:51:52:10 - 00:52:13:06
+Speaker 1
+That's a tough sell for you. We have to be able to visualize that and show people how it's going to look. And like you said, the mindset is the biggest thing today. Everybody needs to be told One simple truth, parking needs to be rationed and it's no longer going to be free. It may have been earlier, but get used to it.
+
+00:52:13:08 - 00:52:15:22
+Speaker 1
+You can't have the loss aversion syndrome anymore that,
+
+00:52:15:22 - 00:52:18:11
+Speaker 1
+Oh my God, I'm losing some things.
+
+00:52:18:11 - 00:52:19:19
+Speaker 2
+Yeah. So that reminds me
+
+00:52:19:19 - 00:52:31:22
+Speaker 2
+packaging it with a with some attractive things for it because people do care about the streets, the safety of the streets for their children, for elderly relatives, for themselves. And they care about
+
+00:52:31:22 - 00:52:40:23
+Speaker 2
+their residential environment. They care about being able to move around with other options. They care about the traffic jams that they're sitting in.
+
+00:52:41:04 - 00:52:42:08
+Speaker 2
+They don't want them.
+
+00:52:42:08 - 00:53:01:13
+Speaker 2
+The answer isn't more and more roads. More and more parking is a different answer. But just telling them that you need to pay for parking is the solution won't be persuasive. It needs to be part of a package which really does improve public transport, really does provide safe lanes for for vulnerable
+
+00:53:01:13 - 00:53:08:22
+Speaker 2
+two wheelers, for example, etc. Those things all need to be part of a package and they can come together very nicely.
+
+00:53:09:00 - 00:53:13:18
+Speaker 2
+But it takes some clever leadership, too, to bring people along.
+
+00:53:13:18 - 00:53:24:08
+Speaker 2
+By the way, I guess I should perhaps mention you mentioned the worry that pricing the on street parking would be a burden to to.
+
+00:53:24:10 - 00:53:25:19
+Speaker 1
+to some sections.
+
+00:53:25:21 - 00:53:34:20
+Speaker 2
+Certain sections of society. So just let me make two points about that. One of them is that in today's India,
+
+00:53:34:20 - 00:53:44:12
+Speaker 2
+if if we think of parking as kind of like rent for a certain number of square meters, an off street parking space for a car,
+
+00:53:44:12 - 00:53:51:19
+Speaker 2
+roughly speaking, 25 to 30 square meters, once you take account of the the aisles and the ramps and all of that
+
+00:53:51:19 - 00:53:53:02
+Speaker 2
+on street parking,
+
+00:53:53:02 - 00:53:56:17
+Speaker 2
+about half of that, because you don't need the aisles and the ramps
+
+00:53:56:17 - 00:53:59:21
+Speaker 2
+for a two wheeler, a motorized two wheeler
+
+00:53:59:21 - 00:54:01:14
+Speaker 2
+off street is
+
+00:54:01:14 - 00:54:03:19
+Speaker 2
+much, much less than 1/10
+
+00:54:03:19 - 00:54:09:06
+Speaker 2
+of the space for for the cars because the aisles can be narrow if you have a dedicated parking
+
+00:54:09:06 - 00:54:24:08
+Speaker 2
+facility only for two wheelers, you can have incredibly narrow aisles and narrow ramps and you don't need much space. And the motorcycles can pack in quite tightly. Similarly, on street, they pack in maybe 6 to 1 car.
+
+00:54:24:08 - 00:54:30:02
+Speaker 2
+what's the traditional price for parking A two wheeler? It's just half the price of a four wheeler. Right.
+
+00:54:30:02 - 00:54:36:08
+Speaker 2
+So if you calculate that as a fee per square meter, who is paying?
+
+00:54:36:13 - 00:54:37:17
+Speaker 2
+Who is overpaying?
+
+00:54:37:17 - 00:54:44:01
+Speaker 2
+It's the two wheeler users. So they are they are subsidizing their richer four wheeler users
+
+00:54:44:01 - 00:54:50:14
+Speaker 2
+currently. Right now. So as part of parking reform and having proper pricing,
+
+00:54:50:14 - 00:54:52:10
+Speaker 2
+don't raise the two wheeler prices.
+
+00:54:52:10 - 00:55:01:10
+Speaker 2
+They may already be about right. Sometimes they might even be too high. But the four wheeler prices probably need to rise in the busy places.
+
+00:55:01:12 - 00:55:07:05
+Speaker 2
+And that's the second point. So I said I would make two points. So the second point is you only raise the prices
+
+00:55:07:05 - 00:55:07:22
+Speaker 2
+where
+
+00:55:07:22 - 00:55:25:14
+Speaker 2
+you need to to make the difference that you want to make, Right? The difference we want to make is to make sure the on street parking is not totally clogged up and chaotic. And currently with that clear, chaotic situation, people have an incentive to find illegal on street parking, on footpaths and, you know, blocking things wherever they can find it.
+
+00:55:25:14 - 00:55:31:20
+Speaker 2
+Right. And they know the enforcement is weak, so they just do it. We want them to have the incentive to do the right thing,
+
+00:55:31:20 - 00:55:37:21
+Speaker 2
+but we don't need to overdo it. Right. There's no point pricing on street parking so pricey that
+
+00:55:37:21 - 00:55:39:07
+Speaker 2
+there's no cars in the street at all.
+
+00:55:39:07 - 00:55:41:14
+Speaker 2
+If there's space for parking, we can have parking. That's fine.
+
+00:55:41:14 - 00:55:53:07
+Speaker 2
+If it's if the road design is such that there's enough space for parking and it's still safe and you can still have, you know, traffic and busses and etc., then by all means have parking but ration it.
+
+00:55:53:07 - 00:55:57:17
+Speaker 2
+But that doesn't mean completely getting rid of it. You get the right price so that you have
+
+00:55:57:17 - 00:56:03:00
+Speaker 2
+parking, but not for parking because it's when it gets full, that's when people do the bad behavior, right.
+
+00:56:03:01 - 00:56:07:06
+Speaker 2
+So that suggests that the parking prices should be trial and error
+
+00:56:07:06 - 00:56:09:00
+Speaker 2
+parking prices. So
+
+00:56:09:00 - 00:56:20:21
+Speaker 2
+one of the things Donald Shoup has been championing is this trial and error approach to parking prices. So that would be something for cities in India to think about, because I know that the cities in India that has been
+
+00:56:20:21 - 00:56:24:05
+Speaker 2
+most progressive and thinking about doing the right thing with parking.
+
+00:56:24:05 - 00:56:32:05
+Speaker 2
+Chennai, Bangalore, Bengaluru, Punjab and a few others, Ahmedabad. They've been struggling with this question What's the right price?
+
+00:56:32:05 - 00:56:35:20
+Speaker 2
+Well, there is no answer to that. It's a trial and error thing. You wait and see.
+
+00:56:35:20 - 00:56:45:16
+Speaker 2
+You should sort of make a guess one price for cars and then maybe 1/10 of that price for motorcycles. And then you just wait and see what happens.
+
+00:56:45:17 - 00:57:03:11
+Speaker 2
+If the parking is still full, then you need to raise the price a bit more. And if it's still full, raised a bit more until you get a few vacancies, you might find that you need a morning price, a midday price in an afternoon price or an evening price you might need for prices, maybe even a Saturday price.
+
+00:57:03:13 - 00:57:11:17
+Speaker 2
+You might need different prices at different times because the parking might be totally empty in the morning, but it's really chock block full in the late afternoon.
+
+00:57:11:17 - 00:57:19:11
+Speaker 2
+the price should be higher in the late afternoon because you need and that will give some incentive to some people to change. They park not just where they park.
+
+00:57:19:11 - 00:57:22:02
+Speaker 2
+The power of these fees is almost magical.
+
+00:57:22:04 - 00:57:22:12
+Speaker 2
+But
+
+00:57:22:12 - 00:57:28:03
+Speaker 2
+the other thing about these trial and error prices is the fear that shopkeepers have
+
+00:57:28:03 - 00:57:32:11
+Speaker 2
+that you will price too much and you will scare away their customers.
+
+00:57:32:11 - 00:57:37:18
+Speaker 2
+They don't need to worry if it's trial and error crisis because we're never going to price so high that the customers can't come.
+
+00:57:37:18 - 00:57:43:17
+Speaker 2
+In fact, if we get the price right, you'll they'll have more customers because you'll have turnover in the parking.
+
+00:57:43:17 - 00:57:47:13
+Speaker 2
+any new customer can always find a new spot, a spot that's empty.
+
+00:57:47:13 - 00:57:49:11
+Speaker 2
+trial and error is the
+
+00:57:49:11 - 00:57:53:17
+Speaker 2
+best way to set parking prices and private sector
+
+00:57:53:17 - 00:57:55:18
+Speaker 2
+owners of off street parking, that's how they do it.
+
+00:57:55:18 - 00:58:01:18
+Speaker 2
+They don't talk about it, but that's how they do it. And many cities do this, actually, but without talking about it.
+
+00:58:01:20 - 00:58:12:21
+Speaker 2
+And there's a certain number of cities that do this very explicitly and they talk about it places like Seattle, San Francisco, Calgary, in in Canada. And there's a there's a list of others.
+
+00:58:12:21 - 00:58:19:12
+Speaker 2
+Yeah, Auckland in New Zealand is another one. There's a there's a bunch of them, but many, many more do this quietly without really talking about it.
+
+00:58:19:12 - 00:58:32:02
+Speaker 2
+The that they review the price every few for it so often if you look around in a European city, very often you'll see pricing zones expensive parking in the busiest parts of the city, much, much cheaper and less busy parts.
+
+00:58:32:02 - 00:58:35:23
+Speaker 2
+They are quietly doing a similar thing, but without much fuss.
+
+00:58:35:23 - 00:58:36:13
+Speaker 1
+I think So
+
+00:58:36:13 - 00:59:01:12
+Speaker 1
+Now, with a lot of technology and surge pricing, you can even make that more dynamic and discover the price based on the load and things like that. There was also the conundrum of most planners thinking today that the two wheeler is stealing the public transport user away because the cost of end to end trip on a two wheeler is lower than a public transport, and public transport is never able to manage to match those prices.
+
+00:59:01:15 - 00:59:21:00
+Speaker 1
+And we are clogged with a lot of two wheeler. Suddenly, two wheelers are becoming an enemy of public transport, but not how the viewers, not how do users might see it. for us It is convenience and it's a nicer, smaller footprint way of going along. Like you said, one fifth of a car space because we use smaller cars.
+
+00:59:21:02 - 00:59:23:07
+Speaker 2
+Especially if they're electric. Yeah.
+
+00:59:23:09 - 00:59:27:22
+Speaker 1
+Especially if they're. Yeah, but the car space is still car space. It's just a.
+
+00:59:28:00 - 00:59:33:22
+Speaker 2
+Yes. That's right. Yeah. Now what I mean is electric two wheelers are a huge opportunity for India.
+
+00:59:33:23 - 00:59:42:07
+Speaker 1
+I think. So electric anything is a true opportunity. But in terms of space, it's one fifth of an EV Car or a petrol car. So.
+
+00:59:42:07 - 00:59:52:01
+Speaker 2
+it's very tempting to have this ultra dynamic pricing, but that's probably a mistake because one thing that upsets motorists is
+
+00:59:52:01 - 00:59:57:13
+Speaker 2
+getting a shock of how much they're going to pay when one when they arrive. If not being able to predict. Right.
+
+00:59:57:15 - 01:00:17:01
+Speaker 2
+People like to have predictable prices. So it's probably better to have a yearly review of the prices or maybe once in three months. Some cities that are or some towns that are tourist towns that need to have a peak season price and off season price. Right. The parking is full for three months of the year and
+
+01:00:17:01 - 01:00:18:04
+Speaker 2
+mostly empty the rest of the year.
+
+01:00:18:04 - 01:00:19:10
+Speaker 2
+So they would have two prices.
+
+01:00:19:10 - 01:00:37:15
+Speaker 1
+yeah, the last thing you want to know is have a drink and come back and see a big bill on your parking and not on your drink Just know that before you went in that you came all the way and then figured out or it's too full already and the price just went up. Yes, that's right. Got a mild shock I'd say so.
+
+01:00:37:16 - 01:01:12:05
+Speaker 1
+You're right. So I think there are pros and cons of a lot of these things that we feel is convenient, but it's not. But thank you very much, Paul, for coming on the show and demystifying this whole thing, telling us about your journey and why parking is so important. I'm going to have a couple of more conversations with people around this and see how it's going to lead to better utilization of road space and help clean it up for safer cities for more public transport, for more cyclists and walkers to be able to conveniently use this.
+
+01:01:12:07 - 01:01:16:05
+Speaker 1
+And still for people to start understanding that you just cannot
+
+01:01:16:05 - 01:01:17:22
+Speaker 1
+there are consequences for
+
+01:01:17:22 - 01:01:29:19
+Speaker 1
+usage of your motor vehicles and you have to I mean, it's time you've got to pay for these things. It's not always a free ride. These are not the public goods you think they are. Thank you very much for your time
+
+01:01:29:19 - 01:01:50:02
+Speaker 1
+I take this opportunity to call on viewers to subscribe to OoruLabs and go check out Reinventing Parking. I'll put the links in the show notes. Paul Barter has been running it for many years now. His blogs are a source of great information. Do check it out and see you next week. Bye bye.
+
+01:01:50:02 - 01:01:50:17
+Speaker 2
+Bye bye.
+
+01:01:50:17 - 01:01:51:17
+Speaker 2
+Thank you.
+
