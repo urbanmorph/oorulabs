@@ -1,0 +1,1896 @@
+00:00:00:21 - 00:00:24:20
+Speaker 1
+Are we on? Yes. Okay, let's go. Welcome to another episode of the OoruLabs podcast from Bengaluru. Ever complained how bad our cities are, How bad your commute is? You'll get to hear from people who are working to solve these problems in their own way. This is your weekly soapbox for Urban Sustainability. So do not forget to like, subscribe and share these videos.
+
+00:00:24:22 - 00:00:37:08
+Speaker 1
+Check out the entire podcast library and profiles of the guests on the newly launched website. podcast.oorulabs.com. The archive is there and you can read about the guests as well. I am Sathya Sankaran.
+
+00:00:37:08 - 00:00:41:05
+Speaker 1
+Indian cities are facing a massive urban governance challenge,
+
+00:00:41:05 - 00:00:47:13
+Speaker 1
+and with the way the system works, it needs to continually reform to keep pace with the changing times.
+
+00:00:47:15 - 00:01:05:07
+Speaker 1
+We are going to explore this today with Alok Prasanna, the co-founder and Karnataka lead of with the Vidhi Center for Legal Policy, which is a think tank, researching topics and coming up with policies for governments across the country. Alok does research on judicial reforms, constitutional law, urban development
+
+00:01:05:07 - 00:01:11:01
+Speaker 1
+and law and technology writes a monthly column for the Economic and Political Weekly and has published in the
+
+00:01:11:01 - 00:01:15:19
+Speaker 1
+Indian Journal of Constitutional Law and the National Law School of India Review.
+
+00:01:15:21 - 00:01:22:03
+Speaker 1
+Apart from the regular mainstream media outlets such as the Hindu Indian Express Quint And Caravan. Welcome to the show.
+
+00:01:22:03 - 00:01:25:11
+Speaker 2
+Many thanks. Thanks. I am glad to be on this podcast.
+
+00:01:25:11 - 00:01:29:21
+Speaker 1
+Sure. Let's begin with something I saw recently on the Internet.
+
+00:01:29:21 - 00:01:31:04
+Speaker 1
+the manifestos
+
+00:01:31:04 - 00:01:38:17
+Speaker 1
+from all parties promise a bigger and better Bengaluru, right? One of the parties declared the formation of a Bengaluru capital region,
+
+00:01:38:17 - 00:01:44:05
+Speaker 1
+including many tier two cities Chickballapur, Doddballapur on the lines of the national capital region.
+
+00:01:44:07 - 00:01:45:15
+Speaker 1
+So I was a little curious
+
+00:01:45:15 - 00:01:51:05
+Speaker 1
+and just did a little read up. The National Capital Region of Delhi has a population of about 46 million.
+
+00:01:51:05 - 00:01:57:04
+Speaker 1
+It produces 7 to 8% of India's GDP. It covers 58,000 square kilometers, 13 districts of Haryana,
+
+00:01:57:04 - 00:01:59:20
+Speaker 1
+seven districts of U.P., two districts of Rajasthan are in it
+
+00:01:59:20 - 00:02:03:07
+Speaker 1
+Of course, 56% of the total entire population is still from Delhi.
+
+00:02:03:07 - 00:02:19:18
+Speaker 1
+NCR was created in 1985, almost four decades ago. In the same year, the Bengaluru Metropolitan Regional Development Authority, or the BMRDA, as we will call it, was created with its jurisdiction over around 8000 square kilometers, 8005 actually,
+
+00:02:19:18 - 00:02:33:18
+Speaker 1
+with it includes around 11 planning authorities and eight cities and towns inside it. The BMRDA, they create what is called the structure plan and the planning bodies inside, including all the town planning authorities in the cities.
+
+00:02:33:18 - 00:02:51:11
+Speaker 1
+And all these people create their own master plans based on the structure defined by and this already exists today, which was done four decades ago, 35, 38 years ago. So the question Alok really is when it comes to governance, the size really matter for cities.
+
+00:02:51:14 - 00:03:20:00
+Speaker 2
+The short answer is yes, but also that is not the only thing that matters. So since we started a little bit on the point of Delhi, let's also clarify the legally and constitutionally what the status of Delhi. There is not a full fledged state. It's not a pure union territory. And I say Delhi. I mean the National Capital Territory, which as you point out, is one region with one part of the national capital region, now complicating factor for Delhi.
+
+00:03:20:00 - 00:03:34:13
+Speaker 2
+And that's true of many national capitals, including, for example, Washington, D.C., is that it sits between states and as it does expanded, it has expanded into these states. So a concept of a national capital region makes eminent sense
+
+00:03:34:13 - 00:03:41:03
+Speaker 2
+as a coordinating body and a planning body, because, as you rightly pointed out, to take into account districts of
+
+00:03:41:03 - 00:03:49:03
+Speaker 2
+Haryana, districts of Uttar Pradesh, and I'm pretty sure going forward it is going to stretch into Rajasthan just as well.
+
+00:03:49:03 - 00:03:51:11
+Speaker 2
+That is not a problem which Bangalore has
+
+00:03:51:11 - 00:04:00:20
+Speaker 2
+now. Bangalore even if you were to pick the most expansive definition of quote unquote, Bangalore If you just say the rural plus Bangalore rural plus Bangalore urban. all of it fits within Karnataka
+
+00:04:00:20 - 00:04:05:09
+Speaker 2
+It isn't. There is no interstate national coordination issue here.
+
+00:04:05:09 - 00:04:09:18
+Speaker 2
+It is admission of the fact that the thing is that metropolitan regions
+
+00:04:09:18 - 00:04:13:19
+Speaker 2
+are defined in a different way from pure municipal areas, and that's a global phenomenon.
+
+00:04:13:21 - 00:04:22:04
+Speaker 2
+And as you point out, this has been happening since 85. In fact, post 85, the Constitution and the 74th Amendment was introduced. It introduced the concept of
+
+00:04:22:04 - 00:04:23:18
+Speaker 2
+metropolitan Planning Committee.
+
+00:04:23:18 - 00:04:26:04
+Speaker 2
+This committee, I think, has meant the sum total of twice
+
+00:04:26:04 - 00:04:26:17
+Speaker 2
+under
+
+00:04:26:17 - 00:04:33:09
+Speaker 2
+various governments. I looked at it part of my research. I looked for instances of this of this committee actually meeting.
+
+00:04:33:09 - 00:04:36:23
+Speaker 2
+I don't think I came across more than one or two instances of this, actually having met
+
+00:04:36:23 - 00:04:40:14
+Speaker 2
+you? It's no use creating new entities and new bodies
+
+00:04:40:14 - 00:04:43:02
+Speaker 2
+if you are not clear what they're going to do.
+
+00:04:43:02 - 00:04:52:03
+Speaker 2
+In the seven see the contrast is in the same constitution, the seventy third amendment has a very clear idea that at the base you have a panchayat for the village above it.
+
+00:04:52:03 - 00:05:19:21
+Speaker 2
+You have a panchayat taluk panchayat for a group of village, and then you have a Zilla panchayat for the district level. That pyramidal structure which is created in the context of panchayat somehow doesn't exist for our cities. And it's not even that you have to rely on the Constitution for it. In fact, a lot of order to not constitution has been taken from various municipal legislation passed by states, states create different kind of municipal bodies based on size.
+
+00:05:19:23 - 00:05:22:07
+Speaker 2
+Unfortunately, what has happened is that
+
+00:05:22:07 - 00:05:52:05
+Speaker 2
+the megacities that we have today let's face it, Bangalore is a megacity. It has more than 10 million as per the latest electoral roll data. It probably has nearly 15, 16 million people. And the census would have confirmed that our Constitution and our laws don't know how to deal with that either. At least six in India, as far as I know, and maybe a couple of others may have reached the status because we have a kind of census, but we have no clear idea how a megacity is supposed to be
+
+00:05:52:05 - 00:05:54:18
+Speaker 2
+governed because they grow rapidly.
+
+00:05:54:20 - 00:05:57:11
+Speaker 2
+India is one of those very few countries in the world where
+
+00:05:57:11 - 00:06:07:22
+Speaker 2
+the urbanization that's happening is in the megacity range It's not like people are moving from villages to cities of one lakh, five lakh and ten lakh. People are moving from villages to city of one crore.
+
+00:06:07:22 - 00:06:08:23
+Speaker 2
+People are going from
+
+00:06:08:23 - 00:06:11:08
+Speaker 2
+Bihar, Jarkhand, West Bengal to
+
+00:06:11:08 - 00:06:13:02
+Speaker 2
+Delhi, Mumbai and Bangalore.
+
+00:06:13:02 - 00:06:35:02
+Speaker 2
+Not to Calcutta, not to Patna not to a muzaffarpur or anything. So it's we are experiencing something very unique in the history of the world. Urbanization and our governance systems have not kept up with it. And yes, you need to take into account again, you have to right size the governance with the what to expected them to do.
+
+00:06:35:04 - 00:06:58:13
+Speaker 2
+You can't expect a body which deals with the needs of, let's say, you in the metropolitan region of about 2.5 crores. You can't get into implementation, it can get into planning, it can get into resource allocation, it can get into coordination. But you need effective wards You need levels below wards to make sure that everything that is planned is actually implemented down to the ground.
+
+00:06:58:15 - 00:07:00:21
+Speaker 2
+And the feedback is goes up.
+
+00:07:00:21 - 00:07:10:01
+Speaker 2
+Plans and resources come down. The feedback and implementation go up so that you develop this healthy cycle where governance is kind of
+
+00:07:10:01 - 00:07:10:20
+Speaker 2
+informed
+
+00:07:10:20 - 00:07:13:13
+Speaker 2
+because informed it's effective, it's democratic,
+
+00:07:13:13 - 00:07:27:17
+Speaker 2
+and it aims to a certain kind of thing. So very briefly outline this big is a very important factor. We cannot expect that a structure which is designed to work for 1 million people is going to necessarily work for 10 million people.
+
+00:07:27:20 - 00:07:28:23
+Speaker 2
+We can't assume that
+
+00:07:28:23 - 00:07:31:17
+Speaker 2
+even in the constitution of India, if you look at it.
+
+00:07:31:17 - 00:07:48:17
+Speaker 2
+When the constitution came into force in 1950 India had a population of, I think about 25 crores, today, we have 125, if not more crores. Everyone thinks Constitution is the same, but it's not. It has undergone changes and those changes are subtle. It's not like somebody has decided to throw out a big chunk of the constitution and replace it.
+
+00:07:48:18 - 00:07:50:00
+Speaker 2
+The reason why
+
+00:07:50:00 - 00:07:54:10
+Speaker 2
+India's federalism today is much stronger than it was in 1950
+
+00:07:54:10 - 00:08:05:16
+Speaker 2
+is also because slowly over the years, capacity of the states improved. The states could bargain with the union government better and get more resources for themselves. And if if you are to, you know,
+
+00:08:05:16 - 00:08:15:18
+Speaker 2
+go take a time machine and describe to somebody in the constituent assembly that national tax policy is being set by states and centre sitting together at the table, they would have refused to believe this.
+
+00:08:15:20 - 00:08:35:19
+Speaker 2
+How is that possible? What role do states have in setting tax policy? They're just supposed to set tax only for their own. How can they sit on the table and decide what should be national It would have been unimaginable for them, but we have been doing it for the last 20 years. But so or they would have found it unfathomable that a state government could say no to a treaty because it affected the state.
+
+00:08:35:19 - 00:09:12:20
+Speaker 2
+Like, you know, that's what the West Bengal did. It kind of forced India to renegotiate with Bangladesh, saying interests are a thing. Think they would have found it very hard to believe that you won't make a Sri Lanka policy without consulting Tamil Nadu and things like that. Right. This has changed over the years. And likewise, we have to sort of understand that we just can't expect the existing government systems to just automatically scale themselves up without some active interventions over a period of time, because the scale of growth has actually been beyond the imagination of the initial design.
+
+00:09:12:22 - 00:09:18:03
+Speaker 1
+So that's that's very interesting. So the constitutional part is something just before the recording you were saying something about
+
+00:09:18:03 - 00:09:24:03
+Speaker 1
+how the municipal level of governance was ignored during the framing, which
+
+00:09:24:03 - 00:09:35:01
+Speaker 1
+so should the 74th Amendment 1992 and the it takes 25 years for us to yeven set up something of a semblance of a ward committee in Bangalore to even start, rudimentarily discussing all these things.
+
+00:09:35:01 - 00:09:52:12
+Speaker 1
+It doesn't even have proper convenings and all that. Look at the time frame in which we have gotten to the municipal level and at what level even now, I don't know if the state finance commissions are even operational properly in many states. So where where does all this? So help me understand, in 1952
+
+00:09:52:12 - 00:10:02:18
+Speaker 1
+when all this all these constitutional things are happening, was municipal level governance even talked about and why did it take what is the trigger in 1992?
+
+00:10:02:20 - 00:10:03:20
+Speaker 1
+How do you think.
+
+00:10:04:00 - 00:10:12:11
+Speaker 2
+So Let's let's go a little further back to the first experience most Indians have had with the Democratic form of government.
+
+00:10:12:11 - 00:10:29:22
+Speaker 2
+Forget about, say, sometime in the ancient era when people, sat around and elected leaders. I'm not talking about something like that. I'm talking about modern government, as we understand it, of laws, of constitutions. And so on actually comes during the colonial era when the British start setting up these small cantonment and municipal boards.
+
+00:10:29:22 - 00:10:47:11
+Speaker 2
+In fact, Banglalore is one of the first cities in this country to have had representative elections that were not open to everyone. There were heavy restriction, over period of time. It slowly, expanded slowly expanded. You've had you have these local elections is take place again for municipal issues. You have many leaders,
+
+00:10:47:11 - 00:10:50:11
+Speaker 2
+for instance, Subash Chandra Bose was the mayor of Kolkata.
+
+00:10:50:13 - 00:11:10:15
+Speaker 2
+Nehru was in the Allahabad municipality. So was Sardar patel and a bunch of them cut their teeth, understood governance by working at in municipal government, and that taught them that, look, activism is great. You have to develop pragmatism and then you actually
+
+00:11:10:15 - 00:11:11:23
+Speaker 2
+But very strangely,
+
+00:11:11:23 - 00:11:15:16
+Speaker 2
+1947, when the constitutional process starts,
+
+00:11:15:16 - 00:11:20:07
+Speaker 2
+somehow municipalities and panchayats disappear from the discussion.
+
+00:11:20:09 - 00:11:41:17
+Speaker 2
+And it's a very puzzling thing because it's not that nobody in this country was talking about it. you have Gandhi, whose vision of India is a group of loosely connected republics, or that was it may seem like a vague idea, but one Gandhian actually sat down and drafted what was a constitutional law. Sriman Narayana, I actually sat down and drafted, what, a Ghandian constitutional would look like
+
+00:11:41:19 - 00:12:03:20
+Speaker 2
+And yes, I'm not saying it's a perfect constitution. It probably is not even as good as a 1950 constitution that we have. But it presents an alternate vision of what it could have been. And this is an important point that I want to make to our listeners. Our Constitution starts with fundamental rights, duties, fundamental rights, directive principles, and then immediately goes to union government.
+
+00:12:04:04 - 00:12:07:02
+Speaker 2
+So its idea of government, this union government
+
+00:12:07:02 - 00:12:09:11
+Speaker 2
+that is the model taken from the
+
+00:12:09:11 - 00:12:28:10
+Speaker 2
+1930 government of India, because it is the first time that you had this this model of federalism come through. Union then states and it stops there Whereas the Sriman Narayanas idea for the Gandhian Constitution starts from Panchayat municipality, then it goes to state and then goes to union it.
+
+00:12:28:13 - 00:12:45:16
+Speaker 2
+This is not just like a simple ordering. It tells you the focus of the government power, where power is concentrated, where it is distributed, do what they're supposed to do, what they're not supposed to. And it's very interesting to me because this Constitution, this 19 this a
+
+00:12:45:16 - 00:12:51:22
+Speaker 2
+constitution which existed in parallel with our mainstream, which I it's not called our Constitution,
+
+00:12:51:22 - 00:12:56:14
+Speaker 2
+does give powers directly to panchayats does give power directly to municipalities.
+
+00:12:56:16 - 00:12:57:23
+Speaker 2
+We still haven't gotten there.
+
+00:12:57:23 - 00:13:16:17
+Speaker 2
+lot of people imagined that the schedules in the constitution, which were added along with the 73rd and 74th Amendment, give powers to municipalities and panchayats. They don't constitution them legally. All this is the state governments, if they feel like, may pass a law, grant some powers to municipalities and panchayats.
+
+00:13:16:19 - 00:13:28:16
+Speaker 2
+Okay, this is a big difference. This is a big this is this is this to me is the big conceptual difference between that constitution, the Gandhian constitution, and the constitution that we have today.
+
+00:13:28:16 - 00:13:38:19
+Speaker 2
+And it's very puzzling. And it's something that perhaps maybe historians should explain to us. But as a constitutional law, as a student of constitutional law, as a lawyer,
+
+00:13:38:19 - 00:13:43:12
+Speaker 2
+for me, it is very the silence is more affecting than the presence.
+
+00:13:43:14 - 00:13:48:13
+Speaker 2
+Why does the Constitution not think of the village and the city as sites for governance
+
+00:13:48:13 - 00:14:04:21
+Speaker 2
+I, you know, one thought maybe may come from what Ambedkar thinks about, you know, our villages, we can't really trust them. They are dens of iniquity and they might be get captured by the, you know, better off castes and the not the places.
+
+00:14:04:21 - 00:14:17:16
+Speaker 2
+But it's not as if this wouldn't have received pushback from the constituent Assembly. We see so many ideas which are debated. This is the see, when I sort of learned more as I wrote my column for Deccan Herald on
+
+00:14:17:16 - 00:14:18:05
+Speaker 2
+the,
+
+00:14:18:05 - 00:14:20:00
+Speaker 2
+you know, making of our Constitution,
+
+00:14:20:00 - 00:14:20:07
+Speaker 2
+the
+
+00:14:20:07 - 00:14:23:09
+Speaker 2
+ideas expressed in the constituent Assembly,
+
+00:14:23:09 - 00:14:29:23
+Speaker 2
+you know, make for a bit of you could basically read history, political science of this country just reading the constituent assembly debates somehow
+
+00:14:29:23 - 00:14:47:02
+Speaker 2
+There is no real nobody's saying I don't why doesn't this constitution talk about panchayats and municipalities? And to me that is a very puzzling silence in the whole exercise. And maybe there are better explanation of people who study history can give a better explanation. But that has affected us over the next 40, 50 years
+
+00:14:47:02 - 00:14:50:01
+Speaker 2
+that not to say nobody did anything afterwards.
+
+00:14:50:03 - 00:14:58:06
+Speaker 2
+States did devolve powers to panchayats. states, did allow municipalities to continue, for better or worse, with more and less powers.
+
+00:14:58:06 - 00:14:58:16
+Speaker 2
+But
+
+00:14:58:16 - 00:15:03:10
+Speaker 2
+73rd and 74th Amendment com in after a serious period of discussion in the previous decade,
+
+00:15:03:10 - 00:15:15:11
+Speaker 2
+and they undergo many changes, actually, the ideas come in during Rajiv Gandhi’s time they were called Article 64th, 65th or, 65th, 66th I dont remember the exact numbers, but they were first introduced that
+
+00:15:15:11 - 00:15:19:23
+Speaker 2
+that diluted a little bit more and then eventually passed of the 73rd and 74.
+
+00:15:20:08 - 00:15:26:00
+Speaker 2
+Let's also keep in mind the context in which they com in, which is that you have this gigantic majority.
+
+00:15:26:00 - 00:15:35:18
+Speaker 2
+You have the Congress Party with the big, gigantic majority. But as one particular commentator pointed out to me, this is a majority without a mandate.
+
+00:15:35:18 - 00:15:46:15
+Speaker 2
+It's not like they went around. Like you can say even in 1971, Indira Gandhi got a major mandate for remove poverty or, you know, in 77, 78 save the constitution.
+
+00:15:47:04 - 00:15:49:12
+Speaker 2
+so or in 80 it was more like
+
+00:15:49:12 - 00:15:51:09
+Speaker 2
+save this country from Janata Party
+
+00:15:51:09 - 00:15:53:05
+Speaker 2
+this was so much more
+
+00:15:53:05 - 00:16:03:04
+Speaker 2
+pure emotional book. It was there wasn't a specific what do we do with the power that you have given us? I don't think given the expected. So a bunch of reforms are carried out
+
+00:16:03:04 - 00:16:06:18
+Speaker 2
+which don't have necessarily sound political thinking behind it.
+
+00:16:06:21 - 00:16:22:21
+Speaker 2
+This is a topic for an entirely different debate. The anti defection Law is one of those has unfortunately poisoned our democracy. But likewise, the 73rd vote, what eventually become the 73rd 74th Amendment starts off during Rajiv Gandhi tenure in the eighties.
+
+00:16:22:21 - 00:16:28:13
+Speaker 2
+The idea is to get states to give more powers or take some power out of states and give it to municipalities
+
+00:16:28:13 - 00:16:29:22
+Speaker 2
+and panchayats
+
+00:16:29:22 - 00:16:31:13
+Speaker 2
+But that never really happens
+
+00:16:31:13 - 00:16:39:04
+Speaker 2
+parallely and we should not forget this particular context. This is a very remarkable gentleman called Abdul Nazeer Saab
+
+00:16:39:04 - 00:16:47:09
+Speaker 2
+who is part of Ramakrishna Hegde’s government here in Karnataka. Who pioneers, What I think is one of the
+
+00:16:47:09 - 00:16:54:08
+Speaker 2
+leading experiments, not just I mean, he's in Karnataka, he's known as Neer Saab for his work in ensuring provision of drinking water,
+
+00:16:54:08 - 00:16:56:15
+Speaker 2
+but he was also the minister for Panchayati Raj
+
+00:16:56:15 - 00:17:04:21
+Speaker 2
+and the panchayati raj legislation in Karnataka was seen as a model for the country in terms of how it devolve powers to the
+
+00:17:04:21 - 00:17:07:14
+Speaker 2
+various levels, units at the village level
+
+00:17:07:14 - 00:17:13:11
+Speaker 2
+and how it empowered them. And so and that kind of that was happening not just in Karnataka, but across the country.
+
+00:17:13:11 - 00:17:16:13
+Speaker 2
+The idea was to take this and make it a nationwide
+
+00:17:16:13 - 00:17:29:23
+Speaker 2
+experiment, so to speak, and get the 73rd and 74th amendment Unfortunately, they are very badly drafted. The 73rd and 74th Amendment, unfortunate, 73rd, little bit better than the 74 that was still see,
+
+00:17:29:23 - 00:17:33:11
+Speaker 2
+the 74th Amendment, I think is, oh,
+
+00:17:33:11 - 00:17:44:19
+Speaker 2
+it got diluted to the point that to me it hasn't made any real impact in the fact that if at all, if there has been any impact, it has been purely because of the state government being more visionary,
+
+00:17:44:19 - 00:17:45:22
+Speaker 2
+more progressive.
+
+00:17:45:22 - 00:17:47:03
+Speaker 2
+It has not
+
+00:17:47:03 - 00:17:56:06
+Speaker 2
+it did not truly think about the needs of urbanization because let me also point out the other thing, that urbanization and India's last two decade phenomenon,
+
+00:17:56:06 - 00:18:05:08
+Speaker 2
+India, did not urbanized as quickly as China did in the eighties and nineties, or for that matter. Most peers in the developing countries,
+
+00:18:05:08 - 00:18:10:03
+Speaker 2
+even if even if I, what do you call it, rates of urbanization are relatively low.
+
+00:18:10:03 - 00:18:18:04
+Speaker 2
+I believe that number is much higher now. The 2021 census, in my view, would have showed that better fuzed 40%, if not more of
+
+00:18:18:04 - 00:18:20:21
+Speaker 2
+factors. It was just not a concern in that we
+
+00:18:20:21 - 00:18:25:13
+Speaker 2
+I think it was India in the imagination of our policymakers are still a nation of villages
+
+00:18:25:13 - 00:18:29:09
+Speaker 2
+that is changing faster than we can even comprehend.
+
+00:18:29:09 - 00:18:34:15
+Speaker 2
+So in that way, I think it the cities weren't the focus of that amendment
+
+00:18:34:15 - 00:18:38:09
+Speaker 2
+cities like they could not have imagined, to be very honest, that a Bangalore would be
+
+00:18:38:09 - 00:18:41:15
+Speaker 2
+15 million people in 2023 when they thought of this
+
+00:18:41:15 - 00:18:42:22
+Speaker 2
+particular amendment, and
+
+00:18:42:22 - 00:18:49:07
+Speaker 2
+you don't have the flow as a consequence. You got that because a vision of a city as a site of governance
+
+00:18:49:07 - 00:18:52:20
+Speaker 2
+or even a vision of a village, as a site of governance
+
+00:18:52:20 - 00:18:55:10
+Speaker 2
+that is missing from the 73rd and 74th level.
+
+00:18:55:15 - 00:19:05:06
+Speaker 2
+And the problem is much greater in the context of the 74th Amendment, because you just see municipalities and this is where my problem comes in as a constitutional lawyer, I know
+
+00:19:05:06 - 00:19:06:21
+Speaker 2
+work with somebody who works on this.
+
+00:19:06:21 - 00:19:13:07
+Speaker 2
+The vision, if I could read through the 74th Amendment, is that a municipality is this an implementing agency?
+
+00:19:13:07 - 00:19:13:23
+Speaker 2
+All right.
+
+00:19:14:02 - 00:19:17:00
+Speaker 2
+It is given certain tasks by the state government.
+
+00:19:17:00 - 00:19:22:12
+Speaker 2
+It should do those tasks and it should just respond to certain needs. At best, it does some service delivery.
+
+00:19:22:12 - 00:19:40:02
+Speaker 2
+Whereas when you see around the world, municipalities are leading in terms of policy innovations. Yeah, and you mentioned your podcast, you've had people come and talk about transportation. It's not somebody in the central government in this country sitting and saying, City of so-and-so, why don't you do this Metro.
+
+00:19:40:04 - 00:19:46:03
+Speaker 2
+This is what is happening in our country. It is it is a municipality saying our city needs a bus lane, not a metro.
+
+00:19:46:03 - 00:19:56:23
+Speaker 2
+Our finances allow us a bus or a metro. So let's do this. Our city should have cycle lanes, not more flyovers. Let's do this. Our city should have housing for the homeless.
+
+00:19:56:23 - 00:20:00:09
+Speaker 2
+Let's do this and not develop more luxury apartments.
+
+00:20:00:11 - 00:20:21:10
+Speaker 2
+So the big important policy calls are being taken at the city level. These are big policy calls. These are not implementation issues. Unfortunately, a lot of people get caught up in the idea that the city just implemented the state government should make policy in cities, should implement. I think it should be the other way. It should. State government can make a policy for the level of Karnataka
+
+00:20:21:10 - 00:20:22:09
+Speaker 2
+for Bangalore.
+
+00:20:22:09 - 00:20:30:18
+Speaker 2
+It should be the bbmp which makes policy. And when I say policy, I mean making these choices. Should we have electric busses or diesel busses?
+
+00:20:30:18 - 00:20:35:23
+Speaker 2
+Right. It should be the central and state governments in Bangalore should have x number of electricity. So it's ridiculous.
+
+00:20:35:23 - 00:20:44:15
+Speaker 2
+It should be the state, it should be the Bangalore municipality. which is looking at how much do we tax on advertisements, how much do we tax this, how much do we tax that?
+
+00:20:44:17 - 00:21:04:23
+Speaker 2
+So I think it's reasonably where should we spend our money? Unfortunately, as you and I speak, there is no bbmp there's no functioning bbmp it is being run by an administrator appointed by the state government and maybe the gentlemen are doing the best they can, but they're not functioning as a bbmp as far as I'm concerned, because they're maybe supposed to be a representative body.
+
+00:21:05:01 - 00:21:13:07
+Speaker 2
+So if effectively one of India's 16 million, 15, 16 million, we are one of we at a size of a state,
+
+00:21:13:07 - 00:21:19:07
+Speaker 2
+they're probably larger than every North East state except the Assam, the larger the Goa.
+
+00:21:19:07 - 00:21:37:03
+Speaker 2
+But we don't have a government. So that's that's, I think, a fundamental problem. And I think that is something which when we think about the 73rd and 74th Amendment, we have to start by re-imagining them to say if they are supposed to create a government, not implementing bodies.
+
+00:21:37:05 - 00:21:40:03
+Speaker 2
+Our panchayats and municipalities. Are governments
+
+00:21:40:03 - 00:22:00:02
+Speaker 2
+not just implementing bodies. I have a friend Pranay Kotasthane who has written this fantastic book on. It may have had him on this podcast. He talks about how India just doesn't have a union and state governments. India has three lakh governments, seven lakh government, whatever the number is, because each of each body is actually supposed to function like a government.
+
+00:22:00:04 - 00:22:05:18
+Speaker 2
+If it is supposed to deliver, it cannot just be seen as it does this on the instructions of State Assembly.
+
+00:22:05:18 - 00:22:08:11
+Speaker 1
+there are lots of things to deep dive here. So
+
+00:22:08:11 - 00:22:13:19
+Speaker 1
+like you said, urbanization has been planned during each of the five year plans.
+
+00:22:13:21 - 00:22:29:14
+Speaker 1
+They started with Chandigarh as soon as the partition was over and then they said, okay, let's create a few more cities, then a few more. And they said 2000. So there has always been. And then the housing train closing and then privatizing. So I can see the evolution of trying to do something around urbanization
+
+00:22:29:14 - 00:22:32:11
+Speaker 1
+in those plan periods across the time.
+
+00:22:32:11 - 00:22:33:08
+Speaker 1
+But like you said,
+
+00:22:33:08 - 00:22:37:12
+Speaker 1
+it has never been thought of as something the local government should do.
+
+00:22:37:12 - 00:22:40:17
+Speaker 1
+plans were there and they said, okay, I'll give you some money,
+
+00:22:40:17 - 00:22:46:11
+Speaker 1
+go and build some cities here. Yeah. Even now, even though there is
+
+00:22:46:11 - 00:22:48:15
+Speaker 1
+an intention to say that, how do we
+
+00:22:48:15 - 00:22:52:16
+Speaker 1
+have self-governance? It has gone only to the implementation portion.
+
+00:22:52:18 - 00:22:53:03
+Speaker 1
+Yeah,
+
+00:22:53:03 - 00:22:55:11
+Speaker 1
+that brings a few questions to mind. One is
+
+00:22:55:11 - 00:23:08:03
+Speaker 1
+okay, why do you think is easily answerable? They just don't want to do it. The because like Bangalore has too much of money in it for them. to let go right. So what would we do to make these things happen? Is there any
+
+00:23:08:03 - 00:23:28:17
+Speaker 1
+what is the thinking that we should have self-empowered government where the decisions are being made, where the revenues are being counted where the expenditure is being done and as much as possible self-sufficient in the entire governance period, and not just making your dependent on the grants, just a major portion, right?
+
+00:23:28:17 - 00:23:48:15
+Speaker 1
+No, no, not the corporations are unable to raise a bond. Their credit rating is horrible because you don't even know where you can raise the money from, how much you can raise zero ability to manage finances. But the planning side, they had the right ideas. I'm not saying that. Let's let's assume the bbmp doesn't need to plan and they still maybe continue to execute this.
+
+00:23:48:15 - 00:24:00:04
+Speaker 1
+Already the Metropolitan Planning Committee, which was set up as per what the 74th Amendment said to beat what is it said something and then the BMRDA was created almost 40 years ago. In four decades
+
+00:24:00:04 - 00:24:02:00
+Speaker 1
+you have not been able to
+
+00:24:02:00 - 00:24:03:16
+Speaker 1
+make any of these things work.
+
+00:24:03:16 - 00:24:06:21
+Speaker 1
+why isn't the MPC not working? What do you think needs to be done?
+
+00:24:06:21 - 00:24:16:09
+Speaker 1
+Let's look. Let's begin that. We will come back to the question of small big again. Sure. But I just want to touch upon this. How do we make these things happen? It's it we know it's not happening.
+
+00:24:16:09 - 00:24:18:07
+Speaker 1
+We know why also.
+
+00:24:18:07 - 00:24:19:08
+Speaker 1
+But what should we do
+
+00:24:19:08 - 00:24:19:17
+Speaker 1
+uh
+
+00:24:19:21 - 00:24:33:08
+Speaker 2
+Let me start with the another thing which is working against us right now, one problem which we haven't yet identified, which is working against us, paradoxically, is delimitation. Since elections are tomorrow,
+
+00:24:33:08 - 00:24:37:23
+Speaker 2
+Bangalore gets 28 seats for an assembly of 227.
+
+00:24:37:23 - 00:24:40:10
+Speaker 2
+Now if the statistics are correct,
+
+00:24:40:10 - 00:24:44:23
+Speaker 2
+one in four, one in five people in Karnataka live in Bangalore,
+
+00:24:44:23 - 00:24:47:02
+Speaker 2
+yet Bangalore gets only 10%,
+
+00:24:47:02 - 00:24:49:02
+Speaker 2
+a little more than 10% of our
+
+00:24:49:02 - 00:24:49:18
+Speaker 2
+seats,
+
+00:24:49:18 - 00:24:50:16
+Speaker 2
+which means
+
+00:24:50:16 - 00:24:53:08
+Speaker 2
+as a city, we are underrepresented.
+
+00:24:53:08 - 00:24:57:23
+Speaker 2
+And this becomes even more stark when you see the size of the constituencies,
+
+00:24:57:23 - 00:25:02:15
+Speaker 2
+the core areas in Bangalore, the constituency sizes are between one and a half per relative to
+
+00:25:02:15 - 00:25:08:12
+Speaker 2
+the outer areas. Byatrayanapura. Mahadevpura, South Bangalore,
+
+00:25:08:12 - 00:25:10:00
+Speaker 2
+Raja Rajeshwari Nagara
+
+00:25:10:00 - 00:25:16:21
+Speaker 2
+It's ridiculous. You have eight lakh voters, 6 to 8 lakh voters in an assembly is an assembly election because ridiculous
+
+00:25:16:21 - 00:25:27:08
+Speaker 2
+that is you know, almost becoming MP level, Lok Sabha level and unfortunately even at the State Government says this is very bad,
+
+00:25:27:08 - 00:25:28:16
+Speaker 2
+they can't do anything about it.
+
+00:25:28:16 - 00:25:54:14
+Speaker 2
+So this is an outer constraint that to be very honest, those of us in Bangalorecannot fix, it is a national issue and I know that people are very afraid of what will happen if a delimitation happens. But I say here is an opportunity for us to seize the narrative to say delimitation should happen, to really empower cities instead of worrying about how much Karnataka will get or Tamil Nadu will lose, or some other state we get or lose
+
+00:25:54:14 - 00:25:57:01
+Speaker 2
+the talk about how it could actually benefit
+
+00:25:57:01 - 00:26:03:14
+Speaker 2
+a city like Bangalore to be represented at par with the rest of Karnataka.
+
+00:26:03:16 - 00:26:16:16
+Speaker 2
+If we can seize that narrative and say delimitation should happen not ten years from now, but tomorrow, because that is our pressing need, which is the narrative on this whole discussion. And we have to acknowledge that this is a problem standing in the way.
+
+00:26:16:16 - 00:26:18:19
+Speaker 2
+You cannot expect
+
+00:26:18:19 - 00:26:21:20
+Speaker 2
+a a well-meaning state government also to say
+
+00:26:21:20 - 00:26:28:01
+Speaker 2
+I will ignore my votes which come from the rest of the or my MLA’s to come from the rest of the state.
+
+00:26:28:03 - 00:26:36:14
+Speaker 2
+Right in favor of your guys is not to say that they completely ignore either way, but the way the incentives are structured, the way the incentives are structured,
+
+00:26:36:14 - 00:26:40:14
+Speaker 2
+it is telling them that you'll get more bang for your buck, so to speak,
+
+00:26:40:14 - 00:26:43:06
+Speaker 2
+if you put your money and effort outside Bangalore
+
+00:26:43:06 - 00:26:47:22
+Speaker 2
+Because in Bangalore, its captured, you cannot hope to sort of
+
+00:26:47:22 - 00:26:51:21
+Speaker 2
+get mobilize a MLA’s or anything to get something done for Bangalore.
+
+00:26:51:23 - 00:27:01:16
+Speaker 2
+So that is a problem. We have to accept and understand and know and talk about delimitation also as a way to address a solution to address this problem and as a solution.
+
+00:27:01:16 - 00:27:02:04
+Speaker 2
+But
+
+00:27:02:04 - 00:27:03:17
+Speaker 2
+coming down to the next level,
+
+00:27:03:17 - 00:27:08:05
+Speaker 2
+in my experience and we work on various issues of legal reform,
+
+00:27:08:05 - 00:27:12:01
+Speaker 2
+you will rarely find a situation where somebody proposes a solution.
+
+00:27:12:01 - 00:27:14:22
+Speaker 2
+Government says, Great, let's do it, and it happens.
+
+00:27:14:22 - 00:27:30:01
+Speaker 2
+Most times what happens is that a solution is part of a discussion for years and years and years, and it builds up public support. It builds up, you know, people sort of understanding of it, knowing way this is a solution by this is a solution
+
+00:27:30:01 - 00:27:31:21
+Speaker 2
+and a right political movement.
+
+00:27:31:21 - 00:27:33:02
+Speaker 2
+will come
+
+00:27:33:02 - 00:27:34:09
+Speaker 2
+that is when youll have to seize
+
+00:27:34:09 - 00:27:34:17
+Speaker 1
+It
+
+00:27:34:17 - 00:27:35:22
+Speaker 1
+overton window
+
+00:27:36:00 - 00:27:41:09
+Speaker 2
+Yeah, it is. It is it it is never that you will convince one political party to do it and they will do it.
+
+00:27:41:09 - 00:27:43:18
+Speaker 2
+You will get the right political moment
+
+00:27:43:18 - 00:27:49:07
+Speaker 2
+that somebody feels, okay, I can deliver on this. Is there support for it? And you have to seize
+
+00:27:49:07 - 00:27:58:13
+Speaker 2
+it. And what does seizing it means? Seizing it means being willing to work with the government on it, being willing to sort of mobilize public opinion for it and say why this is a great idea.
+
+00:27:58:13 - 00:28:07:17
+Speaker 2
+Whatever it capacities, it's never going to be that we will put these words in the ears of any chief minister and they will go to do it. It doesn't work.
+
+00:28:07:17 - 00:28:17:08
+Speaker 2
+I can give you examples from what we at Vidhi have been involved in for years and years. People knew bankruptcy law in India is broken, it's outdated, it's not helping us.
+
+00:28:17:08 - 00:28:19:02
+Speaker 2
+And we, among others,
+
+00:28:19:02 - 00:28:23:12
+Speaker 2
+have been have been saying for that, you know, this is how the law should change, this is how the law should
+
+00:28:23:12 - 00:28:36:04
+Speaker 2
+But in 2014 when you had a government come in with the majority for the first time in two decades and you had that pressure built up to a level and it came on the promise of we will improve economic performance, you could make the argument that, listen,
+
+00:28:36:04 - 00:28:38:18
+Speaker 2
+the banks need to be fixed on this, this needs to be fixed.
+
+00:28:38:20 - 00:28:43:21
+Speaker 2
+Even then, progress was stuck until I'm certain Mr. Mallya decided to flee the country.
+
+00:28:43:21 - 00:29:01:21
+Speaker 2
+Right. You no longer you realize, okay, this whole idea of we throw these bad businessmen in jail and solve the problem doesn't work. You realize you're banking system needs reform that give that final push. That final push. So it took years. It took years for that idea becoming acceptable, that idea for gaining currency.
+
+00:29:01:21 - 00:29:06:02
+Speaker 2
+And so finally, that legislative push happened. Then that moment was right.
+
+00:29:06:02 - 00:29:09:12
+Speaker 2
+So to that extent, and likewise with, say, the BBMP act
+
+00:29:09:12 - 00:29:24:18
+Speaker 2
+we are also involved in it. It was good. It's been and the idea has been in circulation for a decade or more. Right. The fact is that at one moment when, you know, the state government said, we want to go this for whatever reason, seize the opportunity, work with the government, so ok fine,
+
+00:29:24:18 - 00:29:29:00
+Speaker 2
+If you may not agree with a lot of this, we think it could have been much better.
+
+00:29:29:00 - 00:29:33:22
+Speaker 2
+But this is a start Let's push it to make it happen. Let's push it because none of these are
+
+00:29:33:22 - 00:29:48:16
+Speaker 2
+easily fixable problems. Lets also accept that. These are problems of big generations to address. If we start today, maybe in about 20, 30 years, we will see that, you know, but that's also what makes a democracy so that you feel that
+
+00:29:48:16 - 00:29:56:01
+Speaker 2
+one, I'm making a few better future even I may not end up seeing, but it's worth it because future generations will still be grateful for it.
+
+00:29:56:03 - 00:29:57:11
+Speaker 2
+So in that way,
+
+00:29:57:11 - 00:30:19:05
+Speaker 2
+if we have to address these problems we have to put these ideas out there in circulation, to put these ideas in circulation, to say this is what this takes, this is what is needed, this is what has to be done. This is what I it it's not going to see immediate progress. It is we have to be willing to work with the political class to say, listen, I know I may not get 100%, but if you can give me 50% to Street,
+
+00:30:19:05 - 00:30:21:15
+Speaker 2
+please accept at least this much.
+
+00:30:21:17 - 00:30:43:15
+Speaker 2
+Then there will come that point when it will flip and something will happen. And at that moment should be to engage, to say, I'll help you with this, I'll come and draft, I will take this to people, I will come and discuss it and then be further involved. Before that it will be further. So one thing which I the one I sort of come to is that we cannot separate the questions of democracy and urban governance.
+
+00:30:43:15 - 00:31:06:08
+Speaker 2
+To me, democracy, urban governance is grassroots democracy. It is what will keep democracy in this country alive for decades and decades, no matter who comes to power, Who doesn't? Because when you have an active and engaged citizenry who is not just debating about what is happening in Delhi, but if, you know, like I live in Vyalikaval which is palace guttahalli ward
+
+00:31:06:08 - 00:31:12:11
+Speaker 2
+if every two weeks as part of a ward or if every month as part of a ward committee, I am getting together with my neighbors
+
+00:31:12:11 - 00:31:14:03
+Speaker 2
+to discuss and debate
+
+00:31:14:03 - 00:31:14:21
+Speaker 2
+issues like
+
+00:31:14:21 - 00:31:18:04
+Speaker 2
+water was stopped here or the sort needs to be fixed or
+
+00:31:18:04 - 00:31:19:06
+Speaker 2
+get the BESCOM guy.
+
+00:31:19:06 - 00:31:34:10
+Speaker 2
+They have really messed up this big thing, but we should do this for our park or we should make sure that the trees are maintained in this city and by the way garbage collection not happening on time?. All of this sounds like, yeah, these are petty things. Who cares? It's not. That is actually what makes democracy strong,
+
+00:31:34:17 - 00:31:43:13
+Speaker 2
+Because this belief that other issues need to be addressed by sitting together, by kind of engaging consistently with the government
+
+00:31:43:13 - 00:31:57:06
+Speaker 2
+and making your views hard, being willing to hear others views constantly believing this is the way forward. None of us can fix the problem ourselves or expect some app to solve the problem as best Bangalore solution to everything that does.
+
+00:31:57:06 - 00:31:58:09
+Speaker 2
+What makes democracy strong.
+
+00:31:58:09 - 00:32:02:22
+Speaker 2
+And when this urban governance has these roots and works its way up
+
+00:32:02:22 - 00:32:16:22
+Speaker 2
+right? Well, tomorrow say my local MLA starts taking this odd local corporator. If my corporator, start taking this ward committee meeting seriously and the MLA takes the corporators seriously. Then the State Government is going to take the MLA seriously
+
+00:32:16:22 - 00:32:17:05
+Speaker 2
+right.
+
+00:32:17:11 - 00:32:18:21
+Speaker 2
+So in that way
+
+00:32:18:21 - 00:32:32:00
+Speaker 2
+we kind of as citizens of the city, as people living in the city, we are not going to get this fixed by one magic solution which happens in Delhi or in Vidhan Soudha
+
+00:32:32:00 - 00:32:35:15
+Speaker 2
+It is there is some element to that, some part of it they will have to make,
+
+00:32:35:15 - 00:32:44:10
+Speaker 2
+but we will have to learn to engage on a more sustained, direct day to day basis with institutions of the And I think that is the real
+
+00:32:44:10 - 00:32:47:07
+Speaker 2
+way in which we are going to fix this for a longer period.
+
+00:32:47:07 - 00:32:51:16
+Speaker 1
+That's a beautiful thought because what you're saying is the boring day to day engagement
+
+00:32:51:16 - 00:32:52:16
+Speaker 1
+by citizens.
+
+00:32:52:18 - 00:32:53:10
+Speaker 2
+Yeah.
+
+00:32:53:12 - 00:33:03:07
+Speaker 1
+Actively. And not just about the complaining, it's about complaining in the right forums and getting there, talking to people, meeting their corporator, meeting with neighbors together physically
+
+00:33:03:07 - 00:33:26:08
+Speaker 1
+those boring acts on a repeated basis build a narrative. Yes, that helps you understand your local issues better and actually start relating to how you vote. Somehow I find that connection because right now, since your disconnect that you're saying I'll vote on some foreign policy strategy for a local election I'm in because that's so easily steal able from you that narrative.
+
+00:33:26:08 - 00:33:32:02
+Speaker 1
+Yeah because you can then you will never get your local issues fixed somehow you find that the
+
+00:33:32:02 - 00:33:47:13
+Speaker 1
+Prime Minister is going to fix the plumbing. That's what I call it. Yeah, I know. And so the line is drawn completely off. It's off the whack, right? Yeah. So this boring act, however, of engagement required those structures to be
+
+00:33:47:13 - 00:33:49:04
+Speaker 1
+receptive.
+
+00:33:49:06 - 00:34:06:22
+Speaker 1
+Exactly. Don't hold a ward committee. So it's good that my previous podcast with Srinu. he also said that there was a lot of work done by a few of them. Yes, again and again to hold a meeting holding meeting, hold a meeting. It doesn't matter whether you discussed the habit of holding those meetings again and again on those times whoever.
+
+00:34:06:22 - 00:34:10:05
+Speaker 1
+two people turn up? just hold the meeting. Yeah. Now
+
+00:34:10:05 - 00:34:15:08
+Speaker 1
+Be that as it may while that happens in parallel to build some traction
+
+00:34:15:08 - 00:34:16:15
+Speaker 1
+the rhetoric of
+
+00:34:16:15 - 00:34:28:00
+Speaker 1
+Bangalore Capital Region. Look at Delhi as this big thing and the details get missed out. They don't get to know and that's one of the attempt here is to say how do we deconstruct some of this and continue to have this conversation again and again.
+
+00:34:28:02 - 00:34:51:07
+Speaker 1
+Many small aspects of please don't misunderstand this, the rhetoric is there you to recapture your imagination, but the devil is in the details. Yes. Coming back to just the size issue one last time and saying, okay, the rhetoric is good to capture people's imagination. There is also the flip side of local governments.
+
+00:34:51:07 - 00:34:53:11
+Speaker 1
+US cities. Each city has its own right.
+
+00:34:53:11 - 00:34:55:10
+Speaker 1
+You could call it democracy, but then they say
+
+00:34:55:10 - 00:35:04:08
+Speaker 1
+the consolidated planning there is broken. Let's say you want a rail system or transportation systems are typical examples of how interconnectedness can't be
+
+00:35:04:08 - 00:35:15:03
+Speaker 1
+held hostage by a small city or a small area saying no thoroughfare. Yeah, right. So that that interconnectedness will fail. But there's always checks and balances around that.
+
+00:35:15:03 - 00:35:31:13
+Speaker 1
+Right. So is that even the argument for saying planning has to happen? Everybody all of us agree planning has to happen at the macro level. It cannot happen. So for that, you don't need that rhetorical title. The Bengaluru Metropolitan Regional Development Authority for what it is, what can be empowered at the MPC can be empowered today to do the planning.
+
+00:35:31:15 - 00:35:33:05
+Speaker 1
+Yeah, and hold that
+
+00:35:33:05 - 00:35:43:10
+Speaker 1
+as minimum guarantees that you want. So so do you think it holds the argument that small cities are smaller because the Bangalore governance bill
+
+00:35:43:10 - 00:35:47:07
+Speaker 1
+Bbmp to be split even further? Having a
+
+00:35:47:07 - 00:35:55:17
+Speaker 1
+bigger BBMP, But that's already happening there We have the commissioner, for example, is not called the Chief Commissioner and there are zonal Commissioners. Administratively it's happening.
+
+00:35:55:19 - 00:35:59:11
+Speaker 1
+But do you think there is an argument, the saying that decentralization
+
+00:35:59:11 - 00:36:06:19
+Speaker 1
+will lead to more chaos in coordination because today we already have chaos in coordination.
+
+00:36:06:19 - 00:36:27:13
+Speaker 2
+Not so much. Not so much because again, consider the size of Bangalore. We are talking you know, I grew up here, Sathya I'm for me, it's still hard. I spent 15 years of my life outside Bangalore and when that came back for me, it is hard to comprehend what is Bangalore in my head, the boundaries of the city, end at the old ring road area.
+
+00:36:27:15 - 00:36:34:06
+Speaker 2
+But now I realize that is considered the core of the city. There are huge areas outside
+
+00:36:34:06 - 00:36:45:19
+Speaker 2
+In that context, you can't expect one bbmp to be able to address everything like the ideal structure, the current layout. How I think this should work is you have a metropolitan area
+
+00:36:45:19 - 00:36:47:04
+Speaker 2
+which takes into account
+
+00:36:47:04 - 00:36:51:16
+Speaker 2
+economically, which is the economically, geographically.
+
+00:36:51:16 - 00:37:08:18
+Speaker 2
+The larger idea is to which is the area we should make plans for. Right. Very much like India's a better concept this in urban planning which I'm not just missing out but which of the areas are most likely to interact with it like a minor doesn't interact so much with mysore of say, perhaps chikballapur as you sort of see.
+
+00:37:08:18 - 00:37:16:04
+Speaker 2
+So you find that area and you make plans for that. And those plans will be everything from how many ring roads,
+
+00:37:16:04 - 00:37:27:06
+Speaker 2
+rail connections, where will the water come? Because this neighborhood is not going to get its water from ground waters. What about where will the water come? When the electricity come, where will the plants be? And so on.
+
+00:37:27:06 - 00:37:30:00
+Speaker 2
+And that's broadly at the planning level.
+
+00:37:30:00 - 00:37:48:03
+Speaker 2
+Next you'll come to the actual municipality like Chikballapur will not lose its municipality because that is a metropolitan planning authority. You will have a bbmp and you will have a chikballapur municipality. Maybe something can go for Ramanagara and so on and so forth.
+
+00:37:48:03 - 00:37:52:04
+Speaker 2
+Bbmp itself cannot work in the same visit to Chikballapur or Ramnagar municipality
+
+00:37:52:04 - 00:37:56:18
+Speaker 2
+BBMP it is too big, too complex economically to well developed there.
+
+00:37:56:18 - 00:38:01:07
+Speaker 2
+It can be so it needs to be there needs to be administrative divisions
+
+00:38:01:07 - 00:38:04:12
+Speaker 2
+and those administrative decisions should be able to take calls in
+
+00:38:04:12 - 00:38:05:18
+Speaker 2
+things which affect that.
+
+00:38:05:18 - 00:38:07:06
+Speaker 2
+So bbmp people settle
+
+00:38:07:06 - 00:38:08:16
+Speaker 2
+property tax policy,
+
+00:38:08:16 - 00:38:11:04
+Speaker 2
+But supposing you want to approve an STP,
+
+00:38:11:04 - 00:38:15:18
+Speaker 2
+it should be left to the Bbmp Bbmp knows we need X number of stps in Bangalore,
+
+00:38:15:18 - 00:38:23:02
+Speaker 2
+but where in that particular part of Bangalore perhaps which area in the particular region of Bangalore should be left with zonal commissioner
+
+00:38:23:02 - 00:38:23:11
+Speaker 2
+below?
+
+00:38:23:11 - 00:38:25:06
+Speaker 2
+The Zonal committee should be the wards,
+
+00:38:25:06 - 00:38:25:21
+Speaker 2
+because
+
+00:38:25:21 - 00:38:29:20
+Speaker 2
+the wards actually are the next level of the representative
+
+00:38:29:20 - 00:38:31:11
+Speaker 2
+government, so to speak, where you have
+
+00:38:31:11 - 00:38:33:20
+Speaker 2
+elected people who can speak for your ward
+
+00:38:33:20 - 00:38:37:05
+Speaker 2
+below the ward, you should have the ward committee which feeds into the wards.
+
+00:38:37:05 - 00:38:48:09
+Speaker 2
+The Ward committee should also be involved with various levels of implementation. So you sort of have this multi-tiered structure and Kerala even has something called an area Sabha, which is a few streets
+
+00:38:48:09 - 00:38:48:18
+Speaker 2
+together.
+
+00:38:48:18 - 00:39:07:08
+Speaker 2
+If people get together and talk about issues of your streets, you may not want to give them formal legal position, but just have them as entity that you consult with, have them as entities for people to come together, hold regular meetings about, you know, some money that they can get to spend on something which is tangibly which improves the area.
+
+00:39:07:10 - 00:39:07:22
+Speaker 2
+So
+
+00:39:07:22 - 00:39:32:08
+Speaker 2
+I don't see this as splitting. I see this as giving the right level of power and responsibility at each level because one thing we have to remember, but that the 74th amendment fundamentally fails is that you give the responsibility of being a govt something like a government to someone. Is it better to go to a corporation? But you don't give them all the powers.
+
+00:39:32:10 - 00:39:37:00
+Speaker 2
+A state on the other hand, according to me, has a fairly right mixture of responsibility and power.
+
+00:39:37:00 - 00:39:38:20
+Speaker 2
+You hold the state accountable for
+
+00:39:38:20 - 00:39:51:16
+Speaker 2
+education policy, health policy, social welfare, agriculture, water and they have the power under the Constitution to deliver on all of these things. They don't need to be relying on the union government for everything.
+
+00:39:51:16 - 00:39:52:06
+Speaker 2
+But
+
+00:39:52:06 - 00:40:02:10
+Speaker 2
+we don't, we say, municipality is supposed to deliver on service, we deliver on this, deliver on local public health care, and we don't give them enough power to be able to build.
+
+00:40:02:12 - 00:40:20:15
+Speaker 2
+So what really the way we need to understand is that each element in the structure needs to have a good match of power and responsible. If you are saying that your job is only planning and coordination, the only power you need to have is the power to say, please come for our meetings. I think that's it. And I
+
+00:40:20:15 - 00:40:24:18
+Speaker 2
+went to all the meetings I needed to hold, maybe a monthly meeting or two once in a few months.
+
+00:40:24:20 - 00:40:28:16
+Speaker 2
+You need to have somebody who can actually call the people and say, Come for the meeting.
+
+00:40:28:16 - 00:40:46:03
+Speaker 2
+And maybe that expertise to be able to draw up these municipal area plans. But likewise, if your ward is the place where you go to to get issues relating to water and this thing addressed, you give powers to the ward level for the conflict to be able to address some of these issues.
+
+00:40:46:05 - 00:40:55:03
+Speaker 2
+Or maybe you want to sort of just want the corporator to be someone who raises issues, but a ward committee might be the one which should demand more accountability from the
+
+00:40:55:03 - 00:41:00:08
+Speaker 2
+BESCOM guy or from the BWSSB guy or from the BMTC or whoever. So
+
+00:41:00:08 - 00:41:12:21
+Speaker 2
+you mean without getting into too much of the specific details, How I want our listeners to think about is at each level we have to think what should be the responsibility and what are the powers we should give them to be able to effectively carry out their responsibilities.
+
+00:41:12:23 - 00:41:17:11
+Speaker 2
+Because for something it is only possible if you do it at that level.
+
+00:41:17:11 - 00:41:26:17
+Speaker 2
+But implementation also cannot be the same responsible to the same level. So this equation changes as you go further and further. The ward committees are going to set policy for
+
+00:41:26:17 - 00:41:34:02
+Speaker 2
+what committee is going to be involved in something very specific, very local kind of issues, give them appropriate finances, appropriate power in that respect.
+
+00:41:34:04 - 00:41:40:14
+Speaker 2
+So in that way, a city the size of Bangalore needs this kind of and
+
+00:41:40:14 - 00:41:47:11
+Speaker 2
+we will have to be comfortable with the fact that sometimes this will go wrong. Sometimes people will make choices that we don't agree with,
+
+00:41:47:11 - 00:41:52:15
+Speaker 2
+but the response to that will have to be political rather than just saying, Oh, this whole thing is a waste.
+
+00:41:52:15 - 00:41:54:03
+Speaker 2
+Let's go to the state government to fix it.
+
+00:41:54:03 - 00:42:01:00
+Speaker 2
+When we sort of say that the state government has made a bad policy choices, we vote them out like whatever, five years, whenever the next election happens
+
+00:42:01:00 - 00:42:09:09
+Speaker 2
+And likewise, if they start thinking of the bbmp or your local ward corporator acting that way, that these are also government.
+
+00:42:09:09 - 00:42:16:11
+Speaker 2
+They're not just the implementing form of the government, but to go and complain to their boss if they don't do something like that. So you have to be able to
+
+00:42:16:11 - 00:42:18:04
+Speaker 2
+see them as government and
+
+00:42:18:04 - 00:42:25:18
+Speaker 2
+think of them and government and respond to them as government. So which is where they sort of see that the structure needs to change, the setting doesn't.
+
+00:42:25:18 - 00:42:47:02
+Speaker 2
+Therefore that has been made in the BBMP act that we are also part of it. I think that is definitely scope for much improvement in that legislation and that has to be part of more public discussion and I'm sure that will happen over the course of the next few years. But at least a start has been made. And if people see the BBMP act and wonder what is happening, I want them to understand this is the kind of design that is being attempted
+
+00:42:47:02 - 00:42:48:09
+Speaker 2
+that you just cannot have
+
+00:42:48:09 - 00:42:51:03
+Speaker 2
+one BBMP and ward and everything else is sorted out.
+
+00:42:51:05 - 00:42:57:00
+Speaker 2
+You need to be the BBMP, you need zonal committees, you need wards you need ward committees.
+
+00:42:57:00 - 00:43:12:21
+Speaker 2
+We would need other consultative boards. You may need something called a MLA consultative committee, which is nothing but to, you know, just say if at this level this can be addressed, can we go to the formal structure for the MLA to come and say and they are involved today.
+
+00:43:12:21 - 00:43:27:06
+Speaker 2
+They are involved. We can't do to say that normally in Bangalore is involved in addressing governance issues. Maybe that needs to be a structure, but it's clear that these issues, you can take them out of these issues you address at this level. So whatever it is we need to
+
+00:43:27:06 - 00:43:31:10
+Speaker 2
+have this nuanced understanding of various levels,
+
+00:43:31:10 - 00:43:32:17
+Speaker 2
+what each level does
+
+00:43:32:17 - 00:43:33:20
+Speaker 2
+and how to
+
+00:43:33:20 - 00:43:36:19
+Speaker 2
+engage with each level of municipality.
+
+00:43:36:21 - 00:43:38:13
+Speaker 1
+So before we
+
+00:43:38:13 - 00:43:40:13
+Speaker 1
+concluded some talks, I wanted to ask about
+
+00:43:40:13 - 00:43:41:21
+Speaker 1
+how do we make
+
+00:43:41:21 - 00:44:02:21
+Speaker 1
+the Bbmp elections be held? Of course we don't like the term of the mayor here. He or she is not even accountable for delivering anything. What are the reforms at the BBMP And of course some other cities have better empowered mayors are should it should not be personality driven there?
+
+00:44:02:23 - 00:44:09:00
+Speaker 1
+What do you see there in terms of getting to bbmp elections done, in maybe terms of how
+
+00:44:09:00 - 00:44:14:01
+Speaker 1
+far away and, you know, are we on that making that happen? Because it seems to be
+
+00:44:14:01 - 00:44:16:10
+Speaker 1
+easily extinguishable and nobody's interested in,
+
+00:44:16:10 - 00:44:21:09
+Speaker 1
+oh yeah, we can get the job. Like you said, we didn't feel a thing. There was no protests. There was nothing.
+
+00:44:21:09 - 00:44:28:19
+Speaker 1
+I mean, a few people did ask, how do we make that more critical that it can't be extinguished so easily?
+
+00:44:29:07 - 00:44:31:18
+Speaker 2
+So let's go back to the constitutional design
+
+00:44:31:18 - 00:44:33:05
+Speaker 2
+when
+
+00:44:33:05 - 00:44:39:04
+Speaker 2
+and it's not as if the union cannot extinguish state government. Sure, there is a constitutional provision for it.
+
+00:44:39:04 - 00:44:44:09
+Speaker 2
+In the first three or four decades of our constitution, it was a power which was routinely exist
+
+00:44:44:09 - 00:44:45:03
+Speaker 2
+until
+
+00:44:45:03 - 00:44:46:17
+Speaker 2
+1994.
+
+00:44:46:17 - 00:44:54:19
+Speaker 2
+Supreme Court judgment in a SR Bommai v Union of India, which said, You cannot use this power unless certain very specific things happen.
+
+00:44:54:20 - 00:44:58:02
+Speaker 2
+And by the way, this can always be checked by the judiciary.
+
+00:44:58:02 - 00:45:07:14
+Speaker 2
+And so and as we have seen in the last few years, if we use this power wrong, we will restore the state government. The court has put its money where its mouth is on multiple occasions and shown that it'll do that,
+
+00:45:07:14 - 00:45:11:08
+Speaker 2
+which has meant that union government has and this is verifiable.
+
+00:45:11:09 - 00:45:14:01
+Speaker 2
+data I wrote about this. This is publicly available data.
+
+00:45:14:01 - 00:45:15:17
+Speaker 2
+There's a dramatic fall
+
+00:45:15:17 - 00:45:19:18
+Speaker 2
+in how the union invokes presidents rule at a state level. post this judgment
+
+00:45:19:18 - 00:45:20:07
+Speaker 2
+and
+
+00:45:20:07 - 00:45:25:00
+Speaker 2
+it's not just this judgment. The other thing which changes is the larger politics of federalism in this country.
+
+00:45:25:00 - 00:45:29:18
+Speaker 2
+Right. And, you know, states that able to assert themselves in the context of
+
+00:45:29:18 - 00:45:33:04
+Speaker 2
+coaliation governments, all of that is that there is a political process which doesn't happen by itself
+
+00:45:33:04 - 00:45:37:19
+Speaker 2
+immediately replicating that is a little difficult for city governments, I would say that upfront.
+
+00:45:37:19 - 00:45:40:02
+Speaker 2
+the solution also perhaps lies constitutionally.
+
+00:45:40:02 - 00:45:43:00
+Speaker 2
+The solution lies when sort of say
+
+00:45:43:00 - 00:45:44:18
+Speaker 2
+that you can only
+
+00:45:44:18 - 00:45:46:18
+Speaker 2
+extinguish a city government in
+
+00:45:46:18 - 00:45:51:16
+Speaker 2
+exceptional emergency circumstances like, say, a council is not able to run
+
+00:45:51:16 - 00:45:52:23
+Speaker 2
+because of no major
+
+00:45:52:23 - 00:46:01:14
+Speaker 2
+Or some emergency situation happens where you feel that this will not be capable of being handled. I don't see that many emerging situations, to be very honest.
+
+00:46:01:16 - 00:46:15:14
+Speaker 2
+It can only be when you cannot form a government in council at the city municipality stage. So therefore, and this is this is where the fundamental design flaw of the 74th Amendment comes into the picture. Because you didn't give them powers.
+
+00:46:15:14 - 00:46:19:17
+Speaker 2
+You said state government give, but we'll take them and then take back those powers. It's not as if
+
+00:46:19:17 - 00:46:26:20
+Speaker 2
+certain essential functions will stop because even in presidents rule, I honestly think the union would rather not run the state
+
+00:46:26:20 - 00:46:31:21
+Speaker 2
+the size of say Karnataka or any sizable state.
+
+00:46:31:21 - 00:46:32:13
+Speaker 2
+You cannot
+
+00:46:32:13 - 00:46:36:23
+Speaker 2
+more than six months. You can only treat it as an emergency and hold elections immediately.
+
+00:46:36:23 - 00:46:40:00
+Speaker 2
+So which is it? I think constitutionally the design has to be
+
+00:46:40:00 - 00:46:41:19
+Speaker 2
+the term will be five years,
+
+00:46:41:19 - 00:46:49:21
+Speaker 2
+the state election Commission will be completely independent. It will not be depend on the state law to make them independent. The state Finance Commission would be completely independent.
+
+00:46:49:21 - 00:46:53:15
+Speaker 2
+It would not depend on the state law to make them independent. And
+
+00:46:53:15 - 00:46:54:16
+Speaker 2
+if you,
+
+00:46:54:16 - 00:46:56:04
+Speaker 2
+you know, sort of
+
+00:46:56:04 - 00:46:59:11
+Speaker 2
+takeaway, rather, if you extinguish a municipality,
+
+00:46:59:11 - 00:47:09:03
+Speaker 2
+it is going to be such a difficult effort to run the municipality for you as a state that the immediate thing you will do is hold elections. All right. So which also means that the municipalities capacity needs to be
+
+00:47:09:03 - 00:47:25:11
+Speaker 2
+It should be that most things actually happen at the municipality level that the state feels like. But this is just too complicated. We may have done it for some emergency situation. Let's hold elections as quickly as possible so the representatives are place. BBMP can run on its own and we can step back on it. So
+
+00:47:25:11 - 00:47:29:10
+Speaker 2
+it comes from treating I to go back to something which I think comes from treating
+
+00:47:29:10 - 00:47:31:02
+Speaker 2
+a municipality as a government.
+
+00:47:31:02 - 00:47:36:05
+Speaker 2
+We get upset with the state government, this unjustified presidents rule let's say all
+
+00:47:36:05 - 00:47:41:06
+Speaker 2
+I mean, you could make the argument that what's happening in Manipur is a justified case of presidents rule, but
+
+00:47:41:06 - 00:47:51:00
+Speaker 2
+they're holding that hands saying, okay, maybe it can be resolved in other ways. But if they had to and if they imposed presidents rule a couple of days ago in manipur I wouldn't have said it's unconstitutional.
+
+00:47:51:02 - 00:48:03:04
+Speaker 2
+I would have said you are seeing that kind of wide scale, large scale breakdown of law and order that no court would have said is unjustified and nobody can say is unjustified. But if you chose otherwise let's suppose tomorrow,
+
+00:48:03:04 - 00:48:11:03
+Speaker 2
+if the union government says we don't like the results in Karnataka, let's impose precedents or try this again, obviously they will have annoyed an upset, and outraged.
+
+00:48:11:05 - 00:48:42:21
+Speaker 2
+But it also comes from treating this level of government, the state government, as a legitimate government under the Constitution as opposed to just a municipality. You'll just have to get out of them. And that once that mindset changes, the constitutional strictures reflect this, like the 73rd and 74th have to recognize panchayats and municipalities as legitimate forms of govt, as legitimate a levels of government given their own powers to make laws, even their own powers to fund themselves, given their own specific executive powers.
+
+00:48:42:21 - 00:48:48:05
+Speaker 2
+And of course you will have the State Government up over pick something which is beyond that. But
+
+00:48:48:05 - 00:48:49:23
+Speaker 2
+if you don't define these
+
+00:48:49:23 - 00:48:51:19
+Speaker 2
+levels of government as government,
+
+00:48:51:19 - 00:48:55:07
+Speaker 2
+you can't tinker around with the provisions or anything else
+
+00:48:55:07 - 00:48:59:19
+Speaker 2
+or even a larger movement. You can't pick a good can't get people convinced if
+
+00:48:59:19 - 00:49:01:21
+Speaker 2
+you're going to, they're going to completely continue functioning.
+
+00:49:01:21 - 00:49:05:22
+Speaker 2
+Let's just implementation that agencies of the state and center.
+
+00:49:06:01 - 00:49:12:04
+Speaker 1
+So then would it be fair to say that it's in the corporators hands to make themselves too big to fail?
+
+00:49:12:07 - 00:49:17:14
+Speaker 2
+Not necessarily. I think they do play one role in it, but they cannot beyond the point of time,
+
+00:49:17:14 - 00:49:26:19
+Speaker 2
+they cannot save. For instance, I mean, obviously they're going to amend the Constitution. The Constitution needs to be amended to say municipalities only municipalities will have certain powers
+
+00:49:26:19 - 00:49:29:06
+Speaker 2
+except in to protect these powers. But
+
+00:49:29:06 - 00:49:33:17
+Speaker 2
+on a regular day to day basis, only municipality will have these powers to make these laws.
+
+00:49:33:18 - 00:49:39:12
+Speaker 2
+Only municipality would have the power to raise these taxes. Only the municipalities have the power to make these policies and implement the
+
+00:49:39:12 - 00:49:55:12
+Speaker 2
+Once that framework is put in the corporators will make themselves too big to fail. Let me put it that well. Once that once that particular level of once that change happens in the governance and in the majority, it will flow downstream into that.
+
+00:49:55:14 - 00:50:03:04
+Speaker 1
+So where is that? Right. So where do you put that in and where is what city, what state is it in that you are going to get those clauses in too.
+
+00:50:03:04 - 00:50:05:18
+Speaker 2
+Yeah. So and I think this is perhaps where
+
+00:50:05:18 - 00:50:14:16
+Speaker 2
+I go back to something which I also mentioned earlier, we shouldnt see this as a purely Bangalore problem. I know the podcast says OoruLabs, and that's not.
+
+00:50:14:18 - 00:50:15:16
+Speaker 1
+It's.
+
+00:50:15:18 - 00:50:16:13
+Speaker 2
+It's it's all.
+
+00:50:16:13 - 00:50:18:00
+Speaker 1
+treat this as an urban governance
+
+00:50:18:06 - 00:50:23:22
+Speaker 2
+Problem. It's an urban governance problem. And I think perhaps the time here is for
+
+00:50:23:22 - 00:50:29:18
+Speaker 2
+various civic movements to make these connections across the country. Right. If we can
+
+00:50:29:18 - 00:50:30:13
+Speaker 2
+get a
+
+00:50:30:13 - 00:50:37:11
+Speaker 2
+convening of, say, people in Delhi, Bombay, Bangalore, Calcutta, Chennai, Hyderabad, Ahmedabad
+
+00:50:37:11 - 00:50:43:00
+Speaker 2
+all of us can come together on a certain kind of we want to see these larger changes
+
+00:50:43:00 - 00:50:45:20
+Speaker 2
+in the governance framework at the constitutional level,
+
+00:50:45:20 - 00:50:50:15
+Speaker 2
+because all of these are affecting us maybe in slightly different ways, but the origin is the same, right?
+
+00:50:50:15 - 00:50:56:22
+Speaker 2
+Right. I do think and this is where, you know, I get something which I mentioned earlier,
+
+00:50:56:22 - 00:51:00:00
+Speaker 2
+India has urbanized faster than even the government as imagined.
+
+00:51:00:00 - 00:51:09:09
+Speaker 2
+And then I suddenly find that the questions of urban governance, urban residents far beyond just Bangalore and the megacities, we may suddenly find that
+
+00:51:09:09 - 00:51:13:08
+Speaker 2
+this issue gets taken up like wildfire in a way we did not expect.
+
+00:51:13:10 - 00:51:41:06
+Speaker 2
+So let me end with like a positive story in one of my most heartening days as a public policy profession was when I was invited by the Karnataka government to be part of a panel which assessed governance measures at city level. So there's something called the City Managers Association of Karnataka, which is a group of administrators, and every two, I think it kind of got disrupted by COVID, but every few years they would hold a contest
+
+00:51:41:06 - 00:51:44:03
+Speaker 2
+among cities of various sizes in Karnataka
+
+00:51:44:03 - 00:51:51:06
+Speaker 2
+on new initiatives that they have introduced, how they have worked, and they give prizes to the best initiative.
+
+00:51:51:06 - 00:52:00:22
+Speaker 2
+And I went with no expectations. But the breadth and the imagination and the concern which concerns which informed these initiatives, I was blown away
+
+00:52:00:22 - 00:52:07:09
+Speaker 2
+because this was the way this like we are all we all live with our problems. We think our problems are intractable.
+
+00:52:07:09 - 00:52:13:07
+Speaker 2
+But when you see that you have not just an engaged citizenry but a responsive government
+
+00:52:13:07 - 00:52:17:20
+Speaker 2
+at so many levels in this in the state, forget country at the state,
+
+00:52:17:20 - 00:52:22:04
+Speaker 2
+you will be like, Oh my God, these are none of these are unsolvable problems.
+
+00:52:22:04 - 00:52:35:10
+Speaker 2
+If we found a way to not make these only Bangalore problems, if we were to Mangalore, if we went to a small town like Kaup or if you went to somewhere and, you know, Bellary or I well, I just
+
+00:52:35:10 - 00:52:40:13
+Speaker 2
+learn to talk to all the people who face the same. And I think Janagraaha is doing fantastic work on that front.
+
+00:52:40:13 - 00:52:42:19
+Speaker 2
+Or at least municipal corporations
+
+00:52:42:19 - 00:52:43:21
+Speaker 2
+will realize
+
+00:52:43:21 - 00:53:01:04
+Speaker 2
+actually the people who share our concerns are probably ten, if not a hundred X more than we thought shared these concerns. And the people from the other side who want to respond to this, we may be hitting a wall consistently here in Bangalore. They find this is what responsive governance looks like.
+
+00:53:01:09 - 00:53:05:19
+Speaker 2
+This is maybe the level at which we should, you know, aim interventions of aim our
+
+00:53:05:19 - 00:53:06:15
+Speaker 2
+discourse at
+
+00:53:06:15 - 00:53:25:09
+Speaker 2
+and just the level of enthusiasm with which people in government came to make these presentations to show how would that work, how they're engaged with the local people, how they were able to show measurable results. It told me that for whatever problems something about this country works, in a way, none of us expected.
+
+00:53:25:15 - 00:53:41:03
+Speaker 2
+And most of it's in a lot of times And I think we have to channel that. What is it that is making all of this work? What is it that is driving this level of closer engagement is close, that it is responsiveness? And how do we scale it up? Really, that's the problem. That is. So
+
+00:53:41:03 - 00:54:05:04
+Speaker 2
+I would sort of say that what is perhaps needed is both that we widen this conversation, we kind of don't see it as a pure urban governance issue, but a democracy issue. that whatever the solutions that we are asking for is to make India's democracy deeper and long lasting and stronger and not just because it leads to better roads for us,
+
+00:54:05:04 - 00:54:09:16
+Speaker 2
+but more stable water, electricity. Those are all those are all the consequences
+
+00:54:09:16 - 00:54:14:15
+Speaker 2
+of a responsive, empowered, effective municipality.
+
+00:54:14:15 - 00:54:32:16
+Speaker 1
+Under wonderful note. The consequences matter to people, and the framework matters to everybody. I would like to thank you for coming on the show. I'd like to have a separate conversation with you again on many of these issues so that we can deep dive in a separate episode. Thanks a lot for coming on the show.
+
+00:54:32:18 - 00:54:37:23
+Speaker 2
+Absolutely. Any time that there was always a pleasure. It's always a pleasure to talk to you and I hope to be back soon.
+
+00:54:38:01 - 00:54:40:17
+Speaker 1
+Thanks, everyone. See you all next week. Bye.
+
+00:54:40:19 - 00:54:41:09
+Speaker 2
+Bye. Bye.
+
