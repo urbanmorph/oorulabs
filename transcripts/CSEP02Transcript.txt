@@ -1,1976 +1,1576 @@
-00:00:01:13 - 00:00:31:19
+00:00:01:14 - 00:00:23:16
 Speaker 1
-Are we on? Let's go. Hey, welcome to another episode of the OoruLabs podcast from Bengaluru. Ever complained about how bad our cities are, how bad your commute is? You'll get to hear from people who are working to solve these problems in their own way. This is your weekly soapbox for urban sustainability. So do not forget to click like, subscribe and share these videos and check out the entire podcast library and profiles of the guests on the site podcast.
+Are we on? Let's go. Hey, welcome to another episode of the OoruLabs podcast from Bengaluru. Ever complained about how bad our cities are, how bad your commute is? You'll get to hear from people who are working to solve these problems in their own way. This is your weekly soapbox for urban sustainability. So do not forget to
 
-00:00:31:21 - 00:00:46:18
+00:00:23:16 - 00:00:31:06
 Speaker 1
-Relapsed or come I I'm Sathya Sankaran with Knerav Kodolikar and this is going to be airing of course we are shooting this ahead of time but it's going to be airing on June 3rd, which is the World Bicycle Day. About five years ago
+click like, subscribe and share these videos and check out the entire podcast library and profiles of the guests on the site podcast.
 
-00:00:46:18 - 00:00:47:06
+00:00:31:08 - 00:00:35:04
+Speaker 1
+oorulabs.com I'm Sathya Sankaran with Knerav Kodolikar
+
+00:00:35:04 - 00:00:44:15
+Speaker 1
+this is going to be airing of course we are shooting this ahead of time but it's going to be airing on June 3rd, which is the World Bicycle Day. About five years ago
+
+00:00:44:15 - 00:00:45:13
 Speaker 1
 Leszek
 
-00:00:47:06 - 00:00:53:05
+00:00:45:13 - 00:00:51:15
 Speaker 1
 Sibilski from Poland. He's a track cyclist. He went to the U.N. and said we need to declare
 
-00:00:53:05 - 00:00:54:02
+00:00:51:15 - 00:00:52:13
 Speaker 1
 a day
 
-00:00:54:04 - 00:00:56:04
+00:00:52:15 - 00:00:58:13
 Speaker 1
-dedicated to cycling.
+dedicated to cycling. Right. And he got them to
 
-00:00:56:04 - 00:00:59:00
+00:00:58:13 - 00:01:03:16
 Speaker 1
-And he got them to
+dedicate June 3rd every year as the World bicycle Day to
 
-00:00:59:00 - 00:01:03:18
-Speaker 1
-dedicate June 3rd every year as the World bicycle Day
-
-00:01:03:18 - 00:01:08:08
+00:01:03:16 - 00:01:07:23
 Speaker 1
 celebrate the role bicycle play in cities and how
 
-00:01:08:08 - 00:01:10:16
+00:01:07:23 - 00:01:24:09
 Speaker 1
-this humble instrument can
+this humble instrument can be a huge transformative effect towards cities. And when people are adopted in large numbers and this is being increasingly seen in many places, we've heard stories of the Netherlands, of course, for the last 40 years,
 
-00:01:10:16 - 00:01:23:04
-Speaker 1
-be a huge transformative effect towards cities. And when people are adopted in large numbers and this is being increasingly seen in many places, we've heard stories of the Netherlands, of course, for the last 40 years,
-
-00:01:23:04 - 00:01:31:21
+00:01:24:09 - 00:01:33:03
 Speaker 1
 increasingly like Paris, during the lockdown, started closing down certain streets and it started having a transformative effect on that, a huge pick up.
 
-00:01:31:23 - 00:01:45:21
+00:01:33:05 - 00:01:54:05
 Speaker 1
-And Brussels which has always been close to the Netherlands, you'll be surprised. But it's been a car country and most recently they have begun to see, you know, become a poster boy for cycling. So Europe is slowly transforming. Of course, there has been a huge
+And Brussels which has always been close to the Netherlands, you'll be surprised. But it's been a car country and most recently they have begun to see, you know, become a poster boy for cycling. So Europe is slowly transforming. Of course, there has been a huge car dependent infrastructure in the U.S. and Australia in some of these places for people.
 
-00:01:45:21 - 00:01:50:06
+00:01:54:07 - 00:02:31:04
 Speaker 1
-car dependent infrastructure in the U.S. and Australia in some of these places
+For most people, you're just kind of writing off these countries literally. But they have been doing a lot of emissions as well. But the global South Africa and India and all these countries are beginning to look at not becoming car dependent, look at building cities differently. And in that context, I have three guests today Shilpi Sahu, Tandava Popuri and Karthik Ranganathan and they have been commute cyclists, if I may call it that.
 
-00:01:50:06 - 00:02:05:01
-Speaker 1
-For most people, you're just kind of writing off these countries literally. But they have been doing a lot of emissions as well. But the global South Africa and India and all these countries are beginning to look at
-
-00:02:05:01 - 00:02:08:12
-Speaker 1
-not becoming car dependent, look at building cities differently.
-
-00:02:08:12 - 00:02:23:22
-Speaker 1
-And in that context, I have three guests today Shilpi Sahu, Tandava Popuri and Karthik Ranganathan and they have been commute cyclists,
-
-00:02:23:22 - 00:02:29:18
+00:02:31:04 - 00:02:37:03
 Speaker 1
 they've been cycling to work for quite a while, really talk about what their journeys have been. So welcome to the show guys.
 
-00:02:29:20 - 00:02:30:17
-Speaker 2
-Thank you.
-
-00:02:30:17 - 00:02:31:06
-Speaker 3
-Thank you.
-
-00:02:31:06 - 00:02:32:21
-Speaker 1
-I think we should start with Shilpi first
-
-00:02:32:21 - 00:02:34:01
+00:02:37:03 - 00:02:38:09
 Speaker 1
 tell me about
 
-00:02:34:01 - 00:02:41:04
+00:02:38:09 - 00:02:45:11
 Speaker 1
 when you literally started commuting to work. I know you might have been on a cycle earlier or not, so I would like to hear
 
-00:02:41:04 - 00:02:45:00
+00:02:45:11 - 00:02:54:01
 Speaker 1
-Where did you start? When did you really want to do,
+Where did you start? When did you really want to do, you know, go to office? You know, I would play. Would somebody want to do that?
 
-00:02:45:00 - 00:02:47:20
-Speaker 1
-you know, go to office? You know, I would play. Would somebody want to do that?
-
-00:02:47:20 - 00:02:50:03
+00:02:54:03 - 00:03:20:03
 Speaker 4
-So I started cycling
+So I started cycling because I wanted to say go to work. So before that, I knew how to cycle. I heard cycle a bit in college, but just for commute. I have always used cycle for commute, but tuition's on cycle. But I was never very comfortable cycling falling a lot. So and I didn't have a cycle when they thought they do.
 
-00:02:50:03 - 00:02:51:13
+00:03:20:04 - 00:03:48:13
 Speaker 4
-because I wanted to say
+Let me try cycling to work because traffic in 2011 used to be not that great and I had very little patience for say but getting stuck in traffic and I tried bus which was not very convenient at that time. Even now it's not driving was like really unpredictable. So I said, I will give it a try. And I bought bicycles.
 
-00:02:51:13 - 00:02:53:15
+00:03:48:13 - 00:04:13:06
 Speaker 4
-go to work. So
+I tried it when on a weekend I cycled around my house 13 kilometers and then I thought that, okay, let me try going to work. No. And they just cycle to work then. And it was not very hard. I was afraid, but it was not very hard. I was tired, but I was not too tired. I was happy.
 
-00:02:53:15 - 00:03:12:04
-Speaker 4
-before that, I knew how to cycle. I heard cycle a bit in college, but just for commute. I have always used cycle for commute, but tuition's on cycle. But I was never very comfortable cycling falling a lot. So and I didn't have a cycle when they thought they do.
-
-00:03:12:05 - 00:03:31:07
-Speaker 4
-Let me try cycling to work because traffic in 2011 used to be not that great and I had very little patience for say but getting stuck in traffic and I tried bus which was not very convenient at that time. Even now it's not
-
-00:03:31:07 - 00:03:33:17
-Speaker 4
-driving was like really unpredictable.
-
-00:03:33:17 - 00:03:36:09
-Speaker 4
-So I said, I will give it a try.
-
-00:03:36:09 - 00:03:37:19
-Speaker 4
-And I bought bicycles.
-
-00:03:37:19 - 00:03:39:06
-Speaker 4
-I tried it when
-
-00:03:39:06 - 00:03:52:03
-Speaker 4
-on a weekend I cycled around my house 13 kilometers and then I thought that, okay, let me try going to work. No. And they just cycle to work then. And
-
-00:03:52:03 - 00:04:00:17
-Speaker 4
-it was not very hard. I was afraid, but it was not very hard. I was tired, but I was not too tired. I was happy.
-
-00:04:00:19 - 00:04:03:19
+00:04:13:08 - 00:04:16:08
 Speaker 4
 I basically cracked it.
 
-00:04:03:21 - 00:04:05:11
+00:04:16:10 - 00:04:18:00
 Speaker 1
 :)
 
-00:04:05:13 - 00:04:30:06
+00:04:18:02 - 00:04:42:19
 Speaker 4
 And I didn't cycle every day. I cycle like once, twice a week. I did that for few years and then I traffic got worse and I cycled more often. And then one day I just removed my name from the office cab and said I'm cycling every day to hell with this traffic. And I cant sit in a cab anymore. So, you know, from then onwards, if I'm going to work, I'm cycling.
 
-00:04:30:10 - 00:04:42:08
+00:04:42:23 - 00:04:54:21
 Speaker 4
 That is no exception. its rainy, It's windy, it's the hailstones. So it's it's raining fire cats and dogs. It doesn't matter. I find out how I can get to work
 
-00:04:42:08 - 00:04:44:06
+00:04:54:21 - 00:04:56:22
 Speaker 4
 and back on cycle
 
-00:04:44:06 - 00:04:45:19
+00:04:56:22 - 00:04:58:11
 Speaker 4
 It saves me a lot of time
 
-00:04:45:19 - 00:04:47:12
+00:04:58:11 - 00:05:00:07
 Speaker 4
 and that's the main reason.
 
-00:04:47:12 - 00:05:07:15
+00:05:00:07 - 00:05:02:04
 Speaker 2
-My journey of cycling is mainly thanks to Bangalore Basically, I live in a place called Marathahalli, where all the traffic stops. I have a small flyover next to my house just to cross that It used to be 20 minutes to half an hour stuff and even on a bike it used to take more than an hour car.
+Thanks for hosting us today.
 
-00:05:07:17 - 00:05:19:11
+00:05:02:04 - 00:05:06:05
 Speaker 2
-It used to take almost 2 hours. And this is basically to commute a distance of ten kilometers from my place to my workplace. And one day I was sitting and said, even if I walk, I might reach faster than 2
+My journey of cycling is mainly thanks to
 
-00:05:19:11 - 00:05:21:00
+00:05:06:05 - 00:05:17:10
+Speaker 2
+Basically, I live in a place called Marathahalli, where all the traffic stops. I have a small flyover next to my house just to cross that It used to be 20 minutes to half an hour stuff
+
+00:05:17:10 - 00:05:20:09
+Speaker 2
+even on a bike it used to take more than an hour car.
+
+00:05:20:11 - 00:05:22:12
+Speaker 2
+It used to take almost 2 hours.
+
+00:05:22:12 - 00:05:26:20
+Speaker 2
+And this is basically to commute a distance of ten kilometers from my place to my workplace.
+
+00:05:26:20 - 00:05:31:04
+Speaker 2
+And one day I was sitting and said, even if I walk, I might reach faster than 2 hours
+
+00:05:31:04 - 00:05:32:17
 Speaker 2
 what other alternates I have
 
-00:05:21:00 - 00:05:28:08
+00:05:32:17 - 00:05:34:04
 Speaker 2
-that was the main motivation and I really owe Bangalore all my cycling Journey to Bangalore traffic.
+that was the main motivation
 
-00:05:28:10 - 00:05:44:04
+00:05:34:04 - 00:05:39:14
 Speaker 2
-This is basically everybody says all these are challenges and all the pain points I of based on how I got an habituated to convert challenges and opportunities. It's for the last 12 years I'm starting to work and I never had to look back after that.
+and I really owe Bangalore all my cycling Journey to Bangalore traffic.
 
-00:05:44:04 - 00:05:46:06
+00:05:39:16 - 00:05:53:00
+Speaker 2
+This is basically everybody says all these are challenges and all the pain points I of based on how I got an habituated to convert challenges and opportunities. It's for the last 12 years I'm starting to work
+
+00:05:53:00 - 00:05:54:22
+Speaker 2
+and I never had to look back after that.
+
+00:05:54:22 - 00:05:56:19
 Speaker 2
 I have some stories to talk about.
 
-00:05:46:08 - 00:06:01:01
+00:05:56:19 - 00:05:57:10
 Speaker 2
-What are the big disinhibition? Some stuff? Yeah. Even then I want to start cycling. I sat on that for almost a year, so If I buy a cycle will I use for two days will I use for a year. I just sat on the decision for almost a year.
+What are the
 
-00:06:01:01 - 00:06:02:18
+00:05:57:10 - 00:06:02:07
+Speaker 2
+big disinhibition? Some stuff? Yeah. Even then I want to start cycling.
+
+00:06:02:07 - 00:06:04:04
+Speaker 2
+I sat on that for almost a year,
+
+00:06:04:04 - 00:06:10:14
+Speaker 2
+so If I buy a cycle will I use for two days will I use for a year. I just sat on the decision for almost a year.
+
+00:06:10:14 - 00:06:12:03
 Speaker 1
-but the way you said I have a
+the way you said I have a
 
-00:06:02:18 - 00:06:13:03
+00:06:12:03 - 00:06:22:12
 Speaker 1
 small flyover or next to my house, it's almost like this world, but so everybody seems to have us a favorite flyover next to that. What about you, Kartik?
 
-00:06:13:05 - 00:06:39:08
+00:06:22:14 - 00:06:35:16
 Speaker 3
-I don't have a favorite flyover thankfully but thank you for inviting us. Sathya pleasure to be here. I mean, like you said, they don't. I mean, I mean, my cycling journey started early childhood when we would all sort of clearly remember the rental cycle for I mean, one hour in ₹1 per hour and that was super popular.
+I don't have a favorite flyover thankfully but thank you for inviting us. Sathya pleasure to be here. I mean, like you said, they don't. I mean,
 
-00:06:39:08 - 00:06:51:11
+00:06:35:16 - 00:06:47:23
+Speaker 3
+I mean, my cycling journey started early childhood when we would all sort of clearly remember the rental cycle for I mean, one hour in ₹1 per hour and that was super popular.
+
+00:06:47:23 - 00:07:00:04
 Speaker 3
 So that is where I learned my cycling be BSA Champ on that. So rode all the way to standard college four years it went away. Thankfully, I picked it up and I started doing my master's. Even
 
-00:06:51:11 - 00:06:59:00
+00:07:00:04 - 00:07:07:19
 Speaker 3
 when I started working in in Dallas, I had a cycle, but it was very limited. And like you had mentioned about
 
-00:06:59:00 - 00:07:04:07
+00:07:07:19 - 00:07:13:03
 Speaker 3
 the US not really being a very convenient place for cycling, I had pretty much kept it away,
 
-00:07:04:07 - 00:07:07:08
+00:07:13:03 - 00:07:16:05
 Speaker 3
 but then I brought it back with me.
 
-00:07:07:08 - 00:07:08:07
+00:07:16:05 - 00:07:30:08
 Speaker 3
-but what really triggerred
+but what really triggerred triggerred the commute was, I think it was probably my second week in my office here in Bangalore when my supervisor, I mean while he was introducing me to the rest of the team,
 
-00:07:08:07 - 00:07:27:03
+00:07:30:08 - 00:07:35:04
 Speaker 3
-the commute was, I think it was probably my second week in my office here in Bangalore when my supervisor, I mean while he was introducing me to the rest of the team, he had a so when he stopped by one guy, he said, this guy is weird. I was like, why.
+so when he stopped by one guy, he said, this guy is weird. I was like, why.
 
-00:07:27:04 - 00:07:41:13
+00:07:35:05 - 00:07:40:18
 Speaker 3
-That's because he comes to work bicycles. I would say, Oh, wow, people come here to work bicycles here. And I was like, I have a cycle sitting at home why cant I use it. And that really was what they are of quote,
+That's because he comes to work bicycles. I would say, Oh, wow, people come here to work bicycles here.
 
-00:07:41:13 - 00:07:43:17
+00:07:40:18 - 00:07:48:22
+Speaker 3
+And I was like, I have a cycle sitting at home why cant I use it. And that really was what they are of quote,
+
+00:07:48:22 - 00:07:51:01
 Speaker 3
 to quote Shilpi That is when I cracked it
 
-00:07:43:17 - 00:07:50:07
+00:07:51:01 - 00:07:57:14
 Speaker 3
 then most coincidentally, I mean it was 2011 later, looks like all three of us started around the time.
 
-00:07:50:07 - 00:07:54:04
+00:07:57:14 - 00:08:01:09
 Speaker 3
 So since then it's been blissful riding for 12 years.
 
-00:07:54:04 - 00:07:56:00
+00:08:01:09 - 00:08:03:03
 Speaker 1
 I think I was one year late
 
-00:07:56:00 - 00:08:03:01
+00:08:03:03 - 00:08:06:21
 Speaker 1
-2012 was when I started just missed you guys by an year. But it's been a it's been a decade of cycling
+2012 was when I started just missed you guys by an year.
 
-00:08:03:01 - 00:08:10:02
+00:08:06:21 - 00:08:13:22
 Speaker 5
 No, but even before we get to that, I just wanted to point out to the viewers watching and listening in
 
-00:08:10:02 - 00:08:27:19
+00:08:13:22 - 00:08:30:23
 Speaker 5
-that all three guests that we have played have tried different modes of transport to their workplace and found that cycling is the fastest and the most convenient, is that even though, yes, they have their own experience of how they got onto the cycle, I just wanted to point that out because I call it very interesting.
+all three guests that we have played have tried different modes of transport to their workplace and found that cycling is the fastest and the most convenient, is that even though, yes, they have their own experience of how they got onto the cycle, I just wanted to point that out because I call it very interesting.
 
-00:08:27:19 - 00:08:39:13
+00:08:30:23 - 00:08:42:17
 Speaker 5
 I just want to play devil's advocate and just really ask you guys questions that I often get asked. And this is from someone who just commuted to work very infrequently, but has committed to work
 
-00:08:39:13 - 00:08:42:04
+00:08:42:17 - 00:08:45:11
 Speaker 5
 during, well, an internship of mine.
 
-00:08:42:04 - 00:08:53:11
+00:08:45:11 - 00:08:48:15
 Speaker 5
-But I'm going to take the stance and ask you guys that, hey, our roads are really unsafe I don't want to go out and cycle to my work because what if what if something happens to me?
+But I'm going to take the stance and ask you guys that, hey,
 
-00:08:53:12 - 00:09:07:03
+00:08:48:15 - 00:08:53:21
+Speaker 5
+roads are really unsafe I don't want to go out and cycle to my work because
+
+00:08:53:21 - 00:08:55:09
+Speaker 5
+what if something happens to me?
+
+00:08:55:10 - 00:09:09:02
 Speaker 5
 It's not it's not really safe. I want the government to do something. Give me a bike, but I'll get out. So maybe you should we could start with Shilpi. And what would you say to someone who would I mean, who has that question who has that stance?
 
-00:09:07:03 - 00:09:08:14
-Speaker 4
-So
-
-00:09:08:14 - 00:09:14:05
+00:09:09:02 - 00:09:14:20
 Speaker 4
 I get that question very often and I ask them, Do you think the roads are good for driving?
 
-00:09:14:05 - 00:09:17:05
+00:09:14:20 - 00:09:17:20
 Speaker 4
 the roads are not half decent for anything
 
-00:09:17:05 - 00:09:18:05
+00:09:17:20 - 00:09:18:20
 Speaker 4
 and you still take
 
-00:09:18:05 - 00:09:20:20
+00:09:18:20 - 00:09:21:12
 Speaker 4
 a quarterly result. I'm just taking two wheels out
 
-00:09:20:20 - 00:09:26:08
+00:09:21:12 - 00:09:26:07
 Speaker 5
-But doesn't doesn't having this two wheels and just you on that you've make it even more unsafe.
+doesn't having this two wheels and just you on that you've make it even more unsafe.
 
-00:09:26:08 - 00:09:36:06
+00:09:26:07 - 00:09:39:22
 Speaker 4
-So you're more exposed but you are far slower so you are not a threat to anybody and you can reduce the threat to yourself by being slow,
+So you're more exposed but you are far slower so you are not a threat to anybody and you can reduce the threat to yourself by being slow, being predictable and being visible at night.
 
-00:09:36:06 - 00:09:38:14
-Speaker 4
-being predictable and being visible
-
-00:09:38:14 - 00:09:39:04
-Speaker 4
-at night.
-
-00:09:39:04 - 00:09:51:23
+00:09:39:22 - 00:09:52:17
 Speaker 4
 So a lot of cycling accidents actually happen on highways and during always then you're not visible to the other person. So you cannot do much about the other person being rash.
 
-00:09:51:23 - 00:09:55:13
+00:09:52:17 - 00:09:56:06
 Speaker 4
 But actually I would say that in Bangalore what they see is that
 
-00:09:55:13 - 00:10:20:18
+00:09:56:06 - 00:10:21:10
 Speaker 4
 people are slow because the roads are like that and secondly, there would be rash people, but there'll be a very small percentage of people who can actually drive rash on such horrible roads and you can't do anything about them and there will be such people every where. But what you can do to save yourself is just being predictable and know you can put yourself in a metal box, but that will not take you any
 
-00:10:20:18 - 00:10:22:12
-Speaker 4
-So it's it's a
-
-00:10:22:12 - 00:10:39:19
+00:10:21:10 - 00:10:38:17
 Speaker 4
 it's a compromise. But I choose a compromise. I choose an option. where I have more chance to see the positives than the negatives. And I feel that a more positive being on the cycle, even if the government has done absolutely nothing to encourage it.
 
-00:10:39:20 - 00:10:48:21
+00:10:38:18 - 00:10:53:16
 Speaker 5
-So Tandava and Karthik, I have a question which is did you have this debate internally before getting on to the cycle
+So Tandava and Karthik, I have a question which is did you have this debate internally before getting on to the cycle and maybe after asked it under the carpet. You mean should it be? You could elaborate if you had this internal discussion with yourself
 
-00:10:48:21 - 00:10:51:13
-Speaker 5
-if you had this internal discussion with yourself
-
-00:10:51:13 - 00:11:02:10
+00:10:53:16 - 00:10:55:18
 Speaker 2
-not with myself, but I have my spouse. Initially, when I started cycling, I live in an apartment complex where if they go on the perimeter, it comes to one kilometer, right?
+not with myself, but I have
 
-00:11:02:10 - 00:11:04:19
+00:10:55:18 - 00:10:56:14
 Speaker 2
-And my office is ten kilometers. I said
+my spouse.
 
-00:11:04:19 - 00:11:11:12
+00:10:56:14 - 00:11:13:23
 Speaker 2
-when I started going to my office, my wife came pretty strong. You want to do ten rounds here in the complex?
+Initially, when I started cycling, I live in an apartment complex where if they go on the perimeter, it comes to one kilometer, right? And my office is ten kilometers. I said when I started going to my office, my wife came pretty strong. You want to do ten rounds here in the complex?
 
-00:11:11:12 - 00:11:14:14
+00:11:13:23 - 00:11:22:07
 Speaker 2
-Please do it. But it's very unsafe. I wont allow you to do it.
+Please do it. But it's very unsafe. I wont allow you to do it. And not only her. When it first started taking on the road,
 
-00:11:14:14 - 00:11:17:22
+00:11:22:07 - 00:11:40:09
 Speaker 2
-not only her. When it first started taking on the road,
+I was taken aback at the speed at which people go. But after a couple of days I was very comfortable and I was assuring my wife is much safer because I don't use the main highway from the first month onwards or the first second week on which I was using this internal roads.
 
-00:11:17:22 - 00:11:18:14
-Speaker 2
-I was
-
-00:11:18:14 - 00:11:35:06
-Speaker 2
-taken aback at the speed at which people go. But after a couple of days I was very comfortable and I was assuring my wife is much safer because I don't use the main highway from the first month onwards or the first second week on which I was using this internal roads.
-
-00:11:35:06 - 00:11:52:20
+00:11:40:09 - 00:11:58:00
 Speaker 2
 I was taking one of those routes where it's much more safer and much more predictable, even with the traffic with no traffic on my cycle commute, like my work commute time is predictable and constant plus or minus 5 minutes. And that I see is a big blessing in Bangalore.
 
-00:11:52:20 - 00:11:56:01
+00:11:58:00 - 00:12:24:16
 Speaker 2
-If you can get a predictable commute that first thing.
+If you can get a predictable commute that first thing. Second thing, I work in a tech park where by cycling. I also cut down I get an priveleged list to get back door access. There are two or two entries for this particular tech park . one is the main one and. Everybody is expected to come in commute using motorbikes. Of course, they're only allowed for entry from the main gate and from the back.
 
-00:11:56:01 - 00:12:18:20
+00:12:24:16 - 00:12:47:05
 Speaker 2
-Second thing, I work in a tech park where by cycling. I also cut down I get an priveleged list to get back door access. There are two or two entries for this particular tech park . one is the main one and. Everybody is expected to come in commute using motorbikes. Of course, they're only allowed for entry from the main gate and from the back.
+gate the cyclists and pedestrians get access and basically cut down by two kilometers. And it all tells me to save on my office being on the corner very close to the back. So basically I'm a lazy and I'm trying to figure out better maybe second rate. So this is how I was able to track. And I never had to look back until just to answer.
 
-00:12:18:20 - 00:12:26:05
-Speaker 2
-gate the cyclists and pedestrians get access and basically cut down by two kilometers. And it all tells me to save
-
-00:12:26:05 - 00:12:40:23
-Speaker 2
-on my office being on the corner very close to the back. So basically I'm a lazy and I'm trying to figure out better maybe second rate. So this is how I was able to track. And I never had to look back until just to answer.
-
-00:12:41:01 - 00:13:02:10
+00:12:47:07 - 00:13:08:16
 Speaker 2
 Some of my colleagues taught even after six or seven year cycling, but I bought my new car Audi People thought I dump the cycling. I'll go back to car because I got a fancy car. Believe me, I'm very comfortable in cycling to work predictable every time rather than taking this expensive car and get stuck in traffic and get irritated, get frustrated.
 
-00:13:02:10 - 00:13:05:00
+00:13:08:16 - 00:13:11:08
 Speaker 2
 So that's my journey of cycling to work.
 
-00:13:05:00 - 00:13:25:00
+00:13:11:08 - 00:13:31:06
 Speaker 3
 I'm I mean, so when I when I started to come to my house was around like six kilometers one way. I mean, I honestly didn't have much of a I mean, much of a doubt or a mental barrier because I actually that was when I mean, just before that, I had more moved from the US, right?
 
-00:13:25:00 - 00:13:44:02
+00:13:31:06 - 00:13:59:07
 Speaker 3
-So I did have a bit of a shock They'd been getting back on the road. But then, I mean, I had started motorcycling anyway, so and I mean cycling felt completely natural so didn't really, I mean, didn't have any concerns going from
+So I did have a bit of a shock They'd been getting back on the road. But then, I mean, I had started motorcycling anyway, so and I mean cycling felt completely natural so didn't really, I mean, didn't have any concerns going from that, from a motorcycle to a cycle. And I mean, a lot of these points rate the predictability was was fantastic, right?
 
-00:13:44:02 - 00:13:52:11
+00:13:59:11 - 00:14:07:15
 Speaker 3
-that, from a motorcycle to a cycle. And I mean, a lot of these points rate the predictability was was fantastic, right?
+So whatever time of the day. Right. So whether the traffic is moving or not, there is always space for you to walk your cycle on the pavement
 
-00:13:52:15 - 00:14:17:06
+00:14:07:15 - 00:14:14:01
 Speaker 3
-So whatever time of the day. Right. So whether the traffic is moving or not, there is always space for you to walk your cycle on the pavement at two. So you'd never get caught in traffic. You, I mean, so that was a huge plus point for me and somewhere down my first year, I mean, I is still used to probably do half and half.
+two. So you'd never get caught in traffic. You, I mean, so that was a huge plus point for me
 
-00:14:17:08 - 00:14:27:13
+00:14:14:01 - 00:14:21:01
+Speaker 3
+and somewhere down my first year, I mean, I is still used to probably do half and half.
+
+00:14:21:01 - 00:14:31:15
 Speaker 3
 That was one point. I mean, when my family had gone out of town and had a kind of took it apart because a challenge to myself, let me see if I can
 
-00:14:27:13 - 00:14:33:10
+00:14:31:15 - 00:14:45:21
 Speaker 3
-use my cycle anywhere and everywhere. This one month now that I don't have to take anybody along.
+use my cycle anywhere and everywhere. This one month now that I don't have to take anybody along. So that one man really having clinched the deal and pretty much every single day I've been cycling almost.
 
-00:14:33:10 - 00:14:40:17
+00:14:45:23 - 00:15:08:09
 Speaker 3
-So that one man really having clinched the deal and pretty much every single day I've been cycling almost.
+So it's it's not much you don't really have too many. I mean and because my current commute is just, what, 2 and half kilometers. So it I mean, there's really no excuse not to cycle. And I mean, come rain or shine, you can pretty much get home soon. Yeah. It's not really that that complicated for me. I feel.
 
-00:14:40:17 - 00:14:44:09
-Speaker 3
-So it's it's not much you don't really have too many.
-
-00:14:44:09 - 00:15:02:14
-Speaker 3
-I mean and because my current commute is just, what, 2 and half kilometers. So it I mean, there's really no excuse not to cycle. And I mean, come rain or shine, you can pretty much get home soon. Yeah. It's not really that that complicated for me. I feel.
-
-00:15:02:14 - 00:15:18:16
+00:15:08:09 - 00:15:24:21
 Speaker 2
 One of the thing that I'm a lazy person, as I said by cycling to work, I got half an hour workout going to office and also another half an hour coming to work. So that's a big advantage for me because otherwise I was not able to cover that one or what works for me.
 
-00:15:18:16 - 00:15:30:22
+00:15:24:23 - 00:15:49:20
 Speaker 2
-And second thing, initial days when it rains. I used to not cycle. I used to pick a car or a motorbike motorbike or cycle about the same. But if you're picking a car
+And second thing, initial days when it rains. I used to not cycle. I used to pick a car or a motorbike motorbike or cycle about the same. But if you're picking a car Bangalore Yeah, thanks to Bangalore again, When it rains. Even the small rain, I don't know what happens. Suddenly a lot of traffic jams, there as a day where I parked my car in the office.
 
-00:15:30:22 - 00:15:33:11
-Speaker 2
-Bangalore Yeah, thanks to Bangalore again,
-
-00:15:33:11 - 00:15:35:00
-Speaker 2
-When it rains. Even the small rain,
-
-00:15:35:00 - 00:15:36:03
-Speaker 2
-I don't know what happens.
-
-00:15:36:03 - 00:15:41:10
-Speaker 2
-Suddenly a lot of traffic jams, there as a day where I parked my car in the office.
-
-00:15:41:12 - 00:15:59:01
+00:15:49:22 - 00:16:07:11
 Speaker 2
 I was trying to reach from my office to home. Even after circling for two or three hours. Basically, tree branches used to fall and a lot of traffic jams all that stuff. Then I thought, even if it rains, I want to cycle now. I carry a ring raincoat as well as does the cover for the laptop.
 
-00:15:59:03 - 00:16:17:09
+00:16:07:13 - 00:16:25:18
 Speaker 2
 I never had to look back because even when it rains people initial days I still hesitate. And what if you notice? When it rains, you get stuck more in traffic in Bangladesh compared to when it doesn't rain and they thought it rains. You better remember that you need to safety not to pick your car. So that's my recumbent.
 
-00:16:17:09 - 00:16:20:22
+00:16:25:18 - 00:16:34:12
 Speaker 1
-what people consider as excuse us are
+what people consider as excuse us are adversities is something that we have turned into an advantage.
 
-00:16:20:22 - 00:16:22:00
+00:16:34:12 - 00:16:43:17
 Speaker 1
-adversities
+Predictability. What? Tandava and Karthik said was very interesting. Always only 3 to 4 minutes this side or that side,
 
-00:16:22:00 - 00:16:35:21
-Speaker 1
-is something that we have turned into an advantage. I remember riding back in the rain with my raincoat. I don't do the full raincoat. I just wear the shorts and the bottom and I just wrap the raincoat so that it covers the backpack that I used to carry.
-
-00:16:35:21 - 00:16:51:16
-Speaker 1
-Right. And the same thing when I used to do 20 kilometers from the side to there and back. Predictability. What? Tandava and Karthik said was very interesting. Always only 3 to 4 minutes this side or that side,
-
-00:16:51:16 - 00:16:57:11
+00:16:43:17 - 00:16:49:13
 Speaker 1
 whereas in the car it could be anywhere between 30 minutes on this side two and a half hour on the other side.
 
-00:16:57:13 - 00:17:13:18
+00:16:49:15 - 00:17:05:21
 Speaker 1
 That's in a moment. People don't realize that until they actually get on it. And to Shilpis point, I think Tandavas point about using these backroads. I discovered so many backroads, not necessarily backroads, but they were roads through layout
 
-00:17:13:18 - 00:17:18:03
+00:17:05:21 - 00:17:10:08
 Speaker 1
 you know, especially in areas like Jayanagar where you could just do this, this does this and then get out.
 
-00:17:18:06 - 00:17:23:03
+00:17:10:11 - 00:17:15:09
 Speaker 1
 I do that in Indiranagar like this, like this, like this. And you know, lots of places where if you discover the,
 
-00:17:23:03 - 00:17:40:22
+00:17:15:09 - 00:17:33:17
 Speaker 1
 smaller roads, you can actually kind of get way faster. These are things that people don't realize everybody looks at because you drive on the main road, you think you'll also have to cycle on the main road, which is of course in some places you have to because there are too many dead ends in some of these areas in some of the.
 
-00:17:40:22 - 00:17:44:06
+00:17:33:19 - 00:17:36:13
 Speaker 1
-But if you ever discover and plan your route, like
+But if you ever discover and plan your route,
 
-00:17:44:06 - 00:18:06:19
+00:17:36:13 - 00:17:41:17
 Speaker 1
-you're saying, it's just amazing. Every thing that you actually feel is a is an excuse. It's now all gone because you've turned it into the real thing is amazing, right? When you have the trees fallen, you can quickly identify and then walk, walk across the street. You can literally, go and walk over the fallen trees and your cars can walk over those things.
+you're saying, it's just amazing. Every thing that you actually feel is a
 
-00:18:06:21 - 00:18:30:07
+00:17:41:17 - 00:17:48:20
+Speaker 1
+is an excuse. It's now all gone because you've turned it into the real thing is amazing, right? When you have
+
+00:17:48:20 - 00:17:57:19
+Speaker 1
+the trees fallen, you can quickly identify and then walk, walk across the street. You can literally, go and walk over the fallen trees and your cars can walk over those things.
+
+00:17:57:21 - 00:18:21:07
 Speaker 1
 I mean, you're just dirt it in the water. Some of the other excuses I thought the people come up with this, the weather rate or rain is one they say it is too hard to say. And of course, yes, in some places there might be. But the question of choosing the bicycle and this is like going back when we didn't have the motor vehicle, a lot of people did cycle.
 
-00:18:30:07 - 00:18:41:15
+00:18:21:07 - 00:18:32:16
 Speaker 1
 Right. What about the weather then? Didn't didn't we adjust the time? Then of course, you had more trees. Where can you get those now? Those are some of the questions I always talk about. What what are some of the favorite
 
-00:18:41:15 - 00:18:42:19
+00:18:32:16 - 00:18:33:23
 Speaker 1
 excuses you have heard.
 
-00:18:42:19 - 00:18:47:04
+00:18:33:23 - 00:18:53:21
 Speaker 2
-may not be an excuse, but these are the bottlenecks I face. And I know that a lot of
+may not be an excuse, but these are the bottlenecks I face. And I know that a lot of first timers who want to start know there is an intent, but there are some practical things that people will struggle to like. I was talking about, I was sitting on trying to make a decision on which bike to buy and if I commute or not, whether I will be comfortable or not.
 
-00:18:47:04 - 00:18:48:21
-Speaker 2
-first timers who want to start
-
-00:18:48:21 - 00:19:01:18
-Speaker 2
-know there is an intent, but there are some practical things that people will struggle to like. I was talking about, I was sitting on trying to make a decision on which bike to buy and if I commute or not, whether I will be comfortable or not.
-
-00:19:01:18 - 00:19:04:15
+00:18:53:21 - 00:18:56:20
 Speaker 2
 Initially, after I started commuting to work,
 
-00:19:04:15 - 00:19:11:12
+00:18:56:20 - 00:19:14:00
 Speaker 2
-I was learning my cycle. There were days when I'm traveling on, when I'm on vacation, I'm traveling somewhere. I was learning my cycle. The focus
+I was learning my cycle. There were days when I'm traveling on, when I'm on vacation, I'm traveling somewhere. I was learning my cycle. The focus was seriously impressive and I said, Can you take my cycling if you're seriously invested? You experiment. Those couple of days and then trying to get out and then you can go on.
 
-00:19:11:12 - 00:19:12:19
+00:19:14:00 - 00:19:31:05
 Speaker 2
-was seriously impressive
+But basically what helps that is basically will help them to make a decision making with a lot more conviction. I used to rotate. I used to say, okay, this is my vacation plan. Who wants this to this one days? And that was stuff that definitely helped there. A lot of folks who pick up cycling with the
 
-00:19:12:19 - 00:19:16:07
-Speaker 2
-and I said, Can you take my cycling if you're seriously invested?
-
-00:19:16:07 - 00:19:20:12
-Speaker 2
-You experiment. Those couple of days and then trying to get out and then you can go on.
-
-00:19:20:12 - 00:19:20:18
-Speaker 2
-But
-
-00:19:20:18 - 00:19:23:22
-Speaker 2
-basically what helps that is basically will help them to make a
-
-00:19:23:22 - 00:19:26:08
-Speaker 2
-decision making with a lot more conviction.
-
-00:19:26:08 - 00:19:32:18
-Speaker 2
-I used to rotate. I used to say, okay, this is my vacation plan. Who wants this to this one days? And that was stuff
-
-00:19:32:18 - 00:19:36:00
-Speaker 2
-that definitely helped there. A lot of folks who pick up cycling with the
-
-00:19:36:00 - 00:19:37:18
+00:19:31:05 - 00:19:32:23
 Speaker 2
 one other thing else to say is
 
-00:19:37:18 - 00:19:43:08
+00:19:32:23 - 00:19:38:13
 Speaker 2
 this ultimate example of I was I live in a community community.
 
-00:19:43:10 - 00:19:55:22
+00:19:38:15 - 00:19:57:00
 Speaker 2
-One time I saw somebody was sending a note for carpool, Hey, I stay here. I go to the same tech park where he and me are working. Anybody in person to carpool? I just took the liberty to send him a message.
+One time I saw somebody was sending a note for carpool, Hey, I stay here. I go to the same tech park where he and me are working. Anybody in person to carpool? I just took the liberty to send him a message. Hey, not about carpool. But if you're interested in cycling, I give you the company. You said I'm interested.
 
-00:19:55:22 - 00:20:01:08
+00:19:57:00 - 00:20:19:10
 Speaker 2
-Hey, not about carpool. But if you're interested in cycling, I give you the company. You said I'm interested.
+Do I go do a cycle? So I loaned one cycle of my which I'm not using. And we actually we commuted to get from my place to the workplace. And his office is probably two buildings away from my place. And he really liked it. And he committed at least a week with me. He got comfortable, he said he'll go and explore and only problem is he doesn't have a shower room in his office.
 
-00:20:01:08 - 00:20:15:11
+00:20:19:10 - 00:20:20:19
 Speaker 2
-Do I go do a cycle? So I loaned one cycle of my which I'm not using. And we actually we commuted to get from my place to the workplace. And his office is probably two buildings away from my place. And he really liked it.
+Maybe I'll come back to that
 
-00:20:15:11 - 00:20:23:07
-Speaker 2
-And he committed at least a week with me. He got comfortable, he said he'll go and explore and only problem is he doesn't have a shower room in his office.
-
-00:20:23:07 - 00:20:26:17
-Speaker 2
-Maybe I'll come back to that when we come back from some of the
-
-00:20:26:17 - 00:20:44:21
+00:20:20:19 - 00:20:38:20
 Speaker 1
 Yeah. You talk about that because that's one of the things. right The body types are different for different people. Some people sweat a lot. We shouldn't discount the fact that some people are not fit enough that they feel winded very quickly. Of course, that's something you need to work on, right? I mean, it's not. But this buddying system is interesting.
 
-00:20:44:21 - 00:21:01:03
+00:20:38:20 - 00:20:45:17
 Speaker 1
-How many of you. Right. I Karthik Is that something that you guys have tried out at your office work But I don't want to go to the office yet I want to come to that. But then you start showers. Those kind of things are also an issue, right? I mean, how much of an issue is it?
+How many of you. Right. I Karthik Is that something that you guys have tried out at your office work But
 
-00:21:01:05 - 00:21:09:18
+00:20:45:17 - 00:20:51:00
+Speaker 1
+showers. Those kind of things are also an issue, right? I mean, how much of an issue is it?
+
+00:20:51:02 - 00:21:06:19
 Speaker 3
-Shower is is definitely I mean, I have heard that being mentioned a lot. However, I mean, our office
+Shower is is definitely I mean, I have heard that being mentioned a lot. However, I mean, our office does have showers, right? So, I mean, so that is not a I mean, that is not a dealbreaker.
 
-00:21:09:18 - 00:21:16:04
-Speaker 3
-does have showers, right? So, I mean, so that is not a I mean, that is not a dealbreaker.
-
-00:21:16:04 - 00:21:21:17
+00:21:06:19 - 00:21:11:19
 Speaker 3
 we have tried out I mean, reasonably successfully with buddying people up.
 
-00:21:21:17 - 00:21:23:07
+00:21:11:19 - 00:21:13:09
 Speaker 3
 that are people
 
-00:21:23:07 - 00:21:30:12
+00:21:13:09 - 00:21:20:14
 Speaker 3
 we've started cycling and kept at it successfully after after I mean, having overcome the jitters
 
-00:21:30:12 - 00:21:32:04
+00:21:20:14 - 00:21:22:05
 Speaker 3
 buddying up with people.
 
-00:21:32:06 - 00:21:42:22
+00:21:22:07 - 00:21:42:10
 Speaker 3
-But one I mean, one big reluctance that I have seen is that the perception that cycles are too expensive and that it is a it's a very elite thing to get into
+But one I mean, one big reluctance that I have seen is that the perception that cycles are too expensive and that it is a it's a very elite thing to get into that it costs a whole lot to to cycle for commuting or recreation. And that is the I mean, that's
 
-00:21:42:22 - 00:21:56:23
+00:21:42:10 - 00:21:47:11
 Speaker 3
-that it costs a whole lot to to cycle for commuting or recreation. And that is the I mean, that's it's a very common I mean I mean very common objection that I hear
+very common objection that I hear my my standard answer has.
 
-00:21:56:23 - 00:21:59:17
+00:21:47:13 - 00:21:56:23
 Speaker 3
-my my standard answer has.
+I mean, has typically been how much do you spend on your phone? Can you spend the same amount on a cycle and you'll have one that lasts like five times the lifetime of your
 
-00:21:59:19 - 00:22:02:20
+00:21:56:23 - 00:22:00:01
 Speaker 3
-I mean, has typically been how much do you spend on your phone?
+some have taken some, but not many do. But yeah.
 
-00:22:02:20 - 00:22:13:10
-Speaker 3
-Can you spend the same amount on a cycle and you'll have one that lasts like five times the lifetime of your phone. But I mean, some have taken some, but not many do.
-
-00:22:13:10 - 00:22:27:07
+00:22:00:01 - 00:22:02:06
 Speaker 2
-I go through these localities in those residential areas when they commute to work. I used to bump into a colleague of mine who I always used to find waiting at a place to take an hour to two kilometers from the office. He's also a runner.
+I have an example to share
 
-00:22:27:09 - 00:22:31:21
+00:22:02:06 - 00:22:17:15
+Speaker 2
+okay. As I said, I go through these localities in those residential areas when they commute to work. I used to bump into a colleague of mine who I always used to find waiting at a place to take an hour to two kilometers from the office. He's also a runner.
+
+00:22:17:17 - 00:22:22:05
 Speaker 2
 He always waits there at a place. When they try to reach to my office,
 
-00:22:31:21 - 00:22:33:05
+00:22:22:05 - 00:22:23:13
 Speaker 2
 typically have to wait for an auto
 
-00:22:33:05 - 00:22:36:09
+00:22:23:13 - 00:22:26:17
 Speaker 2
 and I've seen multiple them. Then one day I picked up and they said, Hey,
 
-00:22:36:09 - 00:22:39:13
+00:22:26:17 - 00:22:36:23
 Speaker 2
-do you know the amount you spend on paying auto
+do you know the amount you spend on paying auto to go to work and to come back to this two kilometers? If you buy a cycle, probably it pays off in a year at the maximum two.
 
-00:22:39:13 - 00:22:45:23
+00:22:36:23 - 00:22:48:14
 Speaker 2
-to go to work and to come back to this two kilometers? If you buy a cycle, probably it pays off in a year at the maximum two.
+And he was thinking about it and his dad sponsored him a cycle and he thanked me, no, he's not in the same company, but he moved to a different place. But he always this Tandava thank you for giving me that.
 
-00:22:45:23 - 00:22:47:15
-Speaker 2
-And he was thinking about it
-
-00:22:47:15 - 00:22:49:09
-Speaker 2
-and his dad sponsored him a cycle
-
-00:22:49:09 - 00:22:56:18
-Speaker 2
-and he thanked me, no, he's not in the same company, but he moved to a different place. But he always this Tandava thank you for giving me that.
-
-00:22:56:18 - 00:22:58:19
+00:22:48:14 - 00:22:50:15
 Speaker 2
 Not only he saved money on auto,
 
-00:22:58:19 - 00:22:59:20
+00:22:50:15 - 00:22:51:16
 Speaker 2
 but his
 
-00:22:59:20 - 00:23:01:03
+00:22:51:16 - 00:22:58:15
 Speaker 2
-commute is predictable.
+commute is predictable. He he used to reach from his place to office in less than 10 minutes of 5 minutes.
 
-00:23:01:03 - 00:23:05:07
+00:22:58:17 - 00:23:26:00
 Speaker 2
-he used to reach from his place to office in less than 10 minutes of 5 minutes.
+Whereas for auto it he basically at the mercy of an auto guy to pick and drop all that stuff so that we are probably people pay attention this small things basically it gets even though the amount you spend on buying a cycle even if you forget about even for or stuff the amount we spend on a fuel or an auto or a commute expense will get you a cycle, not like within two years, you'll recall.
 
-00:23:05:09 - 00:23:11:21
-Speaker 2
-Whereas for auto it he basically at the mercy of an auto guy to pick and drop all that stuff so
-
-00:23:11:21 - 00:23:32:06
-Speaker 2
-that we are probably people pay attention this small things basically it gets even though the amount you spend on buying a cycle even if you forget about even for or stuff the amount we spend on a fuel or an auto or a commute expense will get you a cycle, not like within two years, you'll recall.
-
-00:23:32:06 - 00:23:32:21
+00:23:26:00 - 00:23:26:16
 Speaker 2
 And furthermore,
 
-00:23:32:21 - 00:23:35:23
+00:23:26:16 - 00:23:29:20
 Speaker 1
 Is there a woman cycle to this Shilpi? Are they
 
-00:23:35:23 - 00:23:38:22
+00:23:29:20 - 00:23:32:01
 Speaker 1
-differently thinking about this or what do you think?
+differently thinking about this or
 
-00:23:38:22 - 00:23:43:10
+00:23:32:01 - 00:23:36:14
 Speaker 4
 So, you know, in my company they're not too many women who cycle
 
-00:23:43:10 - 00:23:46:15
+00:23:36:14 - 00:23:40:08
 Speaker 4
 it's probably some young women who do
 
-00:23:46:15 - 00:23:49:15
+00:23:40:08 - 00:23:44:06
+Speaker 4
+I don't know who does trade. No there are a couple
+
+00:23:44:06 - 00:23:45:15
+Speaker 4
+not in my building
+
+00:23:45:15 - 00:23:48:13
 Speaker 4
 I see that they engender
 
-00:23:49:15 - 00:23:54:21
+00:23:48:13 - 00:23:53:11
 Speaker 4
 men have more resistance to the idea of cycling.
 
-00:23:54:21 - 00:23:57:02
+00:23:53:11 - 00:23:55:17
 Speaker 4
 they probably don't feel safe
 
-00:23:57:02 - 00:23:59:19
+00:23:55:17 - 00:23:58:10
 Speaker 4
 on the cycle because they feel more exposed.
 
-00:23:59:21 - 00:24:00:18
+00:23:58:12 - 00:24:00:15
 Speaker 4
-like in a car you are less exposed.
+like in a car you are less exposed. At least it's forced
 
-00:24:00:19 - 00:24:08:10
+00:24:00:15 - 00:24:20:21
 Speaker 4
-so I can't really speak about them. But what I think myself is that I never even thought about it even once.
+so I can't really speak about them. But what I think myself is that I never even thought about it even once. I think that the biggest problem that the cyclist has in Bangalore is potholes, bad roads, zero maintenance and you need to be careful that you are not
 
-00:24:08:10 - 00:24:16:20
-Speaker 4
-I think that the biggest problem that the cyclist has in Bangalore is potholes, bad roads, zero maintenance
-
-00:24:16:20 - 00:24:19:00
-Speaker 4
-and you need to be careful that you are not
-
-00:24:19:00 - 00:24:22:22
+00:24:20:21 - 00:24:24:19
 Speaker 4
 stepping into a drain or driving over a pothole
 
-00:24:22:22 - 00:24:26:07
+00:24:24:19 - 00:24:27:15
 Speaker 4
-or, you know, silt laying on the road on which you can skid
+you know, silt laying on the road on which you can skid
 
-00:24:26:07 - 00:24:30:01
+00:24:27:15 - 00:24:37:15
 Speaker 4
-or an unmarked speed breaker that you can't see at night
+or an unmarked speed breaker that you can't see at night not being visible and somebody passing by very close because they can't see you.
 
-00:24:30:01 - 00:24:32:22
-Speaker 4
-not being visible and somebody passing by
-
-00:24:32:22 - 00:24:35:02
-Speaker 4
-very close because they can't see you.
-
-00:24:35:02 - 00:25:05:12
+00:24:37:15 - 00:25:08:01
 Speaker 4
 So I think that those are those are the real challenges. And I really don't remember feeling harassed or anything. But at the same time, I mean, I would not say that that's not something that the women face. And typically I maintain my commute in a crowded area and I don't I don't commute much at night, but not because I feel unsafe, but because in a night people are even worse riders.
 
-00:25:05:14 - 00:25:09:11
+00:25:08:03 - 00:25:21:12
 Speaker 4
-They don't drive property. The roads are not lit.
+They don't drive property. The roads are not lit. The part of Bangalore I stay in is is like the wild, wild west of Bangalore Nothing really works here.
 
-00:25:09:11 - 00:25:14:01
-Speaker 4
-The part of Bangalore I stay in is is like the wild, wild west of
-
-00:25:14:01 - 00:25:17:13
-Speaker 4
-Bangalore Nothing really works here.
-
-00:25:17:13 - 00:25:32:22
+00:25:21:12 - 00:25:37:01
 Speaker 4
 yeah, if you're cycling, you're on your own. If you're driving on your own, you can get harassed either way. But as a woman, I really didn't feel that way. But also because I'm always commuting on very predictable work hours like they think.
 
-00:25:32:22 - 00:25:48:07
+00:25:37:01 - 00:25:52:10
 Speaker 2
 So. So yeah, I've seen a couple of women team members in my workplace and in fact, one person Lakshmi. She's my role model because the reason I says now she picked up cycling after she said she got inspired when I started cycling to work,
 
-00:25:48:07 - 00:25:53:17
+00:25:52:10 - 00:25:54:11
 Speaker 2
-but she lost a lot more weight and she become a lot more fitter.
+but she lost a lot more weight
 
-00:25:53:19 - 00:26:16:10
+00:25:54:11 - 00:25:56:00
+Speaker 2
+and she become a lot more
+
+00:25:56:00 - 00:25:56:23
+Speaker 2
+fitter.
+
+00:25:57:01 - 00:26:19:16
 Speaker 2
 What she said is she went back to her college dresses, which she was not able to wear in the last ten years, and that inspired me a lot. And I also find another woman writer coming up probably farther from my place, like another six kilometers from my place. She was commuting to work and I happened to bump her in one of those exits of out of office, and I was checking with her.
 
-00:26:16:10 - 00:26:40:19
+00:26:19:16 - 00:26:28:00
 Speaker 2
-Then she said she takes the main road. Then I showed her this road which is much safer and much more comfortable, and she was thanking me for that. Oh, I've seen women riders doing that and probably okay, they know gender bias, but when women decides to do something, they do much wonderful than the gender because Lakshmi inspired me that even that one or two.
+Then she said she takes the main road. Then I showed her this road which is much safer and much more comfortable, and she was thanking me for that.
 
-00:26:40:19 - 00:26:53:05
+00:26:28:00 - 00:26:30:11
+Speaker 2
+I've seen women riders doing that
+
+00:26:30:11 - 00:26:31:06
+Speaker 2
+and probably
+
+00:26:31:06 - 00:26:41:00
+Speaker 2
+they know gender bias, but when women decides to do something, they do much wonderful than the gender because Lakshmi inspired me that even that one or two.
+
+00:26:41:00 - 00:26:53:11
 Speaker 2
 Yes, you did. Okay. She's no longer with the company, but she moved into a different role in another place. But she inspired not only me but a lot more of this that if you actually take this in an appropriate way, you can do wonders.
 
-00:26:53:05 - 00:27:07:14
+00:26:53:11 - 00:26:56:10
 Speaker 1
-I actually don't disagree with that statement at all about a woman doing these things. I can see that you're still not fitting into your college clothes, so you should you have a lot more work to do. Yes.
+I actually don't disagree with that statement at all
 
-00:27:07:14 - 00:27:10:06
+00:26:56:10 - 00:27:07:03
 Speaker 1
-That just brings me back to this whole
+I can see that you're still not fitting into your college clothes, so you should you have a lot more work to do. Yes. That just brings me back to this whole
 
-00:27:10:06 - 00:27:16:03
+00:27:07:03 - 00:27:13:00
 Speaker 1
 company thing. Right. So while we are all getting out there, we see the advantages.
 
-00:27:16:05 - 00:27:36:02
+00:27:13:02 - 00:27:32:23
 Speaker 1
 Of course, a lot of them don't see it, and which is what we are trying to do by sharing our stories and trying to tell them. It's far more simpler from an individual choice basis. Try it out. And there are certain things that you need to consider, like suddenly don't. If you're living 20 kilometers away, don't start tomorrow and start doing 20 KM work, rides
 
-00:27:36:04 - 00:27:55:13
+00:27:33:01 - 00:27:52:10
 Speaker 1
 Right? start doing something smaller first and get used to it. Get the handle on your bicycle. Don't buy an out sized bicycle then you are not controlling the bicycle. Bicycle is controlling you. So typically, like any other instrument, you should learn how to use it, get a handle on it, learn to control it, and then, you know, kind of increase your mileage or whatever.
 
-00:27:55:13 - 00:28:31:08
+00:27:52:10 - 00:28:10:12
 Speaker 1
-with so many people writing the work, you're all of us have looked at the fellow riders who cycle to work. And as a part of all of the cycle to work stuff that we've been doing in other ways, we have seen that it has been picking up from our personal experiences as well. Are the companies really stepping forward because we do it, because we like it and we want it to work and of course, when you need to scale these numbers in a country like ours where the aspirational goal is to buy a motor vehicle, we can rain on that
+with so many people writing the work, you're all of us have looked at the fellow riders who cycle to work. And as a part of all of the cycle to work stuff that we've been doing in other ways, we have seen that it has been picking up from our personal experiences as well.
 
-00:28:31:08 - 00:28:52:16
+00:28:10:12 - 00:28:13:01
 Speaker 1
-parade as well, the car parade. But there is a huge aspirational goal towards saying no, I am I have arrived only when I come in the car to the office. Right. That's one of these mindsets and trying to get more people to cycle also requires we come to the government side of things because we know the gaps there, but the corporates, what are their roles?
+Are the companies really stepping forward
 
-00:28:52:18 - 00:29:13:15
+00:28:13:01 - 00:28:25:09
+Speaker 1
+we do it, because we like it and we want it to work and of course, when you need to scale these numbers in a country like ours where the aspirational goal is to buy a motor vehicle, we can rain on that
+
+00:28:25:09 - 00:28:43:19
+Speaker 1
+parade as well, the car parade. But there is a huge aspirational goal towards saying no, I am I have arrived only when I come in the car to the office. Right. That's one of these mindsets and trying to get more people to cycle also requires we come to the government side of things because we know the gaps there,
+
+00:28:43:19 - 00:28:45:23
+Speaker 1
+but the corporates, what are their roles?
+
+00:28:46:01 - 00:29:06:22
 Speaker 1
 How have what are the stories you have heard? Personally, I have heard that some of the corporates really for coming in and creating these kind of things and some others are right. I have heard stories on either side and some of you have been beneficiaries of good corporates who have helped you and others who haven't. What do you think
 
-00:29:13:15 - 00:29:16:22
+00:29:06:22 - 00:29:10:07
 Speaker 1
 they should do minimally, in your opinion?
 
-00:29:16:22 - 00:29:22:12
+00:29:10:07 - 00:29:15:21
 Speaker 1
 In general, what should companies be doing for their employees to encourage more people to commute to work? What do you think?
 
-00:29:22:12 - 00:29:23:22
+00:29:15:21 - 00:29:24:07
 Speaker 2
-I personally think
+I personally think maybe I am privileged to be working at a place where one of the great places to work the last many years.
 
-00:29:23:22 - 00:29:31:19
-Speaker 2
-maybe I am privileged to be working at a place where one of the great places to work the last many years. But
-
-00:29:31:19 - 00:29:50:22
+00:29:24:07 - 00:29:43:11
 Speaker 2
 basically the reason I say is I am privileged is because we get this the shower rooms in the gym and on all the other floors. Once we start getting more cyclists coming through the place, we also have a cycle stand in this two, the bare minimum stuff where we can safely lock cycle as well as it can shower.
 
-00:29:50:22 - 00:30:08:02
+00:29:43:11 - 00:30:00:15
 Speaker 2
 But the reason I say we are privileged is as today I met one gentleman. He said he was cycling to work but did not have a room and he got itching and backaches and stuff and he stopped cycling to work, things like that. So these are bare minimum where corporates can do even if they don't provide any incentives.
 
-00:30:08:02 - 00:30:23:05
+00:30:00:15 - 00:30:15:15
 Speaker 2
 So helping new employees to explore cycling options like, Hey, you can choose between these two or three or maybe is a company to facilitate, give you some discount type of stuff, but these are the bare minimum stuff. What I'm saying.
 
-00:30:23:05 - 00:30:24:11
+00:30:15:15 - 00:30:25:08
 Speaker 4
-So
+I think it keeps my company. I feel that it's somewhat on a neutral side, but if there are more people employees asking for the facilities,
 
-00:30:24:11 - 00:30:33:02
-Speaker 4
-it keeps my company. I feel that it's somewhat on a neutral side, but if there are more people employees asking for the facilities,
-
-00:30:33:02 - 00:30:36:14
+00:30:25:08 - 00:30:28:20
 Speaker 4
 that is that a serious thought provided to that? So I feel is that
 
-00:30:36:14 - 00:30:39:19
+00:30:28:20 - 00:30:32:02
 Speaker 4
 if you want to want more people to cycle
 
-00:30:39:19 - 00:30:43:11
+00:30:32:02 - 00:30:35:19
 Speaker 4
 so you get them on the cycle and then ask for the facilities.
 
-00:30:43:11 - 00:30:51:02
+00:30:35:19 - 00:31:09:03
 Speaker 4
-there was a time then I was probably one of the only people cycling and I wanted a place that I could change,
+I mean, there was a time then I was probably one of the only people cycling and I wanted a place that I could change, not even shower distant. And there was that time the company was leasing a space, so they did not have that and they provided me a wooden cupboard to get inside and change. But they thought of some options and they may not have done better than that at that point.
 
-00:30:51:02 - 00:30:56:15
-Speaker 4
-not even shower distant. And there was that time the company was
-
-00:30:56:15 - 00:31:15:01
-Speaker 4
-leasing a space, so they did not have that and they provided me a wooden cupboard to get inside and change. But they thought of some options and they may not have done better than that at that point.
-
-00:31:15:03 - 00:31:40:20
+00:31:09:05 - 00:31:34:22
 Speaker 4
 But yeah, I was I was happy that they were at least thought about okay this is that woman can get in and change this would be because they really is no other option but now I mean there are cycles stands that are showers. There are also anti-skid surfaces because there was one day my skirt then fell and then I then of course, the security guy kept telling me, Madam, you didn't apply brakes properly or something.
 
-00:31:40:20 - 00:31:49:12
+00:31:34:22 - 00:31:43:15
 Speaker 4
 I said, No, I've been cycling for donkey's years, it's not my fault. So then I checked with the cyclist and they say that it is this the
 
-00:31:49:12 - 00:31:55:02
+00:31:43:15 - 00:31:49:06
 Speaker 4
 slope at the entrance of the office? Does anybody face this issue
 
-00:31:55:02 - 00:32:02:12
+00:31:49:06 - 00:31:56:16
 Speaker 4
 of slipping? And everybody said, Yes, Yes, I did. Why didn't you do anything about it? So I raised a complaint and it got fixed then.
 
-00:32:02:15 - 00:32:05:16
+00:31:56:19 - 00:31:59:21
 Speaker 4
 And this good surfaces. No, no. Every time I go with it,
 
-00:32:05:16 - 00:32:11:15
+00:31:59:21 - 00:32:16:16
 Speaker 4
-I'm very careful because I don't know if someday somebody starts skidding again. But I have fallen there very badly.
+I'm very careful because I don't know if someday somebody starts skidding again. But I have fallen there very badly. And now I don't. I mean, it's okay now. So it is a complaint. It got fixed. It took some time to get sick. So every time you have an issue, you don't just keep quiet about it.
 
-00:32:11:15 - 00:32:20:18
+00:32:16:16 - 00:32:31:19
 Speaker 4
-I mean, it's okay now. So it is a complaint. It got fixed. It took some time to get sick. So every time you have an issue, you don't just keep quiet about it.
+You ask for the resolution. So I do that, too. I mean, I would ask the same from my government as well. But I know that the companies which would receptive to the employee's demands. So if you ask if you crib and crib about car parking,
 
-00:32:20:18 - 00:32:21:01
-Speaker 4
-You
-
-00:32:21:01 - 00:32:21:20
-Speaker 4
-ask for
-
-00:32:21:20 - 00:32:27:20
-Speaker 4
-the resolution. So I do that, too. I mean, I would ask the same from my government as well.
-
-00:32:27:20 - 00:32:34:15
-Speaker 4
-But I know that the companies which would receptive to the employee's demands. So if you ask if you crib and crib about car parking,
-
-00:32:34:15 - 00:32:35:12
+00:32:31:19 - 00:32:32:17
 Speaker 4
 you get
 
-00:32:35:12 - 00:32:47:02
+00:32:32:17 - 00:32:39:03
 Speaker 4
-lot of it. I mean, there is limited option that but if you ask for cycle parking they would be happy to give you some because it doesn't cost much in a place that you can buy three cars you can fuck No.
+lot of it. I mean, there is limited option that but if you ask for cycle parking they would be happy to give you some because
 
-00:32:47:02 - 00:32:48:10
+00:32:39:03 - 00:32:43:22
+Speaker 4
+it doesn't cost much in a place that you can buy three cars you can fuck No.
+
+00:32:43:22 - 00:32:45:07
 Speaker 4
 40 bicycle.
 
-00:32:48:10 - 00:32:54:00
+00:32:45:07 - 00:32:51:18
 Speaker 4
 we have eyes could facilities for cyclists and we have got it because we don't ask for much
 
-00:32:54:00 - 00:33:00:18
+00:32:51:18 - 00:32:58:16
 Speaker 4
 and demands are pretty limited. And the company has realized that these cyclists the many small things just give it to
 
-00:33:00:18 - 00:33:02:11
+00:32:58:18 - 00:33:00:10
 Speaker 1
 We are a small footprint people.
 
-00:33:02:11 - 00:33:03:01
-Speaker 1
-them?
-
-00:33:03:03 - 00:33:10:09
+00:33:00:10 - 00:33:07:06
 Speaker 3
-I mean, I've been lucky enough, I mean that we had a very robust cycling network for quite a while.
+I've been lucky enough, I mean that we had a very robust cycling network for quite a while.
 
-00:33:10:09 - 00:33:25:10
+00:33:07:06 - 00:33:23:19
 Speaker 3
-remember even, I mean, even like a decade back, probably 2013 was when we got our first covered cycle parking stand, which could accommodate close to 60 or so, I mean, 60, 65 or so.
+remember even, I mean, even like a decade back, probably 2013 was when we got our first covered cycle parking stand, which could accommodate close to 60 or so, I mean, 60, 65 or so. And
 
-00:33:25:10 - 00:33:40:14
+00:33:23:19 - 00:33:38:22
 Speaker 3
 and for the last couple of years, we been overflowing it by a huge margin that last year, I mean, I'd probably earlier this year, I think we know we now have our second covered parking standard pretty much the same size as before.
 
-00:33:40:14 - 00:33:49:10
+00:33:38:22 - 00:33:47:18
 Speaker 3
 So we've been I mean, that's really made things a whole lot better. And we've always had showers. We've had
 
-00:33:49:10 - 00:34:11:15
+00:33:47:18 - 00:33:53:03
 Speaker 3
-we've had an annual cycle to work day, which has been there for more than like 15 years now, where I mean, where we're all employees are encouraged to come by cycle that one day. And there out of the I mean there are some perks offered like free breakfast, sometimes a free breakfast always.
+we've had an annual cycle to work day, which has been there for more than like 15 years
 
-00:34:11:17 - 00:34:34:21
+00:33:53:03 - 00:33:56:17
+Speaker 3
+all employees are encouraged to come by cycle
+
+00:33:56:17 - 00:33:59:12
+Speaker 3
+that one day. And there out of the
+
+00:33:59:12 - 00:34:05:20
+Speaker 3
+there are some perks offered like free breakfast, sometimes a free breakfast always.
+
+00:34:05:22 - 00:34:29:02
 Speaker 3
 Oh, probably some T-shirt. We do a ride around the tech park, but then we've even even collected snow cycling races. They give some of you have taken part in your childhood and you really can't go fast. You might as well as I go as low as possible. So we've done that to kind of introduce a fun element to it.
 
-00:34:34:23 - 00:35:06:09
+00:34:29:04 - 00:35:00:13
 Speaker 3
 Yeah, So and we've even had some challenges within the company, though. This was well, this was both pre-COVID and it challenges within the company to see it within a quarter, which is the business which, which has the most rides, which has the most riders at the end, the person with the most rides gets against facility. I mean felicitated they do a quarterly event and all that.
 
-00:35:06:09 - 00:35:12:00
+00:35:00:13 - 00:35:06:03
 Speaker 3
 And so in that sense, the I mean, the culture of promoting cycling has been there for quite a while. So
 
-00:35:12:00 - 00:35:16:23
+00:35:06:03 - 00:35:14:13
 Speaker 3
-we've only been I mean, we've only managed to take it to the next level through
+we've only been I mean, we've only managed to take it to the next level through participation in the Cycling to work program.
 
-00:35:16:23 - 00:35:19:21
-Speaker 3
-participation in the Cycling to work program.
-
-00:35:19:21 - 00:35:21:14
-Speaker 3
-Then for example, things like that.
-
-00:35:21:14 - 00:35:23:21
+00:35:14:13 - 00:35:28:03
 Speaker 1
-I guess it comes from the employee side.
+I guess it comes from the employee side. The company is willing to just let it go like, yeah, you guys are doing something. It's we'll just kind of help you out and things like that. I from the outside, when I look at it,
 
-00:35:23:21 - 00:35:34:11
-Speaker 1
-The company is willing to just let it go like, yeah, you guys are doing something. It's we'll just kind of help you out and things like that. I from the outside, when I look at it,
-
-00:35:34:11 - 00:35:47:00
+00:35:28:03 - 00:35:40:16
 Speaker 1
 some of the things that I for around is that the HRA is really afraid of telling people to cycle What if these people die? It's unsafe on the roads and things like that. What do you guys think
 
-00:35:47:00 - 00:35:48:23
+00:35:40:16 - 00:35:42:15
 Speaker 1
 companies or Corporates can do
 
-00:35:48:23 - 00:35:56:04
+00:35:42:15 - 00:35:49:20
 Speaker 1
 collectively to address inside the campus? All the facilities is good, right? But all of the problems are outside the campus.
 
-00:35:56:06 - 00:36:12:07
+00:35:49:22 - 00:36:03:23
 Speaker 1
-You all the companies that I know, not all. I mean, many companies that I know of with were in large campuses and big facilities have taken care to help their employees, which is which is all they need to do predominantly. But how can they how do you
+You all the companies that I know, not all. I mean, many companies that I know of with were in large campuses and big facilities have taken care to help their employees, which is which is all they need to do predominantly.
 
-00:36:12:07 - 00:36:13:23
+00:36:03:23 - 00:36:05:08
+Speaker 1
+But how can they how do you
+
+00:36:05:08 - 00:36:07:03
 Speaker 1
 think they can step up and
 
-00:36:13:23 - 00:36:18:02
+00:36:07:03 - 00:36:11:02
 Speaker 1
 speak for your safety outside the compound wall?
 
-00:36:18:02 - 00:36:46:20
-Speaker 2
-I know that there are a lot of companies came together on the outer ring road of Bangalore this is from KR Puram to probably not Silk Board, but maybe to Sarjapur road. I think there's a consortium of companies the I don't know, Sathya if you remember before the Metro was started, there was this beautiful cycle and that were this lot of including my kids where we were not comfortable sending them onto the outer ring road.
+00:36:11:06 - 00:36:12:09
+Speaker 1
+What do you think
 
-00:36:46:22 - 00:36:56:21
+00:36:12:09 - 00:36:32:20
 Speaker 2
-They use the cycle links to go from moderately to which is certainly what we thought. Any parental guidance to just stick to the cycle and they were able to comfortably go.
+at least I know that there are a lot of companies came together on the outer ring road of Bangalore this is from KR Puram to probably not Silk Board, but maybe to Sarjapur road. I think there's a consortium of companies the I don't know, Sathya if you remember before the Metro was started, there was this beautiful cycle and
 
-00:36:56:21 - 00:37:00:16
+00:36:32:20 - 00:36:33:12
 Speaker 2
-And if kids can go, I'm sure that all the employees can leverage this. And
+that were this
 
-00:37:00:16 - 00:37:07:15
+00:36:33:12 - 00:36:35:19
 Speaker 2
-the reason I'm bringing this is because consortium of companies work with the government to speeding up these metro works to everything.
+lot of including my kids
 
-00:37:07:17 - 00:37:09:22
+00:36:35:19 - 00:36:39:15
 Speaker 2
-They can also go and influence
+where we were not comfortable sending them onto the outer ring road.
 
-00:37:09:22 - 00:37:29:02
+00:36:39:17 - 00:37:02:04
 Speaker 2
-going to create this safe cycle length of from those metro stations as and when they come up to connect the last mile connectivity. I know a lot of my colleagues will complain when they use Metro. They're not worried of using Metro. They're a lot more happier. But the thing that irritate them is the last mile connectivity.
+They use the cycle links to go from moderately to which is certainly what we thought. Any parental guidance to just stick to the cycle and they were able to comfortably go. And if kids can go, I'm sure that all the employees can leverage this. And the reason I'm bringing this is because consortium of companies work with the government to speeding up these metro works to everything.
 
-00:37:29:02 - 00:37:58:16
+00:37:02:06 - 00:37:25:02
+Speaker 2
+They can also go and influence going to create this safe cycle length of from those metro stations as and when they come up to connect the last mile connectivity. I know a lot of my colleagues will complain when they use Metro. They're not worried of using Metro. They're a lot more happier. But the thing that irritate them is the last mile connectivity.
+
+00:37:25:04 - 00:37:54:19
 Speaker 2
 Probably companies can influence that. We all can leverage more of metro or more of public transport and use this cycle to the last mile connectivity cycle. Or maybe the Yulu e cycles to everything probably make it easier. And I think that the companies are also comfortable that all their employees on the road are much safer. I know at the place where I work, at the business, the parking and the facilities bought the company.
 
-00:37:58:16 - 00:38:14:12
+00:37:54:19 - 00:38:10:15
 Speaker 2
 It takes responsibility for once we step out of it. It's on our own Not that many companies say, but if they have a way, they would like to contribute in ensuring not only the sectors but all the employees on the roads. I think they have a. No but they don't.
 
-00:38:14:12 - 00:38:38:23
+00:38:10:15 - 00:38:35:02
 Speaker 1
 Right. You just said it that that was the point I was trying to bring across. The roads are bad They all come out. The associations come out into the roads are bad. Let's fix this. We need more road widths and the companies literally lend voice through their associations. Companies, CEOs start speaking out saying the roads are bad and all of this, but I've never seen even one of them.
 
-00:38:38:23 - 00:38:45:14
+00:38:35:02 - 00:38:40:19
 Speaker 1
-Even if they do a lot for the employees, they dont come out and say, we need good cycling and walking in front of I've never heard that,
+Even if they do a lot for the employees, they dont come out and say, we need good cycling and walking in front of
 
-00:38:45:14 - 00:39:00:09
+00:38:40:19 - 00:38:55:13
 Speaker 2
 the leaders may not be commuting when they pick up probably you'll hear more of those. Okay. We need to walk the talk probably as leaders. If we start doing, then all these things will also come from the companies more to everywhere. And
 
-00:39:00:09 - 00:39:02:03
+00:38:55:13 - 00:39:02:17
 Speaker 4
-sense is that actually
+sense is that actually if you see that it is still the driving is still aspirational to most people
 
-00:39:02:03 - 00:39:03:20
-Speaker 4
-if you see that it is still
-
-00:39:03:20 - 00:39:06:17
-Speaker 4
-the driving is still aspirational to most people
-
-00:39:06:17 - 00:39:13:14
+00:39:02:17 - 00:39:09:14
 Speaker 4
 and when they get the job they buy a scooty than they buy a motorcycle. And then the ultimate thing they will buy a car
 
-00:39:13:14 - 00:39:15:02
+00:39:09:14 - 00:39:20:08
 Speaker 4
-and that's about it.
+and that's about it. They most people don't want to buy a cycle. They think it's demeaning to be seen on the cycle, and that's the mentality.
 
-00:39:15:02 - 00:39:22:18
+00:39:20:09 - 00:39:42:09
 Speaker 4
-They most people don't want to buy a cycle. They think it's demeaning to be seen on the cycle, and that's the mentality.
+Most of them are coming from smaller towns or They have been brought up with that thinking in their mind. So that thinking will take some time to change and and we have to face it that we are actually the three or four is that probably a minuscule fraction of the people proudly cycle
 
-00:39:22:19 - 00:39:26:13
+00:39:42:09 - 00:39:43:19
 Speaker 4
-Most of them are coming from smaller towns or
+not really.
 
-00:39:26:13 - 00:39:28:15
+00:39:43:21 - 00:39:56:21
 Speaker 4
-They have been brought up with that
+I mean, exercise is not the primary goal for which we say good passion is not the primary goal for which we cycle. We cycle because we found that it's the best option and zero minuscule fraction
 
-00:39:28:15 - 00:39:30:20
-Speaker 4
-thinking in their mind. So
-
-00:39:30:20 - 00:39:33:02
-Speaker 4
-that thinking will take some time to change
-
-00:39:33:02 - 00:39:41:10
-Speaker 4
-we have to face it that we are actually the three or four is that probably a minuscule fraction of the people proudly cycle
-
-00:39:41:16 - 00:39:51:10
-Speaker 4
-I mean, exercise is not the primary goal for which we say good passion is not the primary goal for which we cycle. We cycle because we found that it's the best option
-
-00:39:51:10 - 00:39:53:20
-Speaker 4
-and zero minuscule fraction
-
-00:39:53:20 - 00:39:55:10
+00:39:56:21 - 00:39:58:12
 Speaker 4
 of those people. So
 
-00:39:55:10 - 00:40:06:12
+00:39:58:12 - 00:40:05:18
 Speaker 4
-95% of the people would drive a car or they would come by the company cab, they would not walk, they would not cycle.
+95% of the people would drive a car or they would come by the company cab,
 
-00:40:06:12 - 00:40:23:13
+00:40:05:18 - 00:40:08:04
+Speaker 4
+they would not walk, they would not cycle.
+
+00:40:08:04 - 00:40:25:05
 Speaker 4
 They just dislike the idea of doing that like a common man because we belong to that IT sector where it's seen as the face of prosperity and prosperous people do not Cycle or in on the.
 
-00:40:23:15 - 00:40:24:16
+00:40:25:07 - 00:40:26:08
 Speaker 2
 end
 
-00:40:24:18 - 00:40:28:05
+00:40:26:10 - 00:40:29:18
 Speaker 4
 Prosperous people, the ones who want cycle lanes
 
-00:40:28:05 - 00:40:48:11
+00:40:29:18 - 00:40:50:03
 Speaker 4
 because the the maids and the security guards who are cycling. Why they are not asking for it. Why are you guys asking for it for the simple reason you're asking for it, that it just makes it easy for you so that more people can say they don't have to be daredevils to be out on the cycle.
 
-00:40:48:11 - 00:40:58:01
+00:40:50:03 - 00:40:59:20
 Speaker 4
 So yeah, company is afraid at some point, but also they feel like it's it's it's something that just doesn't look right.
 
-00:40:58:01 - 00:40:59:02
+00:40:59:20 - 00:41:01:07
 Speaker 1
 doesnt look right
 
-00:40:59:02 - 00:41:00:14
+00:41:01:09 - 00:41:05:19
 Speaker 4
-It just doesn't look right.
+It just doesn't look right. They should ask somebody to come on
 
-00:41:00:14 - 00:41:03:01
-Speaker 4
-They should ask somebody to come on
-
-00:41:03:01 - 00:41:04:05
+00:41:05:19 - 00:41:06:16
 Speaker 4
 it's just not
 
-00:41:04:05 - 00:41:06:12
+00:41:06:16 - 00:41:09:01
 Speaker 4
 worthy of promoting.
 
-00:41:06:12 - 00:41:08:03
+00:41:09:01 - 00:41:10:17
 Speaker 1
 but how do you explain then
 
-00:41:08:03 - 00:41:13:17
+00:41:10:17 - 00:41:16:09
 Speaker 1
 them coming out and complaining against the road space? I need more road space. My employees cannot come to work.
 
-00:41:13:17 - 00:41:17:13
+00:41:16:09 - 00:41:20:06
 Speaker 1
 They never fight for your cycle on the same way
 
-00:41:17:15 - 00:41:28:00
+00:41:20:08 - 00:41:30:18
 Speaker 4
 They want more road space because that's what they think the more road space, meaning more space for the cars, less stuff there'd be less traffic jams are wider roads but somewhere.
 
-00:41:28:00 - 00:41:37:02
+00:41:30:18 - 00:41:33:17
 Speaker 4
-So there is a bit of an ignorance there that is there that every city with wide highways and wide roads
+So there is a bit of an ignorance there
 
-00:41:37:02 - 00:41:40:19
+00:41:33:17 - 00:41:39:13
+Speaker 4
+that is there that every city with wide highways and wide roads
+
+00:41:39:13 - 00:41:43:06
 Speaker 4
 have not solved their traffic problems, they have only made them bigger.
 
-00:41:40:19 - 00:41:47:01
+00:41:43:06 - 00:41:49:14
 Speaker 4
 So yeah, the big, big cities have big traffic jams. Wider roads have wider the traffic jams? And that's the truth.
 
-00:41:47:01 - 00:41:56:17
+00:41:49:14 - 00:41:59:12
 Speaker 4
 some of the the truth has not come out. People have not accepted it yet that wider roads is not going to help reduce the traffic.
 
-00:41:56:17 - 00:42:17:04
+00:41:59:12 - 00:42:20:01
 Speaker 2
 because our companies never suggest that you come in car, you come in motorcycle, come in, scooter walk or cycle. It's each individual we do. And basically where I'm differing is we know that Bangalore has a constraint of the roads. These are the roads that we have. We don't have like NCR, like Delhi, wider roads and stuff.
 
-00:42:17:06 - 00:42:22:07
+00:42:20:03 - 00:42:45:08
 Speaker 2
-This is a limited to what we have. Like I said, every challenge is an opportunity
+This is a limited to what we have. Like I said, every challenge is an opportunity with the limitation of these narrow roads. Are these smaller roads, How do we going to help our colleagues to come to office in a much more predictable and safer and predictable way? Like if Outer Ring Road is choked with all the traffic, how do we help all our colleagues to come to office?
 
-00:42:22:07 - 00:42:41:18
-Speaker 2
-with the limitation of these narrow roads. Are these smaller roads, How do we going to help our colleagues to come to office in a much more predictable and safer and predictable way? Like if Outer Ring Road is choked with all the traffic, how do we help all our colleagues to come to office?
-
-00:42:41:20 - 00:42:57:02
+00:42:45:10 - 00:43:00:16
 Speaker 2
 Because the roads are not going to expand? What do we do? Probably we get a metro lane, probably will get railway, suburban railway but The roads are not going to any further expand than what it is. They're on the outer ring road from KR Puram to Silk Board, how do you.
 
-00:42:57:04 - 00:43:16:19
+00:43:00:18 - 00:43:20:09
 Speaker 1
 The people are willing to multilayer it and see? They also see challenges and opportunity to get more road space. But I agree with your point that the the but the point going back to what Shilpi is saying is I would like your views on that as well. But it's not just the CEOs Tandava You said the CEOs are not seeing this.
 
-00:43:16:19 - 00:43:36:11
+00:43:20:09 - 00:43:40:01
 Speaker 1
 They are not maybe cycling. Right. It's not just that. She told me the aspirational goal. Right. I heard senior IAS officer say, I come from a village and I want to see people. I mean, he's just trying to mimic somebody else's aspirational goal and they probably want to see what the reaction would be. Exactly. Come to a city to prosper and.
 
-00:43:36:11 - 00:43:38:05
+00:43:40:01 - 00:43:41:19
 Speaker 1
 ride a huge car
 
-00:43:38:05 - 00:43:59:08
+00:43:41:19 - 00:43:49:17
 Speaker 1
-as if that was the end goal of everything else. Right. So that's how they think. That's how most people think. And she's perfectly right. There is an attitudinal but but again coming back to why wouldn't is that the only reason What do you think, Kartik, is that is it because CEOs don't cycle? Is it because they also think like a normal person that aspirational goals is getting my employees to ride a car
+as if that was the end goal of everything else. Right. So that's how they think. That's how most people think. And she's perfectly right. There is an attitudinal
 
-00:43:59:08 - 00:44:08:20
+00:43:49:17 - 00:43:56:01
+Speaker 1
+is it because CEOs don't cycle? Is it because they also think like a normal person that aspirational goals is getting my employees to ride a car
+
+00:43:56:01 - 00:43:56:16
 Speaker 3
-I mean, it's probably not just the leaders here, right? I mean, I mean, I strongly feel that whatever is
+I mean,
 
-00:44:08:20 - 00:44:12:16
+00:43:56:16 - 00:44:00:14
 Speaker 3
-the preferred commute by the majority of come
+it's probably not just the leaders here, right?
 
-00:44:12:16 - 00:44:17:19
+00:44:00:14 - 00:44:03:06
+Speaker 3
+I strongly feel that whatever is
+
+00:44:03:06 - 00:44:05:22
+Speaker 3
+the preferred commute by the majority
+
+00:44:05:22 - 00:44:11:03
 Speaker 3
 companies, employees, that will definitely be promoted more and more by the company.
 
-00:44:17:19 - 00:44:25:22
+00:44:11:03 - 00:44:19:04
 Speaker 3
 and we cannot deny that like Shilpi said, we are like probably not even 10% of our our company's workforce right the people who cycle.
 
-00:44:25:22 - 00:44:54:08
+00:44:19:04 - 00:44:29:13
 Speaker 3
-I mean until these numbers really scale up, I don't see them going out and putting themselves out there demanding better infrastructure for their employees because I mean, this is really small. And one more thing to account for is that the fact is, despite pretty much most of the support staff in the company cycling, I mean, most more support staff are probably not employees of that company also.
+I mean until these numbers really scale up, I don't see them going out and putting themselves out there demanding better infrastructure for their employees
 
-00:44:54:10 - 00:44:59:08
+00:44:29:13 - 00:44:38:21
+Speaker 3
+I mean, this is really small. And one more thing to account for is that the fact is, despite pretty much most of the support staff in the company cycling,
+
+00:44:38:21 - 00:44:43:15
+Speaker 3
+more support staff are probably not employees of that company also.
+
+00:44:43:17 - 00:44:48:16
 Speaker 3
 So they I mean, it's very, very rare for you to find a company
 
-00:44:59:08 - 00:45:19:00
+00:44:48:16 - 00:45:06:07
 Speaker 3
-work to prove I mean, work for better infrastructure for those who don't really work for them. Also, they're not the face of the of that company. So unless you have more cyclists going out who are demanding it, I mean, from their companies, it is probably not going to happen.
+work for better infrastructure for those who don't really work for them. Also, they're not the face of the of that company. So unless you have more cyclists going out who are demanding it, I mean, from their companies, it is probably not going to happen.
 
-00:45:19:02 - 00:45:22:22
+00:45:06:09 - 00:45:10:07
 Speaker 3
 The one thing which I do believe could tilt the balance is that
 
-00:45:22:22 - 00:45:27:22
+00:45:10:07 - 00:45:19:10
 Speaker 3
-now we do have more and more requirements on companies needing to be green,
+now we do have more and more requirements on companies needing to be green, right? The question of the carbon emissions. So that
 
-00:45:27:22 - 00:45:31:12
-Speaker 3
-right? The question of the carbon emissions. So that
-
-00:45:31:12 - 00:45:35:06
+00:45:19:10 - 00:45:23:04
 Speaker 3
 that I think is something which companies haven't quite realized.
 
-00:45:35:06 - 00:45:36:14
+00:45:23:04 - 00:45:24:13
 Speaker 3
 what a difference it
 
-00:45:36:14 - 00:45:42:04
+00:45:24:13 - 00:45:35:00
 Speaker 3
-I mean like it makes if you have like 150 employees coming in cycles instead of cars,
+like it makes if you have like 150 employees coming in cycles instead of cars, they cars all the great motorcycles for that matter.
 
-00:45:42:04 - 00:45:44:04
+00:45:35:02 - 00:45:55:22
 Speaker 3
-they cars all the
+So those are things which, I mean, which I think will start getting factored in more and that might just slowly start nudging the needle towards I mean, putting themselves out there and I mean not making use of those associations better. They'd like Tandava said I've never seen any of the
 
-00:45:44:04 - 00:45:46:10
-Speaker 3
-great motorcycles for that matter.
-
-00:45:46:10 - 00:45:55:06
-Speaker 3
-So those are things which, I mean, which I think will start getting factored in more and that might just slowly start nudging the needle towards
-
-00:45:55:06 - 00:45:58:10
-Speaker 3
-I mean, putting themselves out there and
-
-00:45:58:10 - 00:46:04:17
-Speaker 3
-making use of those associations better. They'd like Tandava said I've never seen any of the
-
-00:46:04:17 - 00:46:09:14
+00:45:55:22 - 00:46:00:21
 Speaker 3
 the company association say anything about cycling. So hopefully this might
 
-00:46:09:14 - 00:46:11:03
+00:46:00:21 - 00:46:02:15
 Speaker 3
 we might start seeing more.
 
-00:46:11:03 - 00:46:37:10
+00:46:02:15 - 00:46:28:22
 Speaker 2
 I also see the current campusites who join us. They don't have this baggage of I need to own a car I don't see them caring and I've seen some of them coming and talking to me to figure out, hey, I want I'm interested in cycling. What do you recommend? What are the best options? And probably if companies can facilitate something about these campuses who come and join the workforce because they think different, they're definitely unlike our generation.
 
-00:46:37:12 - 00:47:02:02
+00:46:29:00 - 00:46:53:14
 Speaker 2
 They're a lot more grounded. They know what it is. They might have their aspirations different, but they understand what it is. If companies can facilitate and at least protect them a bit more, how you facilitate to get them in some of these other modes of transport, because a lot of them don't believe in owning get an expensive car owning a car because they know that from a financial perspective it doesn't make any sense.
 
-00:47:02:04 - 00:47:13:17
+00:46:53:16 - 00:47:04:08
 Speaker 2
 These are the depreciating assets. So probably as we and some of the companies can code some schemes that owned and facilitated some of that, probably we can increase this footprint.
 
-00:47:13:19 - 00:47:34:03
+00:47:04:08 - 00:47:24:22
 Speaker 1
 But is that that's an interesting point do you really I don't want to generalize but I do see that are different and maybe it's the our generation and the previous one who are completely hooked on to this aspirational thing to have you noticed that some of some of the people in the younger generation, like I can see Knerav already doesn't care about owning too many of these things that you may have it for.
 
-00:47:34:04 - 00:47:37:09
+00:47:24:23 - 00:47:46:13
 Speaker 1
-Yeah, I have I have heard my own kids don't even bother.
+Yeah, I have I have heard my own kids don't even bother. You know, it just it they would much rather hail an auto or walk it to wherever they want to go to that or take the bicycle than actually even wouldn't didn't there is no interest to even get a driving license when they turn 16 It almost seems to me that there are so many choices just providing a choice.
 
-00:47:37:09 - 00:47:53:12
+00:47:46:15 - 00:47:55:02
 Speaker 1
-they would much rather hail an auto or walk it to wherever they want to go to that or take the bicycle than actually even wouldn't didn't there is no interest to even get a driving license when they turn 16 It almost seems to me that there are so many choices just providing a choice.
+But again, coming back to corporates, what let's let's try and paint some picture of what you think they can before we go and start this.
 
-00:47:53:14 - 00:47:55:15
-Speaker 1
-But again, coming back to corporates,
-
-00:47:55:15 - 00:48:00:20
-Speaker 1
-let's let's try and paint some picture of what you think they can before we go and start this.
-
-00:48:00:22 - 00:48:20:23
+00:47:55:04 - 00:48:15:05
 Speaker 3
 One thing that I wanted to add here Sathya is that this idea, before you jump on, I want to play the devil's advocate here and basically say that I mean, from what I've seen for the last ten, 12 years in office, people who join youngsters, they really tend to cycle. They are new to Bangalore. They live close by road, too.
 
-00:48:21:01 - 00:48:23:07
+00:48:15:07 - 00:48:17:12
 Speaker 3
 So a lot of employees
 
-00:48:23:07 - 00:48:25:21
+00:48:17:12 - 00:48:20:04
 Speaker 3
 in their first five years typically the end of cycle.
 
-00:48:25:21 - 00:48:29:05
+00:48:20:04 - 00:48:35:21
 Speaker 3
-And then it starts to change once they start buying.
+And then it starts to change once they start buying. I mean, I have personally seen several who have gone from being commute cyclists to car riders who now come by car late or at least motorcycles because
 
-00:48:29:05 - 00:48:41:09
-Speaker 3
-I mean, I have personally seen several who have gone from being commute cyclists to car riders who now come by car late or at least motorcycles because
-
-00:48:41:09 - 00:48:46:09
+00:48:35:21 - 00:48:40:22
 Speaker 3
 they would have gotten married sort of. They probably need to drop a child in school and come.
 
-00:48:46:09 - 00:48:51:18
+00:48:40:22 - 00:48:43:16
 Speaker 3
-So basically all sorts of things start to change. And so,
+So basically all sorts of things start to change.
 
-00:48:51:18 - 00:48:58:05
+00:48:43:16 - 00:48:50:02
 Speaker 3
 youngsters don't stay young forever, so they don't remain cyclists forever. So that's how that's what I've seen.
 
-00:48:58:06 - 00:49:01:04
+00:48:50:03 - 00:48:53:01
 Speaker 4
 But if you cycle can you stay younger
 
-00:49:01:06 - 00:49:02:11
+00:48:53:03 - 00:48:54:17
 Speaker 3
 Nice one.
 
-00:49:02:11 - 00:49:07:15
+00:48:54:21 - 00:49:00:01
 Speaker 2
 probably this process might influence them, be safe because nobody else are dependent on you. So.
 
-00:49:07:17 - 00:49:20:20
+00:49:00:03 - 00:49:13:09
 Speaker 1
 So yeah. So the risk assessment changes. They start thinking it is riskier suddenly, even though they have been at risk for, as you said, One last thing on the thing. Is there a culture in companies that
 
-00:49:20:20 - 00:49:25:03
+00:49:13:09 - 00:49:17:17
 Speaker 1
 that influences people? I don't know how you are some companies
 
-00:49:25:03 - 00:49:27:08
+00:49:17:17 - 00:49:20:00
 Speaker 1
 and the way they speak and behave and
 
-00:49:27:08 - 00:49:29:23
+00:49:20:00 - 00:49:22:15
 Speaker 1
 symbolisms in their companies, does that influence?
 
-00:49:29:23 - 00:49:51:16
+00:49:22:15 - 00:49:44:09
 Speaker 1
 If you see a lot I've seen people in university campuses they don't think twice about. Of course there might be a cost issue and all of those things, but even otherwise, There are some companies where people have come and told me never we never aspired for this because probably nobody wants to show off there. Is there a cultural element to certain companies behaving and their employees behaving a certain way?
 
-00:49:51:16 - 00:50:16:20
+00:49:44:09 - 00:50:09:14
 Speaker 2
 I completely agree. When I started cycling to work in 2011, I have one say contract space. We can park or cycling like five cycled slowly, people picked up and then most cyclists and then most cyclists. No, we got up to 12 racks before pre-COVID. Like it's almost like we went from a less than five members to 50 plus members and most more folks come and more folks go and adapt.
 
-00:50:16:22 - 00:50:30:23
+00:50:09:16 - 00:50:23:21
 Speaker 2
 And it's not a taboo. And as I said, even after you get an expensive car and if you don't come in that and you cycling, probably people understand and then it becomes their culture of the company or culture of the group. You part.
 
-00:50:30:23 - 00:50:32:16
+00:50:23:21 - 00:50:26:07
 Speaker 1
 So leadership does.
 
-00:50:32:16 - 00:50:33:07
+00:50:26:09 - 00:50:27:21
 Speaker 2
-Play a role,
+Play a role, definitely.
 
-00:50:33:07 - 00:50:50:22
+00:50:27:22 - 00:50:51:08
 Speaker 1
-Correct. Because if they are talking about, oh, you know, greed is good, then go around and throw the riches and show flashy stuff, it might really influence. But that's just an anecdotal thing I have no data to back it up though. I've heard of that. I've seen some of the people from
+Correct. Because if they are talking about, oh, you know, greed is good, then go around and throw the riches and show flashy stuff, it might really influence. But that's just an anecdotal thing I have no data to back it up though. I've heard of that. I've seen some of the people from some people don't even realize that cycling is even a thing and nobody has done it there.
 
-00:50:50:22 - 00:50:55:10
-Speaker 1
-some people don't even realize that cycling is even a thing and nobody has done it there.
-
-00:50:55:10 - 00:50:55:17
+00:50:51:08 - 00:51:28:10
 Speaker 4
-And
+And yeah, yeah, actually I feel that the leaders need to set an example. They need to walk the talk. Without that, you will not have youngsters following. They might cycle when they can still find they cannot afford anything costly. But if they see that that your boss is coming on cycle and is casual about it, then most people think that that's the normal thing to do, right?
 
-00:50:55:17 - 00:50:58:17
+00:51:28:10 - 00:51:54:13
 Speaker 4
-yeah, yeah, actually I feel that
+now the most normal thing to do is to buy a gigantic size SUV and travel alone, but maybe even better, get a driver. And that's the example most people are setting. And that's the that's the thing that most people aspire to, unfortunately. I mean, that is true. Nobody's aspiring to ride a cycle. They think that that person is riding a cycle, Either that person is very poor or is completely crazy.
 
-00:50:58:17 - 00:51:05:21
+00:51:54:13 - 00:52:04:21
 Speaker 4
-the leaders need to set an example. They need to walk the talk. Without that, you will not have youngsters following.
+So yeah, are all three of would fall in that crazy bucket But they don't understand that we are doing it for a reason. It is just so saving.
 
-00:51:05:21 - 00:51:09:16
-Speaker 4
-They might cycle when they can still
-
-00:51:09:16 - 00:51:12:00
-Speaker 4
-find they cannot afford anything
-
-00:51:12:00 - 00:51:12:22
-Speaker 4
-costly.
-
-00:51:12:22 - 00:51:16:19
-Speaker 4
-if they see that that your boss is coming on cycle
-
-00:51:16:19 - 00:51:17:12
-Speaker 4
-and
-
-00:51:17:12 - 00:51:19:01
-Speaker 4
-is casual about it,
-
-00:51:19:01 - 00:51:22:00
-Speaker 4
-then most people think that that's the normal thing to do,
-
-00:51:22:00 - 00:51:22:06
-Speaker 4
-right?
-
-00:51:22:06 - 00:51:46:06
-Speaker 4
-now the most normal thing to do is to buy a gigantic size SUV and travel alone, but maybe even better, get a driver. And that's the example most people are setting. And that's the that's the thing that most people aspire to, unfortunately. I mean, that is true. Nobody's aspiring to ride a cycle. They think that that person is riding a cycle, Either that person is very poor
-
-00:51:46:06 - 00:51:47:15
-Speaker 4
-or is completely crazy.
-
-00:51:47:17 - 00:51:48:03
-Speaker 4
-So.
-
-00:51:48:03 - 00:51:48:15
-Speaker 1
-Right.
-
-00:51:48:15 - 00:51:55:05
-Speaker 4
-So yeah, are all three of would fall in that crazy bucket But they don't understand that we are doing it for
-
-00:51:55:05 - 00:51:56:18
-Speaker 4
-a reason. It is
-
-00:51:56:18 - 00:51:57:17
-Speaker 4
-just so saving.
-
-00:51:57:17 - 00:52:07:20
+00:52:04:21 - 00:52:15:00
 Speaker 1
 So you just get Yeah we get we get benefits out of it. So we're doing it. I'm surprised they don't see the benefits and they start attaching more risk to it than they actually.
 
-00:52:07:22 - 00:52:16:07
+00:52:15:02 - 00:52:38:03
 Speaker 4
-Yeah. So, so the kind of reasons they get for me cycling to work is that I can eat anything I can stay slim,
+Yeah. So, so the kind of reasons they get for me cycling to work is that I can eat anything I can stay slim, I can get a lot of exercise and I must love cycling. These are the these reason. None of them are true. The reason is I get more done by cycling and not spending time in traffic.
 
-00:52:16:07 - 00:52:18:08
+00:52:38:03 - 00:53:04:12
 Speaker 4
-I can get a lot of exercise
+And I I cycle in one of the most infamous road in Bangalore. So I don't take any side routes or anything because I just want the shortest way out of this hell on the roads. So I love passing by Mercedes, BMW and Skodas, I just I'm extremely non-aggressive person. I just pass by and that's the way I show it to them.
 
-00:52:18:08 - 00:52:29:21
-Speaker 4
-and I must love cycling. These are the these reason. None of them are true. The reason is I get more done by cycling and not spending time in traffic.
-
-00:52:29:23 - 00:52:33:19
-Speaker 4
-And I I cycle in one of the most infamous road in Bangalore.
-
-00:52:33:19 - 00:52:34:13
-Speaker 4
-So
-
-00:52:34:13 - 00:52:55:07
-Speaker 4
-I don't take any side routes or anything because I just want the shortest way out of this hell on the roads. So I love passing by Mercedes, BMW and Skodas, I just I'm extremely non-aggressive person. I just pass by and that's the way I show it to them.
-
-00:52:55:09 - 00:53:00:13
+00:53:04:14 - 00:53:09:18
 Speaker 1
 Well yeah, you don't even have to flip anything. You can just help us sometimes.
 
-00:53:00:15 - 00:53:03:08
+00:53:09:20 - 00:53:12:16
 Speaker 3
 I mean, sometimes. I mean
 
-00:53:03:08 - 00:53:14:11
+00:53:12:16 - 00:53:23:18
 Speaker 3
 Shilpi’s cartoons don't quite convey that, but then it is a lot of a lot of anger there. There is a lot of angst that comes through with that. Yeah. So for those of you who don't know, would be
 
-00:53:14:11 - 00:53:20:09
+00:53:23:18 - 00:53:29:16
 Speaker 3
 the wonderful cartoonist and I mean, her Twitter handle would break face value at.
 
-00:53:20:11 - 00:53:21:17
+00:53:29:18 - 00:53:31:00
 Speaker 1
 Breakfast 22 and we have a.
 
-00:53:21:20 - 00:53:25:04
+00:53:31:03 - 00:53:34:11
 Speaker 3
 Gallery. Okay. Okay. It's it's fantastic.
 
-00:53:25:06 - 00:53:46:03
+00:53:34:13 - 00:53:55:10
 Speaker 1
 So so I will absolutely sort of first do this this particular episode so that they get the feedback and they get to follow and see how she expresses all of these things. No, the anger does come out, you can see where it comes out very creatively. So you need to look between the pictures so you could see it.
 
-00:53:46:05 - 00:54:09:14
+00:53:55:12 - 00:54:18:21
 Speaker 2
 Last all these years of cycling on the road. Commuting on the road gave me one insight. If people honk initially as to get irritated, Hey, I'm on side corner and you're still honking. What I later realised. I thought of sharing it here. Basically, any of you start cycling and if you see people honking, it's not because of anything else that you're done something wrong.
 
-00:54:09:16 - 00:54:30:13
+00:54:18:23 - 00:54:39:20
 Speaker 2
 It's basically their frustration that they got stuck at the previous junction and you're able to pass through them. And once that crossing sometimes it's basically they're trying to challenge themselves and yeah, they might be having that fight inside them. They'll say, Why am I not cycling? That was tough. So they don't know how to express. So they take that frustration on the horn
 
-00:54:30:15 - 00:54:38:18
+00:54:39:22 - 00:54:49:01
 Speaker 2
 So just as if you realize that you'll be a lot more comfortable, you don't get irritated. Just keep this perspective in mind. This is my thoughts.
 
-00:54:38:18 - 00:54:49:20
+00:54:49:03 - 00:55:07:22
 Speaker 1
-All right. With that, we move to blaming the government. But that's that's the last part of this equation. We've we've tackled our fears. We know what we've done and we know it works.
+All right. With that, we move to blaming the government. But that's that's the last part of this equation. We've we've tackled our fears. We know what we've done and we know it works. Let's hope other people realize we've talked about the corporates and what they could do and what they are not doing. They have been a lot for yourselves.
 
-00:54:49:20 - 00:54:56:09
-Speaker 1
-Let's hope other people realize we've talked about the corporates and what they could do and what they are not doing. They have been a lot for yourselves.
-
-00:54:56:11 - 00:55:00:15
+00:55:08:00 - 00:55:12:10
 Speaker 1
 What do you think? Why? How do we get this government to give us something
 
-00:55:00:15 - 00:55:04:12
+00:55:12:10 - 00:55:16:08
 Speaker 2
 Yeah, it reinstate the cycle lanes bicycle lanes on some not.
 
-00:55:04:12 - 00:55:17:06
+00:55:16:08 - 00:55:35:14
 Speaker 1
-Just on the road, not just on that we need we need to. So I'll just give a quick fact at this point in time. I like saying this. There are 14,000 kilometers of road just in the Bbmp region alone, which is like 800 square kilometers
+Just on the road, not just on that we need we need to. So I'll just give a quick fact at this point in time. I like saying this. There are 14,000 kilometers of road just in the Bbmp region alone, which is like 800 square kilometers and bbmp, you know, it's not all of Bangalore. Half of Bangalore is already outside.
 
-00:55:17:06 - 00:55:22:16
+00:55:35:16 - 00:55:41:22
 Speaker 1
-and bbmp, you know, it's not all of Bangalore. Half of Bangalore is already outside.
+But let's talk 14,000 kilometers of roads right? That's that's the network for cars.
 
-00:55:22:18 - 00:55:32:06
+00:55:41:22 - 00:55:44:17
 Speaker 1
-But let's talk 14,000 kilometers of roads right? That's that's the network for cars. Might be small, it might be big, but it is the network for cars.
+Might be small, it might be big, but it is the network for cars.
 
-00:55:32:06 - 00:55:37:13
+00:55:44:17 - 00:55:50:00
 Speaker 1
 at least 2000 kilometers of that is, by the way, arterial roads.
 
-00:55:37:13 - 00:55:44:22
+00:55:50:00 - 00:55:57:09
 Speaker 1
 They call the major roads, which is 15 meters our wider to 2000 is hardly 10% of the total.
 
-00:55:45:00 - 00:56:08:00
+00:55:57:11 - 00:56:01:05
 Speaker 1
-14,000 kilometers. Right. Oh, sorry. It's sort of 20% less than 20%. E how do we get those fast roads to have bicycle tracks At least 2000 kilometers of bicycle like the rest of the roads? Don't bother. We know how to find those small roads and go. We still make do with that. We we can help ourselves and map these other routes like Tandava does
+14,000 kilometers. Right. Oh, sorry. It's sort of 20%
 
-00:56:08:02 - 00:56:25:09
+00:56:01:05 - 00:56:02:11
+Speaker 1
+less than 20%.
+
+00:56:02:11 - 00:56:18:05
+Speaker 1
+how do we get those fast roads to have bicycle tracks At least 2000 kilometers of bicycle like the rest of the roads? Don't bother. We know how to find those small roads and go. We still make do with that. We we can help ourselves and map these other routes like Tandava does
+
+00:56:18:07 - 00:56:36:05
 Speaker 1
 We can do that. But I think in the high speed roads at least we need some amount of coverage. And at the end of the day, it's not about the bicycle lane and everybody else should. You should be planning a car lane for the cars and everything else should be available for the bicycle. But that's a dream. What do you think we should be doing?
 
-00:56:25:09 - 00:56:27:21
+00:56:36:07 - 00:56:39:00
 Speaker 1
 Why isn't the government giving it to us?
 
-00:56:27:21 - 00:56:45:23
+00:56:39:00 - 00:57:02:18
 Speaker 2
-Because It's a chicken and egg problem. The reason I say that is there are some lanes where this pedestrian has been a cycle lanes were created from Marathahalli towards the old airport road towards Domlur. Those are beautiful stuff. As in when I stuck in traffic, I always commute using that
+Because It's a chicken and egg problem. The reason I say that is there are some lanes where this pedestrian has been a cycle lanes were created from Marathahalli towards the old airport road towards Domlur. Those are beautiful stuff. As in when I stuck in traffic, I always commute using that the roads are not overloaded. I normally go on the main road, but it's basically chicken and egg.
 
-00:56:45:23 - 00:56:48:22
+00:57:02:18 - 00:57:25:20
 Speaker 2
-the roads are not overloaded. I normally go on the main road,
+And the reason I say is Government also asked to show me I created this. How much are you leveraging that? Probably you also needs to own. But at the same time, Government can we blind take it and say that they are show me and all? Because as Shilpi said, maybe we are talking about this about top one percent, but there are a lot of folks who use this for regular commute.
 
-00:56:48:22 - 00:56:49:17
+00:57:25:22 - 00:57:56:12
 Speaker 2
-it's basically chicken and egg.
+And I know some of them don't even have reflectors and stuff. But even if you don't care about us, but all these other folks need a safe passage from their workplace to their home. They're not doing it for leisure of stuff, but it's the necessity to go from their home to workplace and as government cares for all of us, and probably for the folks who need more help from government than others, probably they should go and invest and also helps back to that.
 
-00:56:49:17 - 00:56:55:07
+00:57:56:14 - 00:58:19:22
 Speaker 2
-And the reason I say is Government also asked to show me I created this. How much are you leveraging that?
+What Shilpi be mentioned of Go green? If India is talking about being one of the top countries in the world to go and carbon neutral and all that stuff, these are the safer passages that can help us to get there much faster, as well as helping all these folks who are looking up to us, this technology and innovation should help them for the common man and the bottom most person in the society
 
-00:56:55:07 - 00:57:03:22
-Speaker 2
-Probably you also needs to own. But at the same time, Government can we blind take it and say that they are show me and all? Because as Shilpi said,
-
-00:57:03:22 - 00:57:05:13
-Speaker 2
-maybe we are talking about this
-
-00:57:05:13 - 00:57:07:07
-Speaker 2
-about top one percent, but there are a
-
-00:57:07:07 - 00:57:10:11
-Speaker 2
-lot of folks who use this for regular commute.
-
-00:57:10:11 - 00:57:13:07
-Speaker 2
-And I know some of them don't even have reflectors and stuff.
-
-00:57:13:07 - 00:57:16:13
-Speaker 2
-even if you don't care about us, but all these other folks need
-
-00:57:16:13 - 00:57:19:00
-Speaker 2
-a safe passage from their workplace to their home.
-
-00:57:19:00 - 00:57:20:13
-Speaker 2
-They're not doing it
-
-00:57:20:13 - 00:57:23:23
-Speaker 2
-for leisure of stuff, but it's the necessity to go
-
-00:57:23:23 - 00:57:25:19
-Speaker 2
-from their home to workplace
-
-00:57:25:19 - 00:57:36:22
-Speaker 2
-as government cares for all of us, and probably for the folks who need more help from government than others, probably they should go and invest and also helps back to that.
-
-00:57:37:00 - 00:57:39:01
-Speaker 2
-What Shilpi be mentioned of
-
-00:57:39:01 - 00:57:40:23
-Speaker 2
-Go green? If India is talking about
-
-00:57:40:23 - 00:57:49:15
-Speaker 2
-being one of the top countries in the world to go and carbon neutral and all that stuff, these are the safer passages that can help us to get there much faster,
-
-00:57:49:15 - 00:57:58:19
-Speaker 2
-as well as helping all these folks who are looking up to us, this technology and innovation should help them for the common man and the bottom most person in the society
-
-00:57:58:19 - 00:58:00:07
+00:58:19:22 - 00:58:21:11
 Speaker 1
 Don't build a bridge
 
-00:58:00:07 - 00:58:05:04
+00:58:21:11 - 00:58:31:14
 Speaker 1
-looking at the number of people swimming across the river because there are people who cant swim who still want to cross the river.
+looking at the number of people swimming across the river because there are people who cant swim who still want to cross the river. There are a bunch of people who, like it or not,
 
-00:58:05:04 - 00:58:06:17
-Speaker 1
-There are a bunch of people
-
-00:58:06:17 - 00:58:07:09
-Speaker 1
-who,
-
-00:58:07:09 - 00:58:08:07
-Speaker 1
-like it or not,
-
-00:58:08:07 - 00:58:10:02
+00:58:31:14 - 00:58:33:12
 Speaker 1
 have a different risk perception.
 
-00:58:10:02 - 00:58:15:07
+00:58:33:12 - 00:58:38:21
 Speaker 1
 Like Karthik mentioned, I just got a kid. I can't die. suddenly your risk perception for No reason
 
-00:58:15:07 - 00:58:33:20
+00:58:38:21 - 00:58:54:22
 Speaker 1
-You haven't died by cycling so long, but suddenly you think I have more to lose now. So your value of green goes and it's not even about green like she says. It's pure utility. You can save the time and actually go back and spend more time with your kids for, for all you know.
+You haven't died by cycling so long, but suddenly you think I have more to lose now. So your value of green goes and it's not even about green like she says. It's pure utility. You can save the time and actually go back and spend more time with your kids
 
-00:58:33:20 - 00:58:43:08
+00:58:54:22 - 00:59:10:20
 Speaker 1
-But somewhere, I think the infrastructure is not something that we do care about. The three of us or four of us. A few of us on this call
+infrastructure is not something that we do care about. The three of us or four of us. A few of us on this call can still cycle because we figured our way out. But if you give it, we would be happier and we might ride a little
 
-00:58:43:08 - 00:58:45:14
+00:59:10:20 - 00:59:16:23
 Speaker 1
-can still cycle because we figured our way out.
+better and less anxiety because at the end of the day, the road is just harassment.
 
-00:58:45:14 - 00:58:49:06
+00:59:16:23 - 00:59:41:19
 Speaker 1
-But if you give it, we would be happier and we might
+It's not about safety for us, it's about just the many honking, too many people showing no elbow room. That's the only thing we are worried about, too. I always say about safety, right? I mean, you guys have heard me talk that when the traffic is slower, it is actually safer because we are faster than them. It's it's only when you go out in the morning on the highway and everybody thinks the roads and yet you have a lot of elbow room.
 
-00:58:49:06 - 00:58:50:08
-Speaker 1
-ride a little
-
-00:58:50:08 - 00:58:52:07
-Speaker 1
-less anxiety
-
-00:58:52:07 - 00:58:54:09
-Speaker 1
-at the end of the day, the road is just harassment.
-
-00:58:54:09 - 00:59:11:02
-Speaker 1
-It's not about safety for us, it's about just the many honking, too many people showing no elbow room. That's the only thing we are worried about, too. I always say about safety, right? I mean, you guys have heard me talk that when the traffic is slower, it is actually safer because we are faster than them.
-
-00:59:11:02 - 00:59:17:12
-Speaker 1
-It's it's only when you go out in the morning on the highway and everybody thinks the roads and yet you have a lot of elbow room.
-
-00:59:17:14 - 00:59:23:00
+00:59:41:21 - 00:59:47:10
 Speaker 1
 The motor vehicle is also thinking, oh, there's a lot of space, let me speed. And then it's just touch and go
 
-00:59:23:00 - 00:59:28:15
+00:59:47:10 - 00:59:53:00
 Speaker 1
 at the same time. Some amount of infrastructure is absolutely just a mark of respect.
 
-00:59:28:15 - 00:59:54:20
+00:59:53:00 - 01:00:19:06
 Speaker 3
 one gripe that they had right. Even when we had those nice nice cycling lanes right there, I mean, the short lived cycling lives, we never saw people who violated the bike lanes get pulled up. They clearly showed that. I mean, the only thing are they making sure people followed those rules was a big problem. And I mean, whenever that is not being done.
 
-00:59:54:22 - 01:00:21:08
+01:00:19:08 - 01:00:40:05
 Speaker 3
-So that clearly showed how much will the government had. I mean, that to me looked more like something that really do that's like a feel good thing. But don't expect to do any more that right. I mean, the government, at least the way I saw it, they did nothing to normalize cycling. They did nothing to even I mean, to get the traffic policemen up to speed with what's happening.
+So that clearly showed how much will the government had. I mean, that to me looked more like something that really do that's like a feel good thing. But don't expect to do any more that right. I mean, the government, at least the way I saw it, they did nothing to normalize cycling. They did nothing to even
 
-01:00:21:08 - 01:00:30:10
+01:00:40:05 - 01:00:44:11
+Speaker 3
+to get the traffic policemen up to speed with what's happening.
+
+01:00:44:11 - 01:00:53:14
 Speaker 3
 And I mean, I really how much of a I mean, how much of of training or sensitization the traffic cops
 
-01:00:30:10 - 01:00:31:19
+01:00:53:14 - 01:00:55:00
 Speaker 3
 would have gone through
 
-01:00:31:19 - 01:00:35:10
+01:00:55:00 - 01:00:58:17
 Speaker 3
 before these cycle lanes were introduced then
 
-01:00:35:10 - 01:00:41:09
+01:00:58:17 - 01:01:08:21
 Speaker 3
-that really shorten I mean all those times when people would talk to people on Twitter saying we've had fights, right?
+that really shorten I mean all those times when people would talk to people on Twitter saying we've had fights, right? It'd be like fights when people would stand and just block the place.
 
-01:00:41:09 - 01:00:44:18
-Speaker 3
-It'd be like fights when people would stand and just block the place.
-
-01:00:44:18 - 01:00:55:13
+01:01:08:23 - 01:01:19:19
 Speaker 3
 So considering all of that, I mean, I do think that the I mean, the fundamental really is, is missing. Even if we get the infrastructure that is probably
 
-01:00:55:13 - 01:00:57:16
+01:01:19:19 - 01:01:21:23
 Speaker 3
 going to come here and they're like,
 
-01:00:57:16 - 01:01:07:05
+01:01:21:23 - 01:01:31:12
 Speaker 3
 they'd like pieces of I mean, bits of charity handed out to us rather than really a fundamental mindset change and when and how we get there.
 
-01:01:07:05 - 01:01:13:15
+01:01:31:12 - 01:01:42:18
 Speaker 3
-I'm actually not I mean, I'm a bit of a pessimist right now and it it's probably going to take a lot of effort
+I'm actually not I mean, I'm a bit of a pessimist right now and it it's probably going to take a lot of effort from all of us and many more people to really get that.
 
-01:01:13:15 - 01:01:17:21
-Speaker 3
-from all of us and many more people to really get that.
-
-01:01:17:21 - 01:01:19:07
+01:01:42:18 - 01:01:44:03
 Speaker 3
 That mindset changed.
 
-01:01:19:07 - 01:01:20:15
+01:01:44:03 - 01:01:47:14
 Speaker 3
-among the people
+My instinct among the people who decide
 
-01:01:20:15 - 01:01:21:09
-Speaker 3
-who decide
-
-01:01:21:09 - 01:01:22:11
+01:01:47:14 - 01:02:14:21
 Speaker 1
-At the end of the day,
+I think we should have more people using the current infrastructure that we have and trying to get back on the road just purely because there is a lot of value personally for people to get on the bicycle. You'll really save time, do it in a structured way, find people who cycle and try and see if you can buddy up with them and try and see if we can.
 
-01:01:22:11 - 01:01:24:00
+01:02:14:23 - 01:02:25:11
 Speaker 1
-I think we should have
+If you can make, a few days count on the bicycle and see how you can make that a habit. In the end, it is in our personal interest to forget about you trying to save the planet or
 
-01:01:24:00 - 01:01:25:03
-Speaker 1
-more people
-
-01:01:25:03 - 01:01:28:01
-Speaker 1
-using the current infrastructure that we have
-
-01:01:28:01 - 01:01:30:03
-Speaker 1
-and trying to get back on the road
-
-01:01:30:03 - 01:01:31:14
-Speaker 1
-just purely because
-
-01:01:31:14 - 01:01:46:15
-Speaker 1
-there is a lot of value personally for people to get on the bicycle. You'll really save time, do it in a structured way, find people who cycle and try and see if you can buddy up with them and try and see if we can.
-
-01:01:46:17 - 01:01:55:06
-Speaker 1
-If you can make, a few days count on the bicycle and see how you can make that a habit. In the end, it is in our personal interest to forget about
-
-01:01:55:06 - 01:01:56:22
-Speaker 1
-you trying to save the planet or
-
-01:01:56:22 - 01:02:00:08
+01:02:25:11 - 01:02:28:21
 Speaker 1
 We have all seen that it actually has
 
-01:02:00:08 - 01:02:04:22
+01:02:28:21 - 01:02:41:20
 Speaker 1
-wonderful personal value for us. And I do believe at the end of the day,
+wonderful personal value for us. And I do believe at the end of the day, the corporates need to also start lending their voice in some way to make this a momentum.
 
-01:02:04:22 - 01:02:06:15
-Speaker 1
-the corporates need to also
-
-01:02:06:15 - 01:02:08:20
-Speaker 1
-start lending their voice in some way
-
-01:02:08:20 - 01:02:10:20
-Speaker 1
-to make this a momentum.
-
-01:02:10:21 - 01:02:15:02
+01:02:41:21 - 01:02:46:02
 Speaker 1
 That is what keeping up on that thought. I would like to
 
-01:02:15:02 - 01:02:17:07
+01:02:46:02 - 01:02:49:23
 Speaker 1
-thank you guys all. We seem to a
+thank you guys all. We seem to a lot lost Shilpi
 
-01:02:17:07 - 01:02:18:12
+01:02:49:23 - 01:02:57:04
 Speaker 1
-lost Shilpi
+this World Bicycle Day let us hope we have more people commuting to work and making this count
 
-01:02:18:12 - 01:02:22:09
-Speaker 1
-this World Bicycle Day let us hope we have more people commuting
-
-01:02:22:09 - 01:02:25:03
-Speaker 1
-to work and making this count
-
-01:02:25:03 - 01:02:26:02
+01:02:57:04 - 01:02:58:03
 Speaker 1
 Thanks a lot, guys.
 
-01:02:26:02 - 01:02:28:08
+01:02:58:03 - 01:03:00:09
 Speaker 3
 Thank you so much.
 
-01:02:28:10 - 01:02:30:00
+01:03:00:11 - 01:03:02:04
 Speaker 2
 For the wonderful opportunity.
 
-01:02:30:00 - 01:02:46:07
+01:03:02:04 - 01:03:19:22
 Speaker 1
-this a part of the commute series that we have been doing for the rest of you who are watching do like subscribe and share and see if you can spread the word about the podcast and chime in with your comments on
+this a part of the commute series that we have been doing for the rest of you who are watching do like subscribe and share and see if you can spread the word about the podcast and chime in with your comments on the YouTube
 
-01:02:46:07 - 01:02:47:19
-Speaker 1
-the YouTube
-
-01:02:47:19 - 01:02:51:02
+01:03:19:22 - 01:03:23:04
 Speaker 1
 channel and let's have a conversation going.
 
