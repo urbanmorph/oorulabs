@@ -1,1068 +1,748 @@
-00:00:03:04 - 00:00:26:14
+00:00:02:21 - 00:00:26:01
 Speaker 1
-Okay, we are on. Let's go. Welcome to another episode of the OoruLabs podcast from Bengaluru. Ever complained how bad our cities are, How bad your commute is, you'll get to hear from a lot of people who are working to solve these problems in their own way. This is your weekly soapbox for Urban Sustainability. So do not forget to like, subscribe and share these videos.
+Are we on? Let's go. Welcome to another episode of the OoruLabs podcast from Bengaluru. Ever complained how bad our cities are, how bad your commute is, you'll get to hear from people who are working to solve these problems in their own way. This is your weekly soapbox for Urban Sustainability. So do not forget to like, subscribe and share these videos.
 
-00:00:26:16 - 00:00:34:03
+00:00:26:03 - 00:00:55:01
 Speaker 1
-Check out the entire podcast library and profiles of the guests on the website. Podcast.oorulabs.com. Im your host Sathya
+Check out the entire podcast library and profiles of the guests on the website podcast.oorulabs.com I am Sathya Sankaran with Sonal Kulkarni today. The Netherlands has always been leading from the front for more than 40 years, but the adoption of cycling in many cities have skyrocketed post the pandemic. And just about a couple of weeks ago, I saw on the Internet Brussels has been the latest poster boy.
 
-00:00:34:03 - 00:00:46:19
+00:00:55:07 - 00:01:22:01
 Speaker 1
-We are speaking today with Dr. Anjali Karol Mohan. She's a partner at Integrated Design, where she leads urban planning projects. Her professional experience over the last three decades strategy, development, institutional and policy frameworks,
+In just four years, bicycle trips tripled and car trips dropped by 14%. India has seen an uptick as well, mostly beginning with recreational riding. The pandemic saw sales increase on an average by 20%, but some stores saw spikes that cleared out their stock. However, the bicycle is still seen differently in India, mainly as a tool for sports and recreation.
 
-00:00:46:19 - 00:00:48:15
+00:01:22:03 - 00:01:49:16
 Speaker 1
-urban planning and management and
+How do we change its image and increase? Adoption has been a challenge for most people, including me, who have been working in this domain to see how we can make this change happen. We have Professor Ruth Oldenziel a professor in the history of technology, and I know in University of Technology. She studied at Yale and has written many papers around sustainable transportation.
 
-00:00:48:15 - 00:00:50:17
+00:01:49:18 - 00:01:54:23
 Speaker 1
-information communication technologies and development.
+She is the editor in chief of the Journal of Technology and Culture, published by the
 
-00:00:50:17 - 00:00:56:13
+00:01:54:23 - 00:02:10:12
 Speaker 1
-She also teaches at the Center for Public Policy at National Law School. Bengaluru,
+Johns Hopkins University. Her cycling cities projects, documents, cycling history from 14 cities across nine countries over 100 years. And we'll talk to her more about this and how it has grown and many other things. Welcome to the show, Professor Ruth.
 
-00:00:56:13 - 00:01:05:20
-Speaker 1
-Kautilya School of Public Policy Hyderabad and Takshashila Institutions. She's a member of the Copenhagen based International Federation for Housing and Planning,
-
-00:01:05:20 - 00:01:10:14
-Speaker 1
-and she served on several task forces and expert committees. Most recently, she was the member of the
-
-00:01:10:14 - 00:01:15:14
-Speaker 1
-expert panel to the chief minister of Andhra Pradesh, advising on a statewide comprehensive urban development strategy.
-
-00:01:15:14 - 00:01:17:18
-Speaker 1
-And I know she has been working on the
-
-00:01:17:18 - 00:01:20:22
-Speaker 1
-Bengaluru masterplan of 2031, which
-
-00:01:20:22 - 00:01:22:12
-Speaker 1
-will be the topic of discussion
-
-00:01:22:12 - 00:01:23:23
-Speaker 1
-today. Welcome to the show, Anjali.
-
-00:01:23:23 - 00:01:26:12
+00:02:10:12 - 00:02:12:01
 Speaker 2
-Thank you. Thanks for the opportunity.
-
-00:01:26:12 - 00:01:30:00
-Speaker 1
-just before we hit the questions, I wanted to just set the
-
-00:01:30:00 - 00:01:32:12
-Speaker 1
-context to the viewers so those who don't know
-
-00:01:32:12 - 00:01:40:00
-Speaker 1
-a master plan for a city or a region is a long term planning document. Typically 15 years that provides a conceptual layout
-
-00:01:40:00 - 00:01:43:02
-Speaker 1
-guide the future growth and development of the city or region.
-
-00:01:43:02 - 00:01:44:07
-Speaker 1
-For Bengaluru,
-
-00:01:44:07 - 00:01:48:17
-Speaker 1
-the order to prepare a master plan for 2031, which issued in 2017.
-
-00:01:48:17 - 00:01:52:22
-Speaker 1
-And the reason is there was a plan master plan before that, which ended in 2015,
-
-00:01:52:22 - 00:01:54:12
-Speaker 1
-and that's the one that was currently
-
-00:01:54:12 - 00:01:55:14
-Speaker 1
-trying to be revised
-
-00:01:55:14 - 00:02:06:00
-Speaker 1
-and we are in 2023 now. There was a PIL left of the master plan was prepared and Anjali was a part of preparing that masterplan, along with many other agencies like Royal Haskonings and many others.
-
-00:02:06:00 - 00:02:14:20
-Speaker 1
-This was commissioned by the Bengaluru Development Authority. The idea was to revise the master plan of 2015, bring another one for 2031, because it's like a 15 year time frame.
-
-00:02:14:20 - 00:02:16:19
-Speaker 1
-But after the PIL it got shelved,
-
-00:02:16:19 - 00:02:18:19
-Speaker 1
-And now there are talks
-
-00:02:18:19 - 00:02:19:02
-Speaker 1
-of
-
-00:02:19:02 - 00:02:23:05
-Speaker 1
-a 2041 master plan. But a lot of work has gone into the
-
-00:02:23:05 - 00:02:24:02
-Speaker 1
-already.
-
-00:02:24:02 - 00:02:27:01
-Speaker 1
-But the most startling fact in all of these things
-
-00:02:27:01 - 00:02:35:16
-Speaker 1
-is reportedly only 14% of whatever was mentioned in the 2015 plan was implemented, not seen on the ground.
-
-00:02:35:18 - 00:02:40:22
-Speaker 1
-Of course, there are many ways of calculating this. It could be 14 being it could be 15, but a very small percentage
-
-00:02:40:22 - 00:02:57:23
-Speaker 1
-of whatever was specified in the master plan actually got implemented. Which leads me to the question, Anjali is with such low rates of adoption of whatever we say, whatever you put in the master plan, do you think master plans really are useful anymore
-
-00:02:57:23 - 00:03:00:02
-Speaker 1
-and are they an outdated concept?
+Thank you for inviting me.
 
-00:03:00:02 - 00:03:01:03
+00:02:12:01 - 00:02:17:23
 Speaker 1
-What do you say?
+Do you think cycling as a commute vehicle in the cities has a future in this world at all?
 
-00:03:01:03 - 00:03:40:20
+00:02:17:23 - 00:02:56:09
 Speaker 2
-to begin with, I, I will use the word master plan. So in in the absence of any other word that we have for an open plan. So what we need is a will to answer your question directly in one lane. No. Three, The master plan is very much needed. I don't think that there is any any doubt in my mind that an urban planner, the city plan is an outdated concept, that it's a it's a concept that is not required or tool that is not required.
+I'm actually quite surprised that you asked me that question, but that's maybe because I am very fortunate to be in a country where cycling is primarily a commuter vehicle. And I think the magic or the the key is in the Netherlands, at least that the combination of cycling with the train as before and after transport is really what has driven commuting by bicycle.
 
-00:03:40:20 - 00:04:01:10
+00:02:56:09 - 00:03:32:01
 Speaker 2
-It's very much needed. Having said that, there is a problem in the way of a master plan that conceived the process. We followed the way these are visualized, the way these visualize the city. So there is a problem in the process itself, and then by extension, what the process produces. So both there is a there is a problem.
+it's not the only way. And let's tease out some of this. So when we say cycling, cycling can mean a lot of things, as you already indicated in your introductory remarks, it can be touring a lifestyle. It can mean a commuter bike. It can mean to get to friends to do shopping. But it also in many parts of the world, it means the lifeline for pedalers who use it to transport cargo.
 
-00:04:01:10 - 00:04:32:05
+00:03:32:03 - 00:04:20:09
 Speaker 2
-And to say that a master plan is not needed is like almost throwing the baby out with the bathwater. So we do need the master plan for sure, or an urban plan. In the case of Karnataka, actually, we have been a little regressive. Till 1995. The plan was always referred to as a comprehensive development plan. And Karnataka across the country was lauded for having that that part of its statutory framework, having moved from calling it a master plan to a comprehensive development plan.
+So when we take just this one aspect of commuting, there's no doubt in my mind that the bicycle can have that function. But it of course, depends very much on your urban planning. Is your city compact? Then you can commute by bike. Probably. If if your site of work is within cycling distance, that's one factor. But as I indicated in the Netherlands, I myself, I commute an hour and 10 minutes by train and I have bicycles on each sides or I walk and I can cover long distances.
 
-00:04:32:07 - 00:05:02:14
+00:04:20:09 - 00:04:54:10
 Speaker 2
-And somewhere in the late nineties, we don't know what happened. I think the town Planning Department took this call to go back to calling it a master plan. There was a nationwide debate on whether there is a lot that a name holds, like the word masterplan itself. Like, why should you call it the master plan? It is something that has to integrate and converge on various development initiatives, guide and steer them, and therefore, let's call it a comprehensive development plan.
+So urban planning is just one piece of that story. And the second is that with e-biking. The distance also has been lengthened off the radius. So it really depends on the context what whether we can answer that question. But just as a general said, absolutely. And it is a very convenient means of transportation. It's it's cheap, it's flexible.
 
-00:05:02:14 - 00:05:27:13
+00:04:54:12 - 00:05:13:00
 Speaker 2
-We have taken that that Karnataka had taken the lead on that, but then unfortunately, we lost out on that. So so I am talking about the whole idea of the name Comprehensive Development Plan. Is that what we need is something that actually reflects the philosophy of comprehensive development for the larger city, and that's what the masterplan is required to do.
+And I can tell you from a country that is known where there's a lot of rain, that when you ask people why they're not commuting by bicycle, they always say, well, it rains. Well, the cyclists union in the Netherlands has calculated
 
-00:05:27:15 - 00:05:57:08
+00:05:13:00 - 00:05:24:14
 Speaker 2
-And clearly, the process we follow and what it produces is largely embedded in a very colonial set up and a largely a colonial mindset. And we have taken forever to actually change it. What is required is a change in the structural frameworks which allow the plan to look beyond the the land use plan. So as you know, the plan is actually a land use plan largely a land use plan trade.
+how often it's that it actually rains. So can you take a guess or any of your listeners, what would you guess how, you know, the Netherlands is a little bit like England?
 
-00:05:57:10 - 00:06:20:19
+00:05:24:14 - 00:05:27:15
 Speaker 2
-And that is what was largely a comes from a very colonial way of thinking where land is looked upon as an asset and you want to actually monetize on land and create revenue through land. And that's where the visibility of that use of land and land itself was very critical and that's what we continue to do with. But that I think needs the overhaul.
+What would your guess? How often does it rain?
 
-00:06:20:19 - 00:06:42:04
-Speaker 2
-And there is no doubt about it that the process itself and the way we actually conceptualize cities is the way we look at cities. That is definitely the need for the overhaul. So basically, again, coming back to your question, we do need a plan and right now you can see it. We have a very outdated plan while we see that as a revised master plan for 2015.
-
-00:06:42:04 - 00:07:13:22
-Speaker 2
-Don't forget that the database or the land deals that it is operating on, the understanding of the land use is something that was recorded in 2007. So we are almost 14 years more than 14 years from that database. And this is really obnoxious for the city, which is growing even as we speak. So there is just so much dynamism in the cities, especially cities of the global South, which are just growing leaps and bounds.
+00:05:27:15 - 00:05:29:13
+Speaker 1
+maybe 70%? No.
 
-00:07:13:22 - 00:07:29:14
+00:05:29:15 - 00:05:31:21
 Speaker 2
-And to go in the light on the on the database or the platform that was that was actually recorded in 2007. So we definitely need an urban plan or a city plan, but also an overall, overhauled process of the same.
+Not 6%.
 
-00:07:29:16 - 00:07:45:16
+00:05:31:23 - 00:05:32:23
 Speaker 1
-Sort of let's deep down into some of those things. One is the comprehensive development plan versus master plan. Why is that? You also said that the development plan is a part of the master plan. So are these two different things, are they the same thing significant? What is the advantage of using the word comprehensive development plan?
+Really? Wow.
 
-00:07:45:18 - 00:08:20:15
+00:05:32:23 - 00:06:00:01
 Speaker 2
-So so while we did not take the whole Karnataka was not able to take it to fruition, but the idea at the national level at that time was that instead of calling the city plan a master plan, let's call it a comprehensive development plan. So before we are in 2015, the official terminology for the plan that we had at that time was CDP 1995, which got revised to become RMP 2015 revised master plan of 2015, which is to be revised to become RMP 2031.
+Yes. So here is also, I think one element that we find in research is that perceptions play a big role. What motivates people to to go in and work or not? And that is very important when you create policy, is to really listen carefully how people reason and what what they see, how they perceive the bicycle.
 
-00:08:20:17 - 00:08:43:14
+00:06:00:01 - 00:06:11:14
 Speaker 2
-So the plan is the same, but the idea was also to bring in, if you call it the comprehensive Development plan, then let's look at what other aspects of development need to be integrated or woven into, say, the spatial aspects of the city and how do we visualize these together. To be able to steer the growth of the city.
+I would assume that in India, you were referencing the fact that there's a lot of uptake in leisure biking.
 
-00:08:43:14 - 00:09:01:02
+00:06:11:16 - 00:06:19:20
 Speaker 2
-That was the idea, but we didn't really move too much ahead on it. And we went back to calling it a master plan and also the legal frameworks or the statutory frameworks, which is largely the Karnataka Town and Country Planning Act. Not much has changed over there. It continues to define the master plan as a land use plan.
-
-00:09:01:16 - 00:09:06:20
-Speaker 1
-So the idea was that the development would bring some other angles beyond land use, the.
+But I would also assume that in India, many, many people are using the bicycle to transport goods.
 
-00:09:06:20 - 00:09:35:23
+00:06:19:20 - 00:06:48:03
 Speaker 2
-Larger understanding, a larger perception of what the city needs, what the city needs to, how the growth of the city needs to be steered. And if you were to ask me, the idea at the point was to actually move beyond the spatial understanding of the land use, which is largely embedded in of the spatial understanding of the land use to also a socioeconomic understanding of the length of the city, etc..
+And usually that means, unfortunately, that it has a reputation of being low class of people who cannot afford a car. Now that mindset is really unfortunate because where I come from as a historian and of technology, I think the bicycle is one of our most brilliant innovations of all times.
 
-00:09:36:01 - 00:10:05:08
+00:06:48:05 - 00:07:12:19
 Speaker 2
-So that was what was what we were trying to do. And 30 years hence we are saying the same thing. So we are constantly pushing with government saying that let's move beyond the spatial plan to also understand the socio economic aspects, the socio cultural, the socio political. All these are very important frames for the city and unless we don't start to think between within these frames, we are continuing to do a disservice to the city in the way the master plans are conceived.
+Why am I saying this? Well, I mean, from an innovation point of view, if you look at innovations in the 1890, when the bicycle came to, you know, matured as a very handy mode of transportation, it it was quickly adopted as the most, you know, the modern machine.
 
-00:10:05:10 - 00:10:22:19
-Speaker 1
-So do you think in order for us to change the official terminology, to CDP the Karnataka Town and Country Planning Act should also mention that you're mandatorily required to bring in not just a master plan, but a comprehensive development plan or something like that, or the legal provisions or enough. Just call it CDP and still do it.
-
-00:10:23:00 - 00:10:57:20
+00:07:12:19 - 00:07:17:04
 Speaker 2
-There are the legal provisions, call it the master plan, what it needs to be, and I believe the name holds a lot of it actually direct you. Right. So it may be good to call it a city plan, a comprehensive development plan, and urban and regional plan. You can call it anything. But what it also needs to do is to move to define it, not just a mere land use plan, but to also go beyond that and seek the socioeconomic aspects that need to be brought in and then outline what are some of these aspects that the plan needs to cover.
+you could say from an innovation point of view, it hasn't changed much,
 
-00:10:57:22 - 00:11:05:06
+00:07:17:04 - 00:07:20:23
 Speaker 2
-Having said that, again, the other problem with the entire plan is that it is prepared at a distance which is too far from the ground.
+but that also means that it has proven its utility.
 
-00:11:05:06 - 00:11:19:09
+00:07:20:23 - 00:07:54:17
 Speaker 2
-So it is a very centralized way of looking. It's prepared by one authority, the Bangalore Development Authority, which conceives the city from the top. But basically it's a top down plan where we are sitting and looking at the city from the top.
+what is so interesting, if you look over time, the bicycle was once the most modern thing that anyone could purchase, and it was highly valued and everybody wanted it. Then it got as more and more people were using it high class in middle class. And that tastemakers we're really casting it as something for the poor, something that was not desirable, particularly because the car industry, of course, made sure to put four wheels.
 
-00:11:19:10 - 00:11:46:05
+00:07:54:17 - 00:08:26:09
 Speaker 2
-What we are not trying to understand is how the city, what is the city that exists on the ground. And there's a huge gap between what is actually the city that they imagine and plan for in the in the in the master plan is very different from the city that exists on the ground. And that's what you started off by saying that only a 14% implementation, that number could be 24, that number could be 35.
+The car as the modern machine. Now we're in interesting times because you will find not only in many countries that the bicycle is embraced as really our best vehicle for a more sustainable future. But we also find and maybe you can enlighten me on India in this respect, that you might have two kinds of representation ideas of what cycling is.
 
-00:11:46:09 - 00:12:06:09
+00:08:26:09 - 00:08:50:20
 Speaker 2
-Nobody knows actually, because we barely do an assessment of the implementation of the plans. But what exists on the ground is not what the master plan has envisaged. So there's a gap between the plan city and the every day city and that's because we are not able to. We are only doing one part of the process, which is a top down understanding, which is very much needed.
+On the one hand, as a vehicle of the poor and on the other hand as a leisure machine. I know examples in Africa, for example, in Mozambique, it is seen as only rural people cannot afford a car use it. But at the same time, in Maputo, if you are high class and on some days you do a bicycle.
 
-00:12:06:10 - 00:12:15:18
+00:08:50:21 - 00:09:16:09
 Speaker 2
-I'm not saying it's not needed. It is needed. But what we are missing out is the bottom up understanding of the city, and that's where the masterplan process in itself is flawed.
-
-00:12:15:18 - 00:12:36:08
-Speaker 1
-It's a very good weaving in of three questions I wanted to ask. One is I want you to elaborate on the not top down approach, which gives us kind of understanding of how it should be done. The second one was the low implementation rates, which you believe is a part of the because of the process being flawed. So these are two questions in one.
+Now, now from an innovation point of view, still a thing on two wheels. All right. So it's only the image in our mind of what it means that is so very important. And so, you know, this is a very roundabout way to to your question. Is the bicycle, the vehicle for the future for commuting? Absolutely, yes.
 
-00:12:36:08 - 00:12:38:02
-Speaker 1
-Why don't we take a stab at trying to
-
-00:12:38:02 - 00:12:53:07
-Speaker 1
-deep dive into this process itself and say, what is the flaw in this top down process? Why is it is it difficult to flip that around and do a bottom up on the other hand? And what does bottom up really mean? Who else is supposed to feed into this?
+00:09:16:09 - 00:09:30:20
+Speaker 3
+in your reply to this question, you were talking about car being one of the means of all or actually being aspirational for many people here in India and many other countries.
 
-00:12:53:07 - 00:12:57:14
-Speaker 1
-Let's do the whole deep dive now and tell the people what could be done better
+00:09:30:20 - 00:09:43:20
+Speaker 3
+speaking from that, I would like to ask you this question. So what, according to you, has been the influence of an automobile in the way cities have been built over the past, you know, of decades?
 
-00:12:57:14 - 00:12:58:10
-Speaker 1
-okay
+00:09:43:22 - 00:09:51:13
+Speaker 3
+I would say both in America and how American city building has influenced other countries.
 
-00:12:58:12 - 00:13:20:21
+00:09:51:13 - 00:10:15:12
 Speaker 2
-So when you say there is a top down approach to planning the city, this is largely by the BDA. Please keep in mind that the city is not just about land and its uses. That's what the masterplan of the BDA puts in place. The city is also, for example, about water provision. It's about sanitation. It's about solid waste management.
+Without a doubt. I mean, you cannot tell the story of the bicycle without taking into account the enormous power that the automotive industry has had, the impact all over the world, globally. Now, there's a really fantastic book of colleague Peter Norton on
 
-00:13:20:21 - 00:13:54:06
+00:10:15:12 - 00:10:31:00
 Speaker 2
-It's about roads. And that's the physical infrastructure. It's a lot about social infrastructure, like schools, hospitals, open spaces. Then there are a lot more other tangible, small cultural spaces that the city may require, that a neighborhood may require walking spaces, gathering spaces. City is all about these things, right? And it's for everybody. Now, forget that the the involvement of the people in the city is there right now.
+On Traffic and the campaign of US industry since 1927, really to export this notion that the car is the only way to the future.
 
-00:13:54:08 - 00:14:22:23
+00:10:31:00 - 00:11:00:03
 Speaker 2
-The the BDA is not even, for example, interfacing with a lot of it's or the government is not even interfacing with a lot of itself. So the BWSSB is not really involved in the evolution of the masterplan, the PWD or the BBMP, which is the main administering authority, is also not involved in Masterplan. So first there is a gap over there and that's a horizontal gap between the arms of the state itself.
+Now we have to remind ourselves that in the 1920s and thirties the car was a very expensive it was a toy thing for for high class or stock. Ritchie royalty. And it really did not have as as a college house. One always reminds me it took a long, long time for the car to become accessible to the male middle class.
 
-00:14:23:01 - 00:14:46:22
+00:11:00:05 - 00:11:32:20
 Speaker 2
-Then there are stakeholders who are. Then there is the stakeholder and a knowledge system that exists on the ground, the sub-city level. You make call it your ward level within the planning language. It's called the planning district, but that's a very large unit. So you need to break it down to the ward or maybe even the sub-ward. Now, that is a reading of the city that is completely missing at this point in time.
+And it took an enormous propaganda machine to to make that happen. And I'm pointing this to a couple of things. So the fact that the US became a superpower after the war and was instrumental in building up and defeated countries in Europe and made suburbia and the car future, part of that vision was, of course important. And we see this also in China since the 1990s also has embraced it.
 
-00:14:47:00 - 00:15:15:03
+00:11:33:00 - 00:12:07:16
 Speaker 2
-So because the BDA can't do that, it doesn't have extension arms which are sitting in, for example, the wards. The BBMP has some sort of a presence in the wards. But the Bbmp is not plan making agency. It's only the plan implementation agency. So therefore the the think is that we are just operating at that level, which is too much at above the surface.
+And there are many countries that are struggling with that vision because it does not always fit urban development. So that American driven auto mobility has been important. But at this point, I cannot say that it is a an American vision. It is shared by many middle class and upper class people. One and two, what's also important, let's let's also look at our labor unions in the 1950s.
 
-00:15:15:05 - 00:15:49:15
+00:12:07:17 - 00:12:37:22
 Speaker 2
-If we take the city as the surface that this is above the surface. And while that view may be important, but it's limited. Now how do we actually provision planning at the sub city level? That's what the 74th constitutional Amendment does. What it says is that the urban and regional planning as a function, which is a state function, needs to be devolved to municipality, and the municipality should prepare a plan for its jurisdiction, a spatial plan, a socioeconomic plan for its jurisdiction through its ward committees.
+Labor unions taking forward as an example. And General Motors really saw that workers could get good incomes. If you supported the automotive industry. So the automotive industry became the gold standard for economic progress for. So labor unions everywhere are supporting that economy, that fossil fuel economy. And then I think that that is also something that we need to acknowledge.
 
-00:15:49:21 - 00:15:53:08
+00:12:38:00 - 00:13:00:18
 Speaker 2
-So what we need is that's why we say a ward level plan.
+Now, at some point, the workers who were making the cars were not necessarily the same people that were buying the cars. I think they got good incomes, but they were not the consumers of that. But that over time, the people who made the cars are more and more aspiring to become also the consumers of the very products that they're making.
 
-00:15:53:08 - 00:16:14:11
+00:13:00:20 - 00:13:30:19
 Speaker 2
-So a ward level plan has to be prepared. And this if you prepare 100 plans, then the BBMP is the agency which will look at these 100 plans and iron out all the differences, what its jurisdictions. So that's where the city plan will fall in place. And once the BBMP has done it, then for instance, Magadi needs to do it and Anekal needs to do it.
+So that is a back story that is very important to look at. And I'm just taking China as an example, but you can find this story locally all over the world, is that China has invested in the car industry as the gold standard for economic growth. At the same time, it's also and it has also that vision that every Chinese should have a car.
 
-00:16:14:11 - 00:16:36:22
+00:13:30:21 - 00:13:46:14
 Speaker 2
-And that needs to come up for the travel up further. And that's where the regional planning should come in place. So for Bangalore we have a region of 8000 square kilometers with about 11 municipalities. So each of these municipalities should prepare its plan and then the region should then iron out those differences, the overlaps, the gaps, all that should be done.
+But it's also exporting that vision to places in Africa. And it's and it's also producing lots of bicycles for an export market. So we need to address that issue as well.
 
-00:16:37:00 - 00:17:01:04
+00:13:46:14 - 00:13:48:14
 Speaker 2
-That's one process that is envisaged in the 74th Constitution Amendment Act. The other process that so that's the bottom up process. Now, if you will see then what is, for example, the BMRDA or the MPC Metropolitan Planning Committee supposed to do. It's supposed to give us a framework within which these plans have to be prepared
-
-00:17:01:04 - 00:17:22:07
-Speaker 1
-So before we jump in, I want to explain a few of these things, and maybe you are the best person to explain this. The masterplan is so the 74th Amendment tells the city, which is the bbmp in our case in the city, the city corporation to do a plan. Or it says you need to construct it. So help me.
-
-00:17:22:07 - 00:17:47:02
-Speaker 1
-It's been the layers. And this there is the bbmp. Well, there is the Bangalore development that bbmp, which is the local corporation, is not doing the masterplan. The Bangalore Development Authority is doing the masterplan. But that's for a separate region. Yes. And then we have these 11 municipal municipalities or town municipal corporations which also participate in the masterplan, or do they participate in something else?
-
-00:17:47:04 - 00:17:53:08
-Speaker 1
-And there is this 8000 square kilometers, because I know BDA’s jurisdiction is around
-
-00:17:53:08 - 00:18:08:21
-Speaker 1
-1080, 1000, approximately 1,200 square kilometers. Then there's the Bangalore metropolitan region, which is 1600, 1800. And then there is the Bangalore Metropolitan Regional Development Authority region, which is 8000 square kilometers in Bbmp itself is around 730 plus.
+And in cities
 
-00:18:08:23 - 00:18:09:14
+00:13:48:14 - 00:13:50:17
 Speaker 2
-Okay.
+where there is a bicycle industry
 
-00:18:09:16 - 00:18:15:02
-Speaker 1
-Let me just ask you all, how can you piece this together for our audience so that they understand when we say the next.
-
-00:18:15:02 - 00:18:44:05
+00:13:50:17 - 00:14:02:11
 Speaker 2
-So let's start from the largest region. So we have. Okay, Let me start from the lowest one, which is your BBMP, it's a municipal area, which was jurisdiction 700 odd square kilometers. Let's say 800 square kilometers. And Bangalore is also, if you're able to imagine it, it's a concentric city. So the first circle, the innermost circle is 800 square kilometers.
+in China, for examples in France, and I'm sure in India as well, you will see that bicycle policy is also much more vibrant and and viable.
 
-00:18:44:07 - 00:19:15:08
-Speaker 2
-Okay. Then what we have in the Indian context is what we call the local plan to give you LP. That is the jurisdiction of the BDA, and that's purely a planning jurisdiction, which is this 1100 or 1000 odd square kilometers. Let's say it's about 1100 odd square kilometers. This is just the extension of. So that's the second concentric ring, which is very close to the first one, 800 and thousand 100.
+00:14:02:11 - 00:14:14:03
+Speaker 3
+what was the role of the automobile in changing the way like the cities were envisioned and how they cycle like cycling as an option sort of became
 
-00:19:15:09 - 00:19:40:13
-Speaker 2
-And then you have the third. The area is the 8000 square kilometers, which is your Bangalore metropolitan region. So 8000 is the Bangalore metropolitan region. 1100 is a metropolitan area and 800 is the Bangalore Municipal Corporation. So we have three jurisdictions. The first one is what the planning agency for that is the BMR,
+00:14:14:03 - 00:14:15:02
+Speaker 3
+secondary
 
-00:19:40:13 - 00:19:43:07
+00:14:15:02 - 00:14:26:21
 Speaker 2
-Bangalore Metropolitan Region Development Authority.
+I think the urban planning vision of you have a business center in the middle and then you have suburbia where people can have a
 
-00:19:43:09 - 00:20:17:14
+00:14:26:21 - 00:14:53:19
 Speaker 2
-And Bangalore is again one of the first few cities in the country which actually defined the region for itself. And it's a very well defined region and a very well constituted act of the which the plan has to be prepared, which is your BMR plan. Then next is the Bangalore Metropolitan area, which the BDA is supposed to prepare a plan for that, which includes the 800 square kilometers and then is the bbmp, which is only administering that and not preparing the plan for the.
+middle class lifestyle is very important. You see see that in inner cities around the world. I also think that it's it's not a one on one development because even in the U.S., there was always a a struggle between the car industry in the one hand and the public transit operators.
 
-00:20:17:16 - 00:21:01:08
+00:14:53:21 - 00:15:28:19
 Speaker 2
-So bbmp is the elected government media and be smart about parastatals. And what the Constitution says is that we have to do away with the status quo. So the bbmp becomes because it is an elected government, it becomes should be the plan making agency so that there is a level of accountability for the plan that gets prepared and for the plan that gets implemented so that for the municipal level and if within the 8000 square kilometers we have 11 or 12 municipalities, each of them is an autonomous unit of governance, which is supposed to look after its own planning and its implementation.
+And that is also a matter of public policy. Does. Does your city invest in public transit or not? So it is and it's not that the car industry is to be blamed for everything. It's also where their public policy has been investing in public transit and use developing it in relationship to its urban planning. Right. So there has been a suburban development that was based on public transit.
 
-00:21:01:10 - 00:21:29:12
+00:15:28:19 - 00:16:01:20
 Speaker 2
-And bringing them together in the region is the job of the Bangalore Metropolitan Nation Development Authority. Now, what the constitutional amendment said was that let for the larger metropolitan areas where a lot of your regional infrastructure becomes very critical. Roads are not restricted to a municipal boundary. They extend a lot outside them and move on from your ecological zones to the current context.
+And now I'm going to complicated a little bit for you, because as we have found in our research, is that where public transit is finally green and cheap and traveling big distances, you will not find cycling. We find it in cities actually where and now, traditionally, historically, you will find it in places where public transit has, for example, been too expensive for the working class.
 
-00:21:29:12 - 00:22:14:21
+00:16:01:22 - 00:16:39:06
 Speaker 2
-The river doesn't know rural and urban boundaries. It just floats your forests. All these are because they are beyond administrative boundaries. You need some sort of integration. And how do you deal with this regional infrastructure? That's where the Metropolitan Planning Committee was recommended as an elected government, not as a state. So while there is a BMRDA but what it says is that at that level you should have metropolitan MPC not at the BDA level at the BMRDA level and MPC, which will be actually doing the coordination for the various municipalities and the panchayats within its jurisdiction.
+That is the story of Amsterdam. Amsterdam had a relatively expensive public transit and and the Netherlands, like Denmark, had relatively late automobile. So in this historic moment, you had people opting for cycling because it was cheaper and because cars were more expensive and were not viable yet. That was what happened in the 1970s. So there were still mobility options and there was not yet a sprawl.
 
-00:22:14:23 - 00:22:43:00
+00:16:39:08 - 00:16:57:02
 Speaker 2
-So that is the hierarchy that we have. And each of these, whether it's a child or a municipality, is supposed to prepare its own plan through its wards. So we also have panchayats which have their wards, villages which are divided into wards. So other municipalities and the wards either plan making units for each of these jurisdictions. So there is actually an amalgamation of a top down understanding and a bottom up.
+But of course, the U.S. and Australia and New Zealand, there are examples where urban sprawl is really to be blamed for not only that, there's no cycling, but also not pedestrian ism. If you look at the modal split,
 
-00:22:43:02 - 00:22:57:12
+00:16:57:02 - 00:16:58:09
 Speaker 2
-And what your MPC or bbmp is supposed to do is iron out the differences, the overlaps, the gaps between the various plans that emerge from the bottom and actually converge it with the top down framework.
+it's dramatic.
 
-00:22:57:12 - 00:23:03:06
+00:16:58:09 - 00:17:13:15
 Speaker 1
-So has the MPC been set up correctly, you think? Because I think the Secretariat is BMRDA or is it the BDA.
-
-00:23:03:08 - 00:23:12:07
-Speaker 2
-No, the MPC has been notified that the BDA scale, which doesn't make sense what coordination really between whom. Yeah there is only one agency.
+more populated cities in countries like India would need to invest in public transit as well. And that is something that is afoot. There is a lot of that going around. What was interesting is while
 
-00:23:12:11 - 00:23:14:10
+00:17:13:15 - 00:17:25:12
 Speaker 1
-Yeah maybe Ramnagaram.
+the Netherlands had a culture of cycling and public transport grew, and I don't know if it is more affordable now that more people are taking to public transit.
 
-00:23:14:12 - 00:23:23:01
-Speaker 2
-No Ramnagaram is also not part of it. Although that is a part of the region. So it's only BDA, BDA LPA.
-
-00:23:23:03 - 00:23:27:03
+00:17:25:13 - 00:17:38:13
 Speaker 1
-Which is almost like just having BBMP and BDA just doing their own. Yeah. So yeah.
-
-00:23:27:06 - 00:23:46:14
-Speaker 2
-There is no coordination that it can do at that level. So the MPC should be notified at the BMRDA level the BMRDA should is is and this is all there in the Kasturirangan report and they gave a fantastic recommendation where they said we cannot disband a lot of these authorities and the skills that they have.
-
-00:23:46:14 - 00:24:09:10
-Speaker 2
-So let's notify the MPC at the BMRDA level have the BMRDAA be the planning wing of the MPC let's have let's have the BDA as the planning wing of the BBMP, let it continue to plan for the jurisdiction of the Bbmp. So let that happen and then let the coordination happen between various.
+But is there an adaptation to use Cycle plus train, which you mentioned very, very much in the beginning, because we're seeing that populated countries like India do end up having a little bit of a sprawl because
 
-00:24:09:10 - 00:24:20:10
+00:17:38:13 - 00:17:42:05
 Speaker 1
-So by doing this way, one question that I had was before we go into trying to restructure this to BMRDA does a structure plan is what I've heard.
-
-00:24:20:15 - 00:24:21:07
-Speaker 2
-Yes.
+there is a fear of not being able to manage
 
-00:24:21:07 - 00:24:46:20
+00:17:42:05 - 00:17:43:14
 Speaker 1
-But you're saying constitute at the BMRDA level the ability to do comprehensive development plan. Do you think now the structure plan is not sufficient to hold things together and that constituting making the master plan or the CDP comprehensive plan at the BMRDA level is what you feel is required? So the structure plan is not the same as the CDP?
-
-00:24:47:01 - 00:24:47:20
-Speaker 2
-Yeah, the structure.
+dense development.
 
-00:24:47:22 - 00:24:50:16
+00:17:43:14 - 00:17:49:18
 Speaker 1
-That's why it is your way. Why you would need the CDP.
-
-00:24:50:16 - 00:25:14:06
-Speaker 2
-One clarification. The CDP is required at the municipal level. Okay, let's get that right. The structure plan or the which is essentially a policy document is required at the regional level. So immediately the structure plan in the CDP one is that one should be a spatial as well as a socio economic plan, and the other is a policy document.
-
-00:25:14:08 - 00:25:38:14
-Speaker 2
-So at the regional level, you need a structure plan or a policy plan which lays out the policy framework within which your land use and your socioeconomic planning has to happen at the city level. You need the CDP because that will actually bring together the idea of what happens if the city which doesn't is not really true, which doesn't hold true for the region
+And that fear arises from the fact that more and more people are choosing to buy motor vehicles.
 
-00:25:38:16 - 00:25:58:10
-Speaker 2
-So the city will look for its own jurisdiction and start to plan for it. It's based it derives from the principle of subsidiarity when it sees that problems that are faced at a certain level should not go up beyond that level. So the city and its sub jurisdictions of the wards is where a lot of the planning has to happen.
-
-00:25:58:12 - 00:26:21:10
-Speaker 2
-The long term planning has to happen at the regional level. Right. So the difference between the two is one is a policy document and one is an action plan should be an action plan. One gives the guidance for the policy document, will give the guidance for the action plan. That's that's the essential difference. We need both the plans and what we are.
-
-00:26:21:11 - 00:26:33:02
-Speaker 2
-Current constitutional amendments is that they should be democratically prepared plans. Right now they are actually lagging within the parastatals
-
-00:26:33:04 - 00:26:41:00
+00:17:49:19 - 00:18:09:10
 Speaker 1
-Right. So what the BMRDA prepare is a structure plan. Technically, it might be something that might have anything is not
+Obviously, you know that the aspirational goals in most developing countries has been to buy a more complex vehicle, which is more expensive. Just so you can say that I own something very complex in my hand and I can afford it. And that has always been it. And the industry likes it because more complex, more the cost and more the economic growth.
 
-00:26:41:00 - 00:26:46:00
+00:18:09:10 - 00:18:14:14
 Speaker 1
-legally valid as a document that can because it's not passed by any legislative body.
-
-00:26:46:00 - 00:26:48:01
-Speaker 2
-No, no, no. It's a legally valid document.
-
-00:26:48:01 - 00:26:52:14
-Speaker 2
-It's notified and approved the same way that the master plan gets modified in local
+In fact, they apparently the automobile industry is responsible for 7% of our GDP.
 
-00:26:52:14 - 00:26:53:16
+00:18:14:14 - 00:18:36:16
 Speaker 1
-But it is not
+But people don't look at the costs of that and GDP growth that arises out of that. But my interesting question is, there has been, like you mentioned, car dependance in certain countries like the United States, because the motor vehicle industry grew out of there. There has been where motor vehicles have been manufactured, like you said, like the like Germany and others.
 
-00:26:53:16 - 00:26:56:10
+00:18:36:16 - 00:18:39:08
 Speaker 1
-approved by an elected body of.
+There have been slightly more car dependent. But
 
-00:26:56:10 - 00:27:18:10
-Speaker 2
-Yes, yes, yes, yes. Right. That's what it is. It is by the urban development department following the same process. But the plan preparation does not happen by an elected body in both the cases. And that's what the 74th constitutional amendments is, that we have to prepare plans democratically.
-
-00:27:18:10 - 00:27:27:05
+00:18:39:08 - 00:18:55:11
 Speaker 1
-But then the master plan is also a legal document because it's made by a government department, the administrative wing of it. Correct. By by the BDA preparing
+What do you think moved Netherlands away from car dependance? And are you do you think it is a permanent move or do you think there is always constantly forces to get people back on what is controlling this balance and how does it shift? What is the role of the train and cycle?
 
-00:27:27:05 - 00:27:39:23
+00:18:55:11 - 00:19:01:16
 Speaker 1
-It doesn't give itself credence because it's not a democratically elected. It doesn't have a democratically elected component to it. Yes, because Bbmp has the council and this. So ideally Bbmp should be making for Bengaluru, which means if you want to do for
+If you think cycling will only work in cities which don't have affordable transit networks?
 
-00:27:39:23 - 00:27:51:11
+00:19:01:16 - 00:19:06:02
 Speaker 1
-1200 you said bbmp becomes 1200 or for the 736 you do what you need to do in and then pass it. Yes. BDA doesn't have an equivalent council for approval.
+Is that desirable or is there a mix in between? What do you think? How have people done this?
 
-00:27:51:16 - 00:27:52:23
+00:19:06:06 - 00:19:32:06
 Speaker 2
-Exactly.
-
-00:27:53:01 - 00:28:21:06
-Speaker 1
-But by. So let's say if this task were to be given to the municipal corporation, then that would probably solve these problems instead of giving it to. So let's that brings me to the wider question of the statutory framework that you said. Is this the statutory framework you're looking at for doing this now, this parastatal structure include water, power, energy, sewage and all other utilities, right.
-
-00:28:21:07 - 00:28:27:14
-Speaker 1
-How do they currently participate in the master planning process? You've been involved in one. The 2031.
+Okay. So here, I have to really refer to the research that we have done on India's different cities and what we what we really have discovered, and I think it's true for all cities around the world, is there's not one factor that explains it all, even though policymakers always want to find that one thing, like, okay, I'm building bicycle lanes, there they come.
 
-00:28:27:16 - 00:28:29:23
+00:19:32:06 - 00:19:57:21
 Speaker 2
-I have been involved in all four of them.
-
-00:28:30:01 - 00:28:40:14
-Speaker 1
-Oh, that's amazing. I mean, you've done the most masterplans in this country ever. So then you should you should be the person who should tell this. So you should do it and everybody should be listening. So let's hear from you here.
-
-00:28:40:14 - 00:28:45:20
-Speaker 1
-Why is there a hesitancy either from the utility
+And now I have solved my mobility issue in the city. No. Or I'm only building compact cities. If you could do that overnight. No, that's not it. So what we have find found and there are five factors that are important and they need to come together. If not, then you will have less of cycling or more of cycling.
 
-00:28:45:20 - 00:28:48:21
-Speaker 1
-or is the consultative process not appealing enough for them?
-
-00:28:49:02 - 00:28:51:03
-Speaker 1
-We we're just trying to block them out.
-
-00:28:51:03 - 00:29:13:19
+00:19:57:21 - 00:20:12:17
 Speaker 2
-So my sense of following. Yes, there is. So what I have been arguing for is to say that and this is not just me the Constitution also lays out that the unit of self-governance, that the Bbmp should prepare its own plan. What it can do is get the BDA to prepare a plan for its jurisdiction. But then the BDA should be accountable to the people.
+So let me let me go through that because I really want people to understand that it is hard to get the right mix. So first of all, you know, you are an urban planner here,
 
-00:29:13:20 - 00:29:37:08
+00:20:12:17 - 00:20:16:18
 Speaker 2
-So that's where the problem lies. The BDA is this high horse which doesn't want to be accountable to the bbmp, but if you look at successful planning, especially in cities of the global south you will find that a lot of these utility companies where cities are working them, they're actually under the municipal bodies, the elected governments. So right now do not have that.
+you can predict that a complex city city is good for cycling.
 
-00:29:37:08 - 00:30:00:10
+00:20:16:18 - 00:20:18:09
 Speaker 2
-That's the first problem. These tend to sit a little bit elevated above the bbmp. That's one. Do they all seem to have defined their own jurisdictions or somebody has? And that was brought out by the BBMP Restructuring Committee report to visualize the whole jurisdiction aspect of all the utility companies. And these are just working on very different jurisdictions.
+rather than a sprawl.
 
-00:30:00:10 - 00:30:28:12
+00:20:18:09 - 00:20:19:20
 Speaker 2
-So where do you expect any type of convergence or comprehension to happen for one jurisdiction? And the third problem is that each one works on its own timeline. So Bbmp will so be it prepares a plan for let's see now. So let me give you an example to be prepared. It's first comprehensive development plan for 1995, 95 CDP, 95 to scope that got revised to 2015.
+But that's not the only thing.
 
-00:30:28:14 - 00:30:53:08
+00:20:19:20 - 00:20:41:15
 Speaker 2
-Then it has to be revised every 10 years. So then the next plan was for the year 2025. That's what it was supposed to be, because there was a structure plan at the region for 2011 and the next one for 2031. We actually did a lot of lobbying with the government to say, let's coincide the timelines of the plans and make it both for 2031
+What you also need is looking at the mobility alternatives. So never think only about cycling or auto mobility. It is really the mix of all where do people want to or want or have to walk to work or get around.
 
-00:30:53:10 - 00:31:14:04
+00:20:41:15 - 00:20:52:02
 Speaker 2
-that way, because that's the policy framework within which to sit, there would be some sort of coordinated convergence, but they did not notify that plan and now it's gone to 2041. Actually, the structure plan now should also be then revised for the year 2041. But we are constantly going back and forth on these timelines. So there's a problem of timelines.
+How expensive is public transit and where is auto mobility in this mix? And so that's factor number two, the mobility alternatives.
 
-00:31:14:04 - 00:31:32:19
+00:20:52:02 - 00:20:55:05
 Speaker 2
-There's a problem of jurisdictions that is a problem of how these are being evolved and that's why it is said that the plan is very much needed for the for the city. But we can't throw the baby and the bathwater out together. What we need to do is clear up a lot of these processes. And what I'm saying is nothing new.
+And in a way, the U.S. is
 
-00:31:32:21 - 00:31:59:00
+00:20:55:05 - 00:20:56:05
 Speaker 2
-It's been coming through various committees that has come through a lot of us lobbying for these changes, but it hasn't right now. Why is there resistance? To answer your question then, each one of these is a power center and they don't want that for the 2031 plan. We actually got two utility companies together in the BMRDA boardroom to say, let's work together.
+atypical
 
-00:31:59:00 - 00:32:23:16
+00:20:56:05 - 00:20:57:21
 Speaker 2
-It was very difficult. Each one has its own act Each one has its own mandate. And they say we are going we have it's also a culture. You'll be trained to work within the act, within your mandate, and that's what you do. So that's why we have a problem. I think a starting point to this is to see that let devolve the function of urban and regional planning.
+in most countries.
 
-00:32:23:18 - 00:32:31:07
+00:20:57:21 - 00:21:21:04
 Speaker 2
-As it's mentioned at 74, the constitutional amendment act let it go to the municipalities, let the municipalities prepare for their jurisdiction.
+There is also still a public transit. And then the question is, is it is it cheap or not? Is it accessible? There's lots of things that come into it. If public transit is very expensive, you will see more cycling here historically, where people walked and the distances became bigger.
 
-00:32:31:07 - 00:32:38:00
+00:21:21:05 - 00:21:46:19
 Speaker 2
-But when I say this to the government, they always tell me that the municipalities don't have the capacities which I dont agree
-
-00:32:38:02 - 00:32:38:14
-Speaker 1
-I don't think so
+Then instead of walking to work, they cycled. So you have to look at cycling visa fee walking as well. And then finally, we always think that it's either taking the bike or the car. That is actually a kind of a recent dichotomy. So you have to look at the models at the fore. So that's factor number and number two.
 
-00:32:38:14 - 00:32:42:07
+00:21:46:21 - 00:22:10:11
 Speaker 2
-So. Yeah, they have the capacities. You have to let them do it.
+The third is, of course, policymaking. Do policymaking in the way they think about traffic? Do they take into account cycling? So what's the position of cycling or is our roads only built to get pedestrians out of the way and cyclist out of the way and make way either for public transit or ultimate ability or only ultimate mobility so that it's impacting number three?
 
-00:32:42:09 - 00:32:43:16
-Speaker 1
-or build the capacity.
-
-00:32:43:17 - 00:32:54:18
+00:22:10:11 - 00:22:35:07
 Speaker 2
-Well, build capacity. Incidentally, even the BDA has been outsourcing its plan. Yeah, right. So it's not that the BDA has the capacity. If you ask me.
+You really need to look at that and and and mixed use is usually better for cycling than separation of flows because then the flow of cars becomes the dominant, the gold standard. So that's factor number three. But we already talked in this podcast about how important representation is, you know, what is the image that people have about cycling?
 
-00:32:54:20 - 00:32:57:20
-Speaker 1
-Their capacities lie somewhere else.
+00:22:35:07 - 00:23:03:23
+Speaker 2
+Is it modern? Is the lifestyle is only associated poverty or not? And it can change over time. And it does change because originally cycling was seen as something for the rich, the colonial administrators and so forth. And it can be debased, but it can also be in some places exist at the same time. So the bicycle can be both a lifestyle and something for the poor, so that you need to really figure that one out.
 
-00:32:57:22 - 00:33:06:13
+00:23:04:03 - 00:23:06:20
 Speaker 2
-So they are outsourcing the plan. Let the BBMP outsource the plan. If they wanted to do it. let them build the capacity within it, then that's the way to go.
+And then finally, what is the
 
-00:33:06:13 - 00:33:21:18
-Speaker 1
-The question then talking about the acts that each one is empowered to do their own thing, I see this with the transport agencies more than I do with the utilities, or my act allows me to plan and run and operate and everything. Everything
+00:23:06:20 - 00:23:35:16
+Speaker 2
+public support for cycling? So what's the social movement? Are there people routing for cycling now for auto mobility, We have a very clear power block that's that is boosting automobile city. We also have vested interest, but not visible to the public for public transit. So where social movements for cycling are strong, you will see that cycling will actually thrive.
 
-00:33:21:18 - 00:33:27:04
-Speaker 1
-so the plan, even if you take over the planning function from most of these
+00:23:35:18 - 00:23:51:07
+Speaker 2
+So these five factors need to come together. And now here we come to the Netherlands, because no one no understand the Netherlands, the Netherlands is was lucky in some ways. So let's go through these different factors.
 
-00:33:27:04 - 00:33:29:23
-Speaker 1
-parastatals, which provide utilities and everything and give it
+00:23:51:07 - 00:23:55:02
+Speaker 2
+So we have a lot of we had a lot of compact cities
 
-00:33:29:23 - 00:33:36:02
-Speaker 1
-to I don't no matter what you say it should be, you should take the steering function away from them.
+00:23:55:02 - 00:24:01:19
+Speaker 2
+and there were a lot of planners who were really around 1900, 1920s, 1930s.
 
-00:33:36:08 - 00:33:56:20
-Speaker 1
-Will that then be in a better position, That that means you have to amend all the acts or you need a super act which says to do we have that? Do we have Is the MPC empowered enough to say with or BMRDA empowered enough, or do we need to further amend that to say that we have to plan for the parastatals as well?
+00:24:01:21 - 00:24:20:05
+Speaker 2
+They understood that it was nice and that you needed to preserve it. And they were actually measuring the extensions of cities of how for you, could you extend the city that was still within cycling distance said, do we think in terms of cycling? Very interesting.
 
-00:33:56:20 - 00:34:20:22
-Speaker 1
-The BMLTA for example, tries to do that. So of course there is blowback. No, you can't they cannot be subservient, they cannot be this Well, if the person is steering and operating, he or she is going to skew the decks in their favor, which is not. And considering they all have their own territorial instincts, like you said then, like I've seen, it tends to go in different directions.
+00:24:20:05 - 00:24:32:06
+Speaker 2
+Secondly, I already talked about mobility alternatives. Automobile came late in the Netherlands and public transit in some cities was actually more expensive for most people.
 
-00:34:20:22 - 00:34:38:01
-Speaker 1
-So the water supply company is digging in one part of town. Well, the electricity company has got a budget and plan that year for some of that part of town. No wonder they are not because they say, I plan my plan for me and you plan for you and was planning together saying everybody has to dig here this year.
+00:24:32:08 - 00:24:36:13
+Speaker 2
+So that also helped cycling. Then the third,
 
-00:34:38:03 - 00:34:47:19
-Speaker 1
-Well, right. So how do you envision getting away from the legal provision? So do you and who should now break these barriers and how do we break them
+00:24:36:13 - 00:25:04:22
+Speaker 2
+we were actually here we didn't do, but we were one of the first countries that was the our engineers were thinking about the future of traffic and we're thinking about automobile IP. So they compared everything for us to mobility. That did not help cycling. But now the last two factors, so the image of cycling was very middle class.
 
-00:34:47:22 - 00:35:19:18
+00:25:05:00 - 00:25:35:12
 Speaker 2
-Okay. So as I said, I think the starting point is to devolve this function. And then it's not that the bbmp to the city is actually being managed and run by multiple agencies, but as you rightly said, each one works independent of the other. So I think a simple thing is to get them together. The BMRDA act is really before it actually came out, before its time, and if you read through the act, it's a fantastic act which gives a lot of provision for coordination at the regional level.
+Are queens and kings all cycle still to this day are prime ministers commute to parliament by bike. And it is a and everybody has a bicycle. That does not mean that they don't have other vehicles. They might also have a car. They might they also take public transit. So the mobility mix is it's not your only not cyclist or a car driver.
 
-00:35:19:20 - 00:35:45:03
+00:25:35:12 - 00:25:44:01
 Speaker 2
-It's one of the best act that I have read for a while now. And however, because it gives those overarching powers, they have really never modified the rules and regulations of that act. And this, I am saying, has been acknowledged as early as I remember that in the year 2000 I dont want to name the IAS officer but he actually spoke in public saying this is the problem. Why are we not notifying it.
+You are all these different things. So that is very important. And then finally, the social movement. So in the seventies, we have this moment where people
 
-00:35:45:03 - 00:36:05:17
+00:25:44:01 - 00:25:45:18
 Speaker 2
-Let's modify the act and let's give that power or that teeth to the BMRDA to coordinate a lot of these activities within its region. The Bbmp already has. One of the things that we have that I have been also arguing and I said it at the last masterplan, is that once you prepare a city plan,
+still remember
 
-00:36:05:17 - 00:36:10:05
+00:25:45:18 - 00:25:48:19
 Speaker 2
-you need a budget line for it, we don't have budgets to implement the master plan.
+and value cycling and these
 
-00:36:10:08 - 00:36:21:02
+00:25:48:19 - 00:25:53:10
 Speaker 2
-It's not a budget set on split between various arm of the government and then they implement road to implement water supply. They implement sanitation, but it doesn't speak to the master
+car interests were trying to destroy the historic cities
 
-00:36:21:02 - 00:36:33:06
+00:25:53:10 - 00:26:05:20
 Speaker 2
-So okay, in the long run, let the government start to think about a budget plan for the plan. And I gave this in a recent conversation with the
+to make way for our mobility. And a lot of people, Rosa, mothers, children, journalist, ordinary people, it was very broad based.
 
-00:36:33:08 - 00:37:04:20
+00:26:05:22 - 00:26:13:02
 Speaker 2
-CMDA member secretary in Chennai. I was telling him and he was saying, Yeah, that makes so much sense. I said, You should push for your government to have a budget plan for the master plan. That's the first. If it won't take some time. In the meanwhile, while the plan is being prepared, ask all of utility agencies with the BWSSB or any utilities to prepare the plan for that jurisdiction, for that timeline and amend it to the master plan, Bring it as an annexure to the master plan.
+So that is why the Netherlands today is known as a cycling country. But he used to secret.
 
-00:37:04:22 - 00:37:32:19
+00:26:13:02 - 00:26:14:18
 Speaker 2
-So in some way, in the process itself, it start speaking to what the master plan that is some conversations happening, that's the second. But then when you're implementing in the short term, lift the budgets for example, the BWSSB budgets go for projects that are largely conceived or are supporting the master plan or the master plan is bringing them in in in tandem with the land use that it's doing with the transport mobility that that's doing.
+We are also
 
-00:37:32:21 - 00:37:51:12
+00:26:14:18 - 00:26:17:05
 Speaker 2
-But let that budget get into budget line be along those projects. In the process, the BWSSB is welcome to prepare the DPRs to go ahead and do whatever it wants to and use its budget the way it wants to put, except the things in alignment with the larger city vision and the city plan. So that's the way to go about it.
+we have the most intense
 
-00:37:51:12 - 00:38:24:00
+00:26:17:05 - 00:26:35:23
 Speaker 2
-And if we have to bring this in, you have to have to BWSSB utility companies actually accountable to your elected government sitting in the municipal corporation? And that's how it's been working in most parts of the world. But we have a lot of these different levels that have been created and were created by a lot of bilaterals, and they were created by the World Bank, ADB because they wanted to avoid the messy politics of the land.
+public transit train system as well. And we also have a lot of auto mobility. So we are very mobile society and cycling is part of that mix. So the question is for India or other countries is to fix a to to figure out what the right mix is.
 
-00:38:24:00 - 00:38:28:22
+00:26:36:01 - 00:26:50:03
 Speaker 2
-So they created these. But these have become a real problem today. In today's context.
+But I would say that the United States in so many ways is not the model. And I'm hoping that China understands that as well, because China still has a lot of public transit as well. Right. And is investing in it. And people walking
 
-00:38:28:22 - 00:38:44:15
-Speaker 1
-that is true, there becomes a real problem and we are gnawing at the edges here, trying to say that all puts some small thing in place and it will all work out. The structure is there are so many things to be tweaked in the structure that can make this work a lot better.
+00:26:50:09 - 00:26:53:07
+Speaker 3
+to us a little bit more about the Cycling Cities project
 
-00:38:44:17 - 00:38:59:11
-Speaker 1
-And I would assume that by doing some of these things, little by little by little the percentages can start going up from 14 to 24, 34, and it can start creeping up towards more implementation right?
+00:26:53:07 - 00:26:57:05
+Speaker 3
+so that we can understand what this whole project is.
 
-00:38:59:14 - 00:39:03:14
+00:26:57:07 - 00:26:58:21
 Speaker 2
-Yeah. And what I would also like to add over here is Sathya that the
+Yeah. So
 
-00:39:03:14 - 00:39:12:10
+00:26:58:21 - 00:27:37:10
 Speaker 2
-what we see today, that the parastatals that we see as a problem there, a problem with the way the positioned, the placed today, these can be potential
+it started out in the 1990s with this seemingly simple question that you also asked. Why do the Dutch cycle. And in order to have a get an answer to this one person and then two people started to develop this notion okay how you know, let's compare to other European cities. And they developed these factors that I was talking about, although they only looked at the urban form at the time or the mobility alternatives and the traffic engineering vision.
 
-00:39:12:10 - 00:39:17:20
+00:27:37:12 - 00:28:10:14
 Speaker 2
-contributors and good contributors and can be positioned positively to actually contribute to the group.
+And then we since then developed and we realized that the cultural notions of cycling is important and the social movement. So we now have these five factors and it we were then able to extend it. And then we had in 2016, there were more cities. And then actually since COVID, it has exploded in all over the world where people want to understand the history of their own city.
 
-00:39:17:20 - 00:39:37:21
+00:28:10:16 - 00:28:46:22
 Speaker 2
-They're already doing it. Let us just bring in that alignment and let them start to contribute to the growth of the city. But in a very coordinated manner, of course, and that's all that is required, nothing more. They are still doing it. And if this parastatal let them become accountable to the elected government and let them function accordingly, that's all that is needed.
+And one could ask you why. Look at history when you're interested in the future, right? Because most people just think, okay, history is all things is something in the past. So, you know, let's not look back good looks. Let's look forward. Now, as it turns out, I think that this project demonstrates, if you understand cycling history over 100 years, you understand why some cities became a cycling cities and others did not for the reason that I just explained with these five factors.
 
-00:39:37:23 - 00:39:45:18
+00:28:46:23 - 00:29:29:04
 Speaker 2
-It will take time. Government. The state is a huge beast, which goes very slowly. We all know the fifties left the movement.
-
-00:39:45:18 - 00:39:52:06
-Speaker 1
-And there has to be incremental movement being shown on a continuous basis to see do we have a roadmap
+So what we do is anyone can really come in to join the project is to look over 150 years of cycling through these five factors in the particular city and by having this very rigorous way of comparing. I can tell you I that and everybody always tells me, Oh, we don't have a cycling history. You know, there are no there are no sources or, you know, there is for example, Johannesburg turned out to have a huge, rich history of cycling.
 
-00:39:52:06 - 00:39:56:20
-Speaker 1
-towards the ideal state and how are we moving towards that ideal state. But still
+00:29:29:04 - 00:30:09:09
+Speaker 2
+And now India might be a very different case because you have cycling everywhere. So but, you know, there there still, I think the other question, sort of the elephant in the room is we're now in Africa where we're working with historians, urban planners, policymakers together in 15 different African cities. And there the issue is, of course, between not just what we call in tradition or cycling, but motor biking.
 
-00:39:56:20 - 00:40:03:03
-Speaker 1
-the improvement in implementation percentage, this might solve it to a certain extent, which is coordination and getting the plans aligned
+00:30:09:09 - 00:30:15:06
+Speaker 2
+I know we're all interested in sustainability, right? Sustainable mobility. But we have to ask,
 
-00:40:03:03 - 00:40:06:00
-Speaker 1
-on the ground, like a simple project, like
+00:30:15:06 - 00:30:16:19
+Speaker 2
+what do we do with motorbikes
 
-00:40:06:00 - 00:40:22:22
-Speaker 1
-a footpath that we try to do in our area when there are so many contestations on the ground, like from every entry exit to every restaurant owner who thinks he's he can speak directly to the MLA, destroy this footpath if you put it, you know, I need parking right in front of me.
+00:30:16:19 - 00:30:17:17
+Speaker 2
+in terms of
 
-00:40:23:00 - 00:40:27:16
-Speaker 1
-There are so many of these that implementation is a struggle when you even make the plan.
+00:30:17:17 - 00:30:24:17
+Speaker 2
+CO2 to emissions? It's not sustainable, right?
 
-00:40:27:22 - 00:40:28:08
+00:30:24:19 - 00:30:40:02
 Speaker 2
-Yes.
+In China, they have opted out in some cases to electrify. Well, that that is really, I think, a really good measure. But we have to understand
 
-00:40:28:13 - 00:40:48:12
-Speaker 1
-When you said this 12 meter road has to be 18 meter, I just went and looked at the road that is going to take away the whole it's like this main road has 12 meters or in some places eight meters. It just narrows down. And there are so many businesses now and that place is in the proposed land uses 12 meters.
+00:30:40:02 - 00:30:48:09
+Speaker 2
+what motor biking means for a lot of people. It means, you know, they might be forced because
 
-00:40:48:14 - 00:41:09:02
-Speaker 1
-It could be, but it could destroy a lot. So are there if you did bottom of planning, if the ward came back and said, hey, this is eight meters and we are okay with it being what it is, wouldn't that help? That is that the intelligence you think is useful on the ground to not make that 18 meter line on the map because 12 meter is good enough?
+00:30:48:09 - 00:30:53:23
+Speaker 2
+to get a motorbike, because they depend on a livelihood, that because they have to cover big distances.
 
-00:41:09:02 - 00:41:33:12
+00:30:53:23 - 00:30:58:22
 Speaker 2
-Yes, that is an intelligence and that is very much important to get into the conversations right now. Let me just pick up the same example. Suppose I am sitting in this water and I'm saying, look, my 12 meters. It's fine. I don't want it because right now what I'm saying, it seems to be functioning well. I have these mixed land uses on both sides and I I'm, you know, I am able to I have a walkable neighborhood.
+But for a lot of them, it means, okay,
 
-00:41:33:12 - 00:41:51:18
+00:30:58:22 - 00:31:00:11
 Speaker 2
-I don't need to pull out my car. What if you think I if I step out of my house, I have everything that happens within 10 minutes walk. And I don't want this road to go 18 meters because a lot of these shops will go that's just a this is the this is an intelligence I gather from the ward However, as urban, I'm sitting at the city level.
+I cannot afford a car,
 
-00:41:51:20 - 00:42:13:09
+00:31:00:11 - 00:31:05:13
 Speaker 2
-Let me say that exactly what you're saying, that in this what the road is 12 meters over here it is 18 meters as it enters the ward in the ward before it is 18 meters. And in the ward next to it, it is 18 meters right. So as a technical person, then I see what is also happening. It is creating this traffic jam over here.
+I want to go faster. So I get a motor bicycle. But it is actually on my way of becoming
 
-00:42:13:12 - 00:42:37:09
+00:31:05:13 - 00:31:08:15
 Speaker 2
-So I, I that I understand the field. You're okay. But for the functioning of the larger city, I will have to expand this to 18 meters. Now, what that intelligence then tells me is that you know data these let's see 50 shops on 25 each on either side which need to be accommodated. So what if I have to do 18 meters?
+an automobile to becoming a car
 
-00:42:37:09 - 00:43:01:05
+00:31:08:15 - 00:31:09:01
 Speaker 2
-I will do it. But I before that I need to find a space for picking these 25 or 15 shops. I need to either push them back or too. And that's a messy tradeoffs. But and that's why any kind of realistic planning is always a dynamic process and it takes forever. But it's much more durable, it's much more sustainable, and it's much more owned by everybody
+owner.
+
+00:31:09:04 - 00:31:09:23
+Speaker 1
+Owner.
 
-00:43:01:11 - 00:43:22:07
+00:31:09:23 - 00:31:10:15
 Speaker 2
-So it will take time, for instance, or then if that is not possible, that's a tradeoff. As a planner, I I'm trained to make, but I will have to see how do I manage that 18 meters on both sides and what do I do with the way divert certain kind of traffic? Do I divert certain kind of users from this so that I do not generate so much traffic?
+if you
 
-00:43:22:13 - 00:43:43:22
+00:31:10:15 - 00:31:23:14
 Speaker 2
-Those are some of the things that I start to understand and those are the trade offs. There is never a perfect solution. Planning is a very, very complicated problem. Like the city itself is a wicked problem. So what, as best I can do is resolve the issue and that resolution is a continuous process and that intelligence is important, but only up to a certain point.
+were a traditional cyclist and you didn't take a motorbike or an e-bike, even it becomes less sustainable. Right. In terms of the resources, if you were a car driver
 
-00:43:43:22 - 00:44:02:06
+00:31:23:14 - 00:31:28:12
 Speaker 2
-Beyond that, then I need to come in. And that's where you have a professionally trained cadre of planners who say this is how it is possible, but you need both these sets or multiple knowledge sets to come together and do a trade off and do a collaboration, which will be working for everybody.
+and you scale down to an e-bike, then it becomes a very sustainable
 
-00:44:02:06 - 00:44:03:17
+00:31:28:12 - 00:31:43:10
 Speaker 2
-That's how it has to work.
+measure. So our discussions about what is sustainable mobility needs to be extended to understanding where people are coming from, where they going to when they are on a e-bike or on a bicycle.
 
-00:44:03:17 - 00:44:30:19
-Speaker 1
-use the right word. It's a messy process. It's a long time consuming process to ability to have these conversations at the individual level. You are right, right. This 12 meter road is on one side ends in a railway line with the ring road is 24 plus meters or hundred meters. Whatever and on this side is a lot more and people kind of think that okay let me just in the BDA office draw this 18 meters like all the way like that.
+00:31:43:10 - 00:32:14:05
+Speaker 2
+And if they're on a bicycle, but then travel to to the United States for a weekend, you know, to see a concert in New York, then, you know, you might it might be green on the street somewhere, but not so sustainable. So, you know, so we need to really understand the complexity of it. And sustainability does not only mean an ecological sustainable, but also socially sustainable and economically sustainable.
 
-00:44:30:21 - 00:44:47:16
+00:32:14:05 - 00:32:25:15
 Speaker 1
-I, I didn't even know until I looked at the master plan that hey the the PLU this is going to be 18 meters or like 18 meters not required. Why is this required here? Because it's a perfectly. All right. There are alternates to how that conversation never happened. But that conversation can't happen when
+What attracted me to what you were saying was the choice of modes becomes a very useful factor for people to have. Right. You should be able to.
 
-00:44:47:16 - 00:44:49:00
+00:32:25:20 - 00:32:49:01
 Speaker 1
-the master planning is said.
+It's also called poverty of choice. I think in general planning terms that you can have many modes and you should be able to choose and the guiding factor should be in this day and age. If. Correct me if I'm wrong, should be about the overall footprint of sustainability that you can. How how do you lower that footprint? Lawyer You go from where you are should be sufficient.
 
-00:44:49:01 - 00:45:10:20
+00:32:49:03 - 00:33:12:03
 Speaker 1
-2017. Let's do the master plan. You got six months. Let's go. Right? I mean, what what are the intricacies in making? And second thing I wanted to ask you was like going to the mixed use itself, Right? It's a concept many people have seen here seem to like the gentrification because it is smooth when you take the car right?
+And if it means from a car to a train and from a train, you move to an electric vehicle and then from an electric vehicle you can motorcycle. Then you if you have these choices, you can make multiple trips. And this is what we have been doing. But what's interesting is in order to drive home the message of saying that there is this thing called a bicycle, which is practically zero.
 
-00:45:10:20 - 00:45:26:19
+00:33:12:05 - 00:33:34:22
 Speaker 1
-I mean, it's nice to see that. But a lot of people do intuitively understand the people who actually use the services on the street. Like if you go to a street vendor and buy from that person, if you're sending a driver to buy your groceries, you're not going to understand. But if people who actually go and buy, they seem to understand.
+And and then there is this whole range we have in India, just like you said about China, we have modes from a two wheelers to two and a half to three wheels for, you know, we have motorbikes as well. We have electric motorbikes have three wheels on autorickshaws, which you all make noise trucks. And then we have cars of different shapes and sizes, and then we have a bus.
 
-00:45:26:19 - 00:45:41:01
+00:33:34:22 - 00:34:15:11
 Speaker 1
-Yeah, because they're but maybe a little bit nicer way of accommodating these people would be good. But we've seen mostly examples from the U.S. of different way of structuring layout that is clear
+We have. So there is a huge range. And for most people, unlike in European or American countries, it's either a car or a bicycle. It's it's slightly more binary. And here there is a huge range and the upgrades can seem like a you know, it's fascinating to see how India makes its choices in all of this. The bicycle stands as an identity for the lowest footprint, and that is the reason we want to try and see is that if we can make the lowest footprint stick, the choice up to the air footprints can be made by people and we can cater to that.
 
-00:45:41:01 - 00:45:49:09
+00:34:15:11 - 00:34:38:13
 Speaker 1
-shops you to go there and buyer to walk across a two kilometer parking, not just to get to the store and come back. The offices are here, the houses are here.
+And and and things like fighting traffic are rhetorics. I think we need in order for us to win people away from the highest footprint, because the momentum towards the car is strong. It's human nature. The car is strong. We need to have people make conscious choices on a daily basis. And that's why it was interesting for me to find out.
 
-00:45:49:12 - 00:46:07:15
+00:34:38:13 - 00:35:03:07
 Speaker 1
-That is one way of laying it out. What do you suggest lends itself nicely to. I think it's got mixed use. You can explain this better. Lends itself nice to you to go into the neighborhood. If you just want some dhaniya from the corner, you don't have to take the car out and shop for the whole week before you can get that on your back.
+From your cycling cities projects, have you found cultural influences on these choices? Do you think these cultural influences are different in the Global South Europe? And I think from what I see in the map, you said just before the podcast, there's a lot of work being done in Africa. I don't know how far away you are on that and your studies in Europe.
 
-00:46:07:15 - 00:46:17:14
+00:35:03:09 - 00:35:25:10
 Speaker 1
-You right. And it leads to more fresh approaches coming in. There's a lot of lot of stuff. How can we leverage this? Because while there is mixed use, there's also misuse. In some places.
+What do you find as you say, that a cultural impact and on the other side, can cycling and the push for cycling influence culture? Little But are you talking about how the Netherlands had a culture? Because it was enlightening to me because most people know the Dutch culture only from the 1970s, the kingdom for the moment and the oil embargo and then everything else.
 
-00:46:17:14 - 00:46:26:07
+00:35:25:12 - 00:35:46:15
 Speaker 1
-I call it the mixed use misuse, right? I mean, if you don't misuse it, mixed use can be good. What what you see as the future of how we're laid out or are there any comparable examples?
+It's almost as if the Dutch cycling culture starts from the 1970s for everybody in the world, and now you come into the 1920s, there were efforts and we nobody talks about that. That's why your history of going back hundred years is helpful for people, I think, because nobody tells you. Bjorn, before 1970 about the Netherlands. Yeah, yeah. So this question of culture, I want you to what have you observed?
 
-00:46:26:07 - 00:46:39:23
+00:35:46:15 - 00:35:50:01
 Speaker 1
-Because we seem to always be looking at the US for examples. Where where else do you think this kind of thing has been leveraged positively? Do you think it's an advantage? How should people view the neighborhood kirana shop?
-
-00:46:39:23 - 00:47:02:02
-Speaker 2
-so let me start with two things. Number one, I think at least within the U.S. is a bad model of urbanization It's a it's a it's a very spread out model of urbanization, which is highly, highly automobile dependent. And today, a lot of what we are seeing in terms of emissions and climate change, it's it's got to do with those license.
-
-00:47:02:04 - 00:47:22:15
-Speaker 2
-So that's one part of the story. Let me take that take you back to any old evolved historical traditions of India. What you have is of mixed use We've always lived in neighborhoods where there is a shop in the front, in the house, at the back. There's a shop below and a house on top. We have always had mixed use compact cities.
-
-00:47:22:17 - 00:47:48:18
-Speaker 2
-The West only woke up to it in the recent past where they are talking about a 15 minute city and the walkable city or the walkable neighborhood. We have always had mixed use cities. The problem also in the master plan is that it starts to look at single use, primary use. It can reuse kind of it overlays that imagination on on the fabric, which is largely mixed use.
-
-00:47:48:18 - 00:48:11:17
-Speaker 2
-And that's the conflict. That's why you cannot implement a lot of those things. What the master plan is talking about, we have been telling the of Government of Karnataka, the Karnataka Town and Country Planning Act, has to change to bring in the category of mixed use. And then you recognize the mixed use that exists on the ground and call it the mixed use on the map, except we don't have it right now.
+Is is can cycling influence culture? Has culture influence cycling?
 
-00:48:11:19 - 00:48:32:18
+00:35:50:01 - 00:36:04:05
 Speaker 2
-I think this was put in as early as 2012 or 2011. There is a file. I pursued the file for a while, but we haven't been able to bring the mixed use as a category in the master plan. Okay. So we actually have a yellow residential, yet a residential mixed commercial commercial mixed like that. We call it a mixed land use.
+Absolutely. I'm a strong believer that if we focus only on infrastructure as the way forward to get it, cycling and practice. No. And I know a lot of policy is focused on that.
 
-00:48:32:18 - 00:49:02:18
+00:36:04:05 - 00:36:35:11
 Speaker 2
-And then you were calling the spade a spade. It's easier to plan for it then. That's the first thing. The second thing, we do have mixed land uses, but what we don't do not have a walkable neighborhood. That's because there is a lot of haphazard development that we allow the mixed use as it exists. It's like if you want a vending zone, you want vendors that are part of our everyday living and they are not only for the vendor himself or herself.
+There's a reason why we always focus on the seventies because the social movement didn't know to to get that conversation about what is sustainable and how should we create a public policy was actually instrumental since the 1970s because the social movement in Annapolis was able to keep that conversation up to the present and have politicians involved in that.
 
-00:49:02:19 - 00:49:24:15
+00:36:35:13 - 00:37:23:11
 Speaker 2
-That's their livelihood. We cannot fight them away. We need them. It's like your domestic help to the rich locality does need all its domestic help coming in and working for them. And those those people need houses. So you need to have a high income and middle income and the low income all housing together in close proximity, because otherwise you would not get needs.
+So you need absolutely a broad based the social shows social movement and a representation that goes with an image and an aspiration that goes with it. Otherwise, it's not going to it's not going to happen. And I see that worries me a great deal that we see a lot of people mean. Well, I invest lot a lot of money and effort into an in bicycle path often that leads from somewhere to nowhere or is not maintained and you need to have communities to support it.
 
-00:49:24:15 - 00:49:44:17
+00:37:23:11 - 00:37:39:10
 Speaker 2
-They would not take a bus and come to your house. They walk in whatever it is walking. We find that that so if there is a high end development something and if there you will find either squatters coming up or close by village, which gets transformed to support the type development to support. Now the mixed use concept is already there.
+You have to invest in understanding why people move and how people move in the city. So that's why I'm saying as a historian, it is really complicated. You have to get these five factors together and then it works.
 
-00:49:44:17 - 00:50:08:14
+00:37:39:10 - 00:37:50:18
 Speaker 2
-We need to recognize it, to make it, to make those mixed use viable and potentially positive, you need to start planning for those mixed use. Vendors have to sit in the vending zone. so they cannot just spread themselves better what they want. That's a function of enforcement, which is we're also we are lacking right. Let me give you the example of the BDA complex of Jayanagar.
+what you were saying about about about India is also true for Africa. This enormous range of two wheelers or three wheelers, you know, before you get to the four wheelers.
 
-00:50:08:16 - 00:50:30:23
+00:37:50:19 - 00:37:51:11
 Speaker 2
-If you actually go back. Then we traced that complex and we said how it was planned. It's one of the most beautifully planned complex that existed once upon a time where they were shops, they were renting, so there was parking and then there was a footpath. It was beautifully planned and it took land complex. They broke it down and everything that was contained within that complex.
+Right.
 
-00:50:31:01 - 00:51:02:15
+00:37:51:11 - 00:38:23:02
 Speaker 2
-It has been broken down. It has a bad design. You have all the vendors spilling onto the roads and you create the problem. Doesn't make any sense. But besides giving taking away footpaths so, what we need to do is work on those neighborhoods and see that these neighborhoods need to be planned for walking for non-motorised any sort of mobility, plus the mixed use that is existing, plus its larger role in the city, plus the role of the larger city now on this with those things don't come together
+the bicycle and the tricycle, of course, and the tuk-tuk a very much shall is a very sustainable means if it's electrified. I would say. And we also make sure that our our our power plants are creating energy in a sustainable fashion. Right. That's part of the chain, because it's not only the CO2 emission, but it's also land use.
 
-00:51:02:15 - 00:51:23:03
+00:38:23:04 - 00:38:50:19
 Speaker 2
-We are in a mess. And what we are doing right now is only reacting to the best. One way to resolve this issue is to start proactively look them and see, okay, proactively, what is it that I can do about it? So we have mixed uses. Let's use that as a strength. That Indian cities of how do you improve those mixed uses?
+I mean, cars are actually unsustainable in our cities and urbanization is de force of the 21st century. So we and actually the car industry knows this. Yeah, they have been particularly since 2008 with the economic crisis when Obama was saving the car industry in the United States and said, okay, you have to make some changes and be more sustainable.
 
-00:51:23:03 - 00:51:28:06
+00:38:51:01 - 00:39:02:01
 Speaker 2
-And I think the TOD plans, the TOD frameworks, that policy that has come in now,
+They started conversations, think tanks and they understand stand very much that cars do not have a place in cities.
 
-00:51:28:06 - 00:51:47:18
+00:39:02:01 - 00:39:06:15
 Speaker 2
-perhaps meet it needs. There are problems with that too. We keep seeing transit oriented development. I'm still just running through it now, right now. But I think we also need to, in some parts of the city, start to understand how the transit itself supports the development that is existing.
+Urban mobility does not make sense for our cities.
 
-00:51:47:18 - 00:52:16:22
+00:39:06:15 - 00:39:15:01
 Speaker 2
-You know, you have an existing land use over there. Look at it, you have that. How do we keep saying within 6 minutes, walking 6 minutes, cycling in 6 minutes, bus we go to plan or make a plan, one that transit oriented development. I think it's a development oriented transit that also needs to be brought in to I think it's the TOD policy is more about land use that is it is about transit.
+the only people we need to understand it are policymakers and residents. You know, because the car industry knows this already.
 
-00:52:17:00 - 00:52:39:05
+00:39:15:01 - 00:39:21:21
 Speaker 2
-It is. And if you read that, you will understand that, right? So and you are not you're not bringing in the land use aspect at all is to continuously focusing on the transit bus. So but I think the policy has potential and I think it makes it can in many ways, if they do what they are saying, that they will be triggering of a bottom up planning process, but without the missing framework.
+Why are you why do we think that they have invested in car sharing things?
 
-00:52:39:05 - 00:52:41:03
+00:39:21:21 - 00:39:54:06
 Speaker 2
-So I think that needs to be put in place.
+Because they want to stay in business? Why do we think that Elon Musk and others have talked about self-driving cars? Because they realize that the younger generations are getting their driving license later and they wanted to create the kind of experience that would be similar to like a smartphone because the younger generation, their research shows it's more interested in getting a smartphone than a car.
 
-00:52:41:03 - 00:52:49:14
+00:39:54:08 - 00:39:55:02
 Speaker 1
-I think the transit oriented development is a catch up because everybody is hanging on to the Floor Area Ratio that provides right because they want FSI they want to be.
-
-00:52:49:16 - 00:52:53:07
-Speaker 2
-Which we have not been able to exhaust since 2015.
-
-00:52:53:07 - 00:53:10:09
-Speaker 2
-Why? Because your block sizes like let me give you the example of the Nanda theater road. There is a transit corridor, Metro corridor. Your plots are largely 60-40 plot sizes as well as the cost of land. Think what they said is take an FAR of four
+Yeah.
 
-00:53:10:09 - 00:53:12:19
+00:39:55:04 - 00:40:05:20
 Speaker 2
-this it amalgamate the plots in a 60-40.
+So, so the future is really up to us to craft it in a way that of something. The secret that the car industry already knows.
 
-00:53:12:19 - 00:53:36:06
-Speaker 2
-How do you exhaust the FAR? amalgamate the plots now as a developer, if I'm going to buy for plot first I have to be a really powerful entity. I cannot be the small developer if I bring in amalgamate the plot. Do you think I will in anything that is non-luxury on those plots 4 60-40 plot? Lots of that, but in that part of the city and it's going to cost me a bomb, what am I going to do?
-
-00:53:36:06 - 00:53:51:10
-Speaker 2
-I am going to put luxury housing, I'm going to put malls, I'm going to try and use this. Okay. You have reduced the whole philosophy of a transit oriented development. None of those people who visit those development pockets will actually use the transit. They will use the car.
-
-00:53:51:10 - 00:54:07:09
-Speaker 1
-Yeah. And I think the parking rules need to be. So this is a catch up game, right? You built a very expensive metro 500 crores per kilometer. Now you have to catch up and make it work for yourself. So you're going to have to do transit oriented element to say, Oh, I spent a lot on transit. No, why don't just live here and use this instead?
-
-00:54:07:09 - 00:54:29:08
+00:40:05:20 - 00:40:17:18
 Speaker 1
-So there's a lot of things that go in you have to make parking very expensive. The 100 little things, of course, the character is going to change development or transit is typically done with the bus. When development goes, the bus goes, Yes, you put expensive metro stations to where you found the land. Now you have to bring all the people to where you put the land and said, now live here because my train is here before you approve plots
+And I have been just the for the World Bicycle Day I was in conversation with a few of my cycling commuter colleagues. This is what came up the observe. My son for example, has
 
-00:54:29:09 - 00:54:32:16
+00:40:17:18 - 00:40:24:15
 Speaker 1
-So there's so many moving parts in this, Right? So I want to get to
+turned down an offer to go and get a license because he would much rather hail an auto or just walk it or cycle it around.
 
-00:54:32:16 - 00:54:46:23
+00:40:24:17 - 00:41:01:21
 Speaker 1
-quickly to the ward level planning and then I want you to give me the closing comments of ward level planning create the ward committees and others are just looking at tactical issues of water drainage and everything. Of course, that's where the plans come from.
+There are far more people in the younger generation surprisingly, who would much rather not fall for this lobby. And you're right, they have they would much rather ride the car in the mobile phone than at that. In real life, this is surprising. But the more important thing that I the I wanted to come back to is the society has flavors that are different people from the older generation who still think we have not made it if we don't have this and then if you don't have automobile industry, slowly the realization is coming.
 
-00:54:46:23 - 00:54:52:13
+00:41:01:23 - 00:41:33:21
 Speaker 1
-How do you empower people ward budgeting is happening with some of the agencies? Some
+The governments on the other hand, we are not as gifted as Europe or the Netherlands to have government representatives and authorities to be as forthcoming. They still live under the impression that the people won't like it. If we give you less car lanes and give you more cycling parts and it is true there have been lysis in the city, big cities which have been demanding more car lanes and more.
 
-00:54:52:13 - 00:54:56:10
+00:41:33:23 - 00:41:40:00
 Speaker 1
-NGOs are already working with ward committees to see how we can
+You'll be surprised to know that India has only 8% penetration of motor cars
 
-00:54:56:10 - 00:55:25:03
+00:41:40:00 - 00:41:58:20
 Speaker 1
-help them. Budget thing. I think that's one step higher than just complaining of if what's half the start giving you with people's inputs on qualitatively and quantitatively saying how many people actually walk to this place and use vendors you can observe we can do what does it take at the ward level to get people to help you plan and then feed it back because that's easier manageable from an from a civil society perspective to go to and say, hey, can you include these five things?
+and the unreasonable amount of space in the cities is being dedicated to a disproportionately small number of motor vehicles. And I'm sure people have been tackling. And it's interesting to note that the government needs to make up its mind and seek directions, which is what you're saying, and provide people more choice.
 
-00:55:25:05 - 00:55:32:22
+00:41:58:20 - 00:42:18:12
 Speaker 1
-Well in your so that next time the masterplan is done, you say, hey, look, we have a plan. How does that work?
-
-00:55:33:00 - 00:55:56:18
-Speaker 2
-So basically they need to look at their own jurisdictions. And one I keep saying this all the time, the ward itself, the ward committee itself. And that's a question of awareness. It's a question of conversations need to move beyond a mere grievance redressal platform. Right now, my streetlights. And that's not I'm not reducing it. Those problems are really critical.
+But have you any more secrets to for me to convince? I'm not necessarily convinced. Provide people the opportunity to understand how they should stand up and voice this. What one more secret from your stable.
 
-00:55:56:20 - 00:56:19:07
+00:42:18:12 - 00:42:46:06
 Speaker 2
-But that's not the only thing. So for getting started, first the councilors, the ward office, which actually, if you ask me and I've been saying this, let's put up a map of the big one at the counselor's office. Visualize the map, visualize the ward said, This is my map of my jurisdiction this is my road, this is my footpath.
+Well, I mean, one more secret is that the Netherlands is not paradise. We have been fighting since the 1970s. When I grew up, there were cars everywhere in the city. You could not move around and it's only through hard work, constant pressure that you change it and it and the figure that you you are assigning to me about the 8% is is very much where the Netherlands was, too.
 
-00:56:19:07 - 00:56:32:14
+00:42:46:11 - 00:43:21:17
 Speaker 2
-This is my solid waste, right? No, we don't. Do we have no visualization around it? Vacant. That's the place. But start to encourage the council and the council will do it because it's the basis of the election
+So in the Netherlands in the 1920s, when there were only 2% people who had cars, they were demanding roads and cyclists through their taxes were actually contributing to the roads that were meant for cars. So that that lobby of the elites is enormous. And I can say the secret is it's hard work to change and we are all in it for the long haul.
 
-00:56:32:14 - 00:56:46:04
+00:43:21:17 - 00:44:06:17
 Speaker 2
-and that's very, very good. It's a win win for both. Let the council tell the people and the ward committee and I am completely aware of what are some of the problems with the ward committees, What are some of the problems with the political representative?
+And that's why I started it, to say our research shows there is not one secret, there is not a silver, a silver bullet. And I know that is very hard to hear because, you know, everybody wants to know, okay, give me this one key. And we have to change future. No, it has to come together. But as I think on that to to end on a on a more optimistic note is that I think the future is really the younger generation who is not as interested and impressed by fancy cars and I think that that is the future and and and also to truly appreciate.
 
-00:56:46:04 - 00:57:07:10
+00:44:06:17 - 00:44:30:16
 Speaker 2
-Like everyone else, let's give it a try. They will learn from their mistakes. Everybody will suffer but come back. It's a process that we have all cities across the world have got. So who may go through a mayhem, but the mayhem won't be any less than what we are, right? You're right. So let's do that. To let the ward become a planning unit.
+And then I'm saying that as a historian, I'm just so thrilled with a an innovation of the bicycle. It is so sturdy. It's just two wheels. What you can do with the bicycle. You know, you you can travel together and talk and you can meet people. You can you can stop, you can commute, you can enjoy the landscape.
 
-00:57:07:12 - 00:57:33:04
+00:44:30:16 - 00:44:56:20
 Speaker 2
-And what you read is a planner sitting there is other technical skills sitting there apart from your experts, your ward councilors, your civil citizens, and everybody else who gets nominated or elected. But you do need also technical skills. No shortage of technical skills in this country. People are looking for jobs. Planners and mobility experts and environmentalist and housing specialists are looking for jobs in absorb them.
+You can transport almost everything on a bicycle and be sustainable. It is just a fantastic innovation that is proven itself. So I'm really passionate about that. And and and the key is to embrace it and to see it as just as and more valuable than a car that just as for four wheels but
 
-00:57:33:04 - 00:57:36:15
+00:44:56:20 - 00:45:01:22
 Speaker 2
-That and get them to prepare plans.
+takes so much space and has so many more problems and is not as affordable.
 
-00:57:36:15 - 00:57:56:18
+00:45:01:22 - 00:45:05:13
 Speaker 2
-If the planning is and I repeat this planning is a technical activity, but it isn't. It is the technicalities of planning. We only sit well and get unleashed if we are to be able to rely on different knowledge systems. The socio economic fabrics understand all this and that we cannot do it as a planner on your own.
+So, you know, to come back to
 
-00:57:56:18 - 00:58:18:07
+00:45:05:13 - 00:45:07:22
 Speaker 2
-You can trigger that understanding through different collaborations. So that is needed very much. And then take the plan and say, This is what my requirement is. Let's say there are two wards sitting next to each other. Both of them want a primary school, let's say to both of them, want a college. The municipality can then clearly see here, instead of giving funds to college, essentially one college will put the wards or maybe 4 wards can access.
+to this map, I'm very
 
-00:58:18:11 - 00:58:23:00
+00:45:07:22 - 00:45:29:21
 Speaker 2
-I'm just giving a very simple example, but that's what the Bbmp is supposed to do,
+happy to see that right now we're active in 50 cities in 25 countries, and it's growing on a daily basis. So anyone listening, if you want to start the history of of your city and to make to understand how to move to the future, then join us.
 
-00:58:23:00 - 00:58:39:06
-Speaker 2
-Or maybe the education wing through the BBMP or whatever. But that's, that's the way it has to be sorted. So planning at the ward level, it's not a problem. You need a masterplan budget which gets disaggregated to a ward budget and once the ward is has its budget, let them plan.
+00:45:29:21 - 00:45:46:08
+Speaker 1
+you also started technology and you understand that and I can't let you go without asking a question on that. A lot of the future generation and not just that the innovations that are happening at breakneck with technology, especially with computers and other stuff,
 
-00:58:39:06 - 00:58:46:11
-Speaker 2
-They will always never be enough money, but there will be at least sufficient money to do things which people want and which people will
+00:45:46:08 - 00:45:50:12
+Speaker 1
+the bicycle doesn't need them for now because it's a very simple instrument.
 
-00:58:46:11 - 00:58:54:00
+00:45:50:12 - 00:46:00:06
 Speaker 1
-I want to conclude the top three things that are low hanging over, low hanging. But let's just go for top three from your side.
+Like I said, it has all the technologies required to take you from point A to point B, but is there anything in technology that can help us
 
-00:58:54:00 - 00:59:09:13
+00:46:00:06 - 00:46:19:00
 Speaker 1
-There's a huge structural issues. There is the ward level things and this things between there should for the next the new government that is coming in. If you and I would take something to them and say to test three things, what would that be.
+forward the cause of cycling? What have you seen in your research and studies or observations across the globe, and what role has modern technology of computing and other things played in this?
 
-00:59:09:13 - 00:59:31:22
-Speaker 2
-from a planners perspective, I would say actually the ward plan is a low hanging fruit today because the ward committees in many places I'm not saying all across the city, but many places the pick up, the ten wards that are working, committees that are working, stock them on a process of plan number one simultaneously, stop the master plan or the city plan process number two and code.
+00:46:19:00 - 00:46:20:19
+Speaker 1
+Is there anything that you have?
 
-00:59:32:00 - 00:59:57:15
+00:46:20:20 - 00:46:59:02
 Speaker 2
-Start to build capacities or start to look, not say, let's not take capacity. That's not low hanging. I think the capacities exist none of us know what exist, what doesn't. But the third thing is start to have conversations within the arms of the government and see we want to provide a plan, put out ten newspaper advertisement saying that the city is going for a plan, which is which is going to be a public process.
+Absolutely. I mean, if you look at it, it's the physicality of of a bicycle. I think there's not much you can improve. And I and I really don't believe in all these fancy bike schools that have all kind of I think that's sort of the wrong direction. But what I do believe is that we need to integrate the bicycle in the city, you know, in the information communication technologies for a pathfinding for G.I.S, if you try to route with your bicycle through a city and as a pedestrian, you get all easy to problem.
 
-00:59:57:15 - 01:00:08:03
+00:46:59:05 - 00:47:25:03
 Speaker 2
-Let's do it. What What's holding us? Let's do it. And let's say we want to prepare for that. The ward can plan. Let the master plan come. Let's see where they could
+I mean, I don't know if you have tried to, you know, bike around with your with your smartphone and find your way. It's always wrong. Google always answers wrong. So there is that aspect. I think I really do believe there is a lot to gain. Also to integrate version of apps that integrate cycling with public transit and walking.
 
-01:00:08:03 - 01:00:16:04
+00:47:25:03 - 00:47:36:14
 Speaker 2
-collide or not collide or talk to each other. It's something that we will only do once. We'd like now be it in a complete limbo. And it's not good.
+So you can see how to get from A to B this the fastest around or the nicest route and get all the time schedules into one place.
 
-01:00:16:06 - 01:00:43:08
+00:47:36:14 - 00:47:48:16
 Speaker 2
-I believe I got to I got a forward from one of my colleagues, which is from the DIC, and they have another report which is saying that as the draft 2031 was motivated, this was new for me. Also somebody has gone basis that if that approval went and took permission for the building that had to be constructed. Now that building this is as per the 2031 approved plan which was later the approval was taken.
+So I think it's more in the combination of a proven technology with the possibility of actually that that's where the future is. And then finally,
 
-01:00:43:10 - 01:01:03:05
+00:47:48:16 - 00:47:54:10
 Speaker 2
-Since it was approved, I had the planning permission to go ahead with the building. Now the building is complete and they're not giving me a post. So they went to court and the court said, You have to give them and we'll see because you approved the block. Yeah, right. So I'm just thinking because I never thought any action had been taken.
+a bike sharing. I think a lot of the bike sharing is misdirected.
 
-01:01:03:05 - 01:01:21:16
+00:47:54:12 - 00:48:17:17
 Speaker 2
-As for the plan, but obviously action has been taken and they may be several of them, except that it's a city like Bangalore, which is fairly forward looking, which is fairly sits very well. as far as the urban agenda of the country is concerned. We are relying on a 2007 masterplan thats
-
-01:01:21:16 - 01:01:29:09
-Speaker 1
-I wanted to end on that note, but I had a bonus question which I actually forgot to ask at the beginning because I want to go back to this.
+It's mostly for tourist in places where they don't matter and you need to have bicycle sharing where people live and where people work and where they move. So train stations, bus stations makes a lot of sense to integrate it in the overall infrastructure. That is where the future of cycling really is.
 
-01:01:29:09 - 01:01:44:16
+00:48:17:17 - 00:48:52:22
 Speaker 1
-You we are growing very fast. You admitted that. We all know that. We know how fast cities are growing. Is a 15 year timeline for the master plan good enough? Even if the plan is 15 years, are there intermediate adjustments that need to be done?
+This has been an extremely enlightening conversation. Speaking with you, we have learned a lot of things that we didn't know before it, what it says that it pays to know more history so that you can trace patterns back and understand the journey that people have taken and how it might affect the future, because it's a projection into the future with variables of new generations and new attitudes coming in, new influences coming in, adjusting for that.
 
-01:01:44:18 - 01:01:56:07
+00:48:53:01 - 00:49:27:18
 Speaker 1
-Because this seems to be too big a timeline when we look at how fast we are growing. So what do you think, how these things can be? Because it also led me to think about the ward level planning is that more frequent? How do you
+It's predominantly a similar trajectory going forward and not going to be radically different. Like I said, for me, the Dutch history only began in 1970, but I now know that if you draw the line back on the graph, it does have roots in proactive public policy and public administration and things like that. And I am very afraid now to trace our history back in order to find that if that.
 
-01:01:56:07 - 01:01:57:22
+00:49:27:20 - 00:49:50:07
 Speaker 1
-envision the update frequency for this?
-
-01:01:58:03 - 01:02:24:22
-Speaker 2
-So Sathya your question is moot if you start to think of the new process. Right? The ward level planning is not one time activity. It's continuously happening. So you're bringing in dynamism. And that's what the main idea of planning was, that how do you move from a static plan to a dynamic plan? And the world in its currently mostly, let's say it meets every month, it meets every three months on proactively on deciding on certain issues.
-
-01:02:25:00 - 01:02:52:09
-Speaker 2
-It's already bringing in dynamism into the plan, and that gets constantly updated into the master plan is should not be a one time activity. That's another flaw to the the larger framework. Yes, I would say ten years. You just put down the larger framework because you need a justification. Okay. So you put that down and you see within that the continuous updation will happen from the ground.
+Okay, well, that's what my fear is. If if the public administration is so poor Now and I trace it back and find that it has always been poor, I don't want to extend that into the future. But like you said, we have to look at many other factors. But thank you very much for coming on the show and explaining these factors.
 
-01:02:52:09 - 01:03:14:01
-Speaker 2
-You know, for example, certain non-negotiables here are my lakes, my tanks, my flood plains. These are non buildable. I have mapped them, I've put them there now every world will have to be able to visualize if you're seeing there's a there's a tank here, there's a lake here, there's a water body here. This cannot be touched. Do touch this.
-
-01:03:14:01 - 01:03:16:23
-Speaker 2
-Anything else? You plan it out and I'm ready to approve it.
-
-01:03:16:23 - 01:03:19:12
-Speaker 2
-Right. That's the dynamism we need to bring in.
-
-01:03:19:12 - 01:03:46:03
+00:49:50:07 - 00:50:00:07
 Speaker 1
-So the example would be, let's say this is marked as residential. It allowed C1. I want to upgrade to C2. PSP maybe you're not sorry. These are technical terms We want to include a little bit more commercial or we want to change some things that could be the upgrade. We want to build a college which is PSP4 and I want to bring that level of category to this is that the kind of land use upgrades you see happening rather than go and touch the green.
-
-01:03:46:05 - 01:04:07:18
-Speaker 2
-Yes. So now if I'm and this is real time, I need a college look my court, my court, my I need a public health center. Let's say I don't have it. And I'm not being idealistic when I'm saying these things, but planning has always been a public process till about two decades, three decades ago. We've been trained to think of it as a public process, as a public good.
-
-01:04:07:20 - 01:04:27:00
-Speaker 2
-I want a public health center. I don't have it. I need it now. Let me identify. I since I'm able to see my world, my corporate office, I know that plot is empty. I know that plot belongs to so-and-so person. Either you take it or find a government land and let's put it up there. Like that's the kind of.
+I'm looking forward to having more Indian cities in your cycling city study and I'd like to get in touch with you to see how we can enable that going.
 
-01:04:27:00 - 01:04:45:23
+00:50:00:08 - 00:50:12:00
 Speaker 2
-But there is also a water body here in my in my in my ward And I want this to be preserved as it is. I know it cannot be constructed. I'll look at the buffer It's a no construction zone. So if there is a builder who's proposing something here, I know I have to say no, you're able to visualize it.
-
-01:04:46:04 - 01:05:04:03
-Speaker 2
-And technology today can really help the lot of this visualization in real time so that we don't want these We don't want to because that becomes a problem also from the ten. So I think this question of this 15 years, ten years is dynamism, static is more difficult. The new process is.
-
-01:05:04:03 - 01:05:19:13
-Speaker 1
-that wonderful note. Thanks Anjali for coming on. It was a very interesting conversation. I like to pick up some of these things again, if you have the time to come back on the show and let's pick up on one or two of these issues and deep dive. My pleasure
+I would love to meet any researchers out there who want to join. And so by all means, we need India badly in this project.
 
-01:05:19:13 - 01:05:34:16
+00:50:12:02 - 00:50:29:07
 Speaker 1
-just another call out people to like, subscribe and share these videos so we can bring more interesting guests on back and talk more stuff that could change the nature of urban governance and urban mobility in the city.
+All right, so I'll put a link to your website in the show notes. And this is a call out to researchers and urban planners who are interested in putting your city on the cycling cities map to please click on the link and apply so she can reach out to you and see how the collaboration can be made possible.
 
-01:05:34:18 - 01:05:38:20
+00:50:29:09 - 00:50:52:08
 Speaker 1
-These are all interconnected issues. And see you all next week. Bye bye.
+Don't be afraid of tracing your history. It may or may not be bad, but we can change the future. And with that, here's a call out for everyone to like, subscribe and share. Again, we'll try and bring more interesting guests to you and try and demystify urban form and structure. And today's word of the day is choice. More, mode choice.
 
